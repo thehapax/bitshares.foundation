@@ -1,0 +1,4 @@
+- name: "imprint"
+  link: "/imprint"
+- name: "home"
+  link: "/"

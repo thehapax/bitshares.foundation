@@ -1,0 +1,14 @@
+title: BitShares Foundation
+url: "http://bitshares.foundation"
+baseurl: ""
+markdown: kramdown
+tracking_id: #
+
+sass:
+ style: compressed
+ sass_dir: _sass
+
+collections:
+ workers:
+  output: true
+  permalink: /:collection/:name

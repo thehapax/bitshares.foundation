@@ -9,9 +9,9 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="231.80499mm"
+   width="500mm"
    height="17.441999mm"
-   viewBox="0 0 231.80499 17.441999"
+   viewBox="0 0 499.99999 17.441999"
    version="1.1"
    id="svg8"
    inkscape:export-filename="/home/xeroc/downloads/bitsharesbanner.png"
@@ -46,15 +46,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="327.13984"
-     inkscape:cy="-267.86588"
+     inkscape:zoom="0.9899495"
+     inkscape:cx="1345.7998"
+     inkscape:cy="-39.705567"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1280"
-     inkscape:window-height="997"
-     inkscape:window-x="1680"
+     inkscape:window-width="1680"
+     inkscape:window-height="1023"
+     inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
   <metadata
@@ -75,51 +75,53 @@
      id="layer1"
      transform="translate(0,-279.558)">
     <g
-       id="g4589"
-       transform="translate(-4.1621431,278.05901)">
+       id="g46"
+       inkscape:export-filename="/home/xeroc/downloads/g46.png"
+       inkscape:export-xdpi="400"
+       inkscape:export-ydpi="400">
       <path
-         style="fill:#189fce;fill-rule:evenodd;stroke:none;stroke-width:0.25594318"
+         style="fill:#189fce;fill-rule:evenodd;stroke:none;stroke-width:0.37604985"
          inkscape:connector-curvature="0"
-         d="M 4.1621431,1.4989873 H 235.9674 V 18.940604 H 4.1621431 Z"
+         d="m 0,279.558 h 500.41113 v 17.44161 H 0 Z"
          id="Background" />
       <path
          id="Fill-2"
-         d="M 7.6576113,7.513902 V 9.2624075 H 8.9892829 C 9.0098355,9.1546636 9.0528091,9.0547247 9.113108,8.9678509 L 7.6576113,7.513902"
+         d="m 3.4954682,285.57291 v 1.74851 h 1.3316716 c 0.020553,-0.10775 0.063526,-0.20769 0.1238251,-0.29456 l -1.4554967,-1.45395"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-3"
-         d="M 7.6576113,9.5522131 C 7.6895442,10.022044 7.8768954,10.45302 8.1704068,10.788468 L 9.1127683,9.8472787 C 9.0524694,9.7600655 9.0096656,9.6601267 8.9892829,9.5522131 H 7.6576113"
+         d="m 3.4954682,287.61122 c 0.031933,0.46983 0.2192841,0.90081 0.5127955,1.23626 l 0.9423615,-0.94119 c -0.060299,-0.0872 -0.1031027,-0.18715 -0.1234854,-0.29507 H 3.4954682"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-4"
-         d="M 11.130319,7.8283106 C 10.794343,7.5351115 10.366476,7.3479594 9.8925775,7.3160605 v 1.3321218 c 0.1070093,0.020022 0.2062055,0.061592 0.2926625,0.1206393 l 0.945079,-0.940511"
+         d="m 6.9681759,285.88732 c -0.335976,-0.2932 -0.763843,-0.48035 -1.2377415,-0.51225 v 1.33212 c 0.1070093,0.02 0.2062055,0.0616 0.2926625,0.12064 l 0.945079,-0.94051"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-5"
-         d="m 10.401296,9.8236938 0.94474,0.9435652 c 0.28281,-0.332055 0.466764,-0.755904 0.498528,-1.2186091 h -1.33439 c -0.01851,0.099769 -0.05605,0.1925816 -0.108878,0.2750439"
+         d="m 6.2391529,287.8827 0.94474,0.94357 c 0.28281,-0.33206 0.466764,-0.75591 0.498528,-1.21861 h -1.33439 c -0.01851,0.0998 -0.05605,0.19258 -0.108878,0.27504"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-6"
-         d="M 11.844564,9.2659706 C 11.8128,8.7961393 11.625279,8.3651637 11.331768,8.0297154 l -0.943041,0.942038 c 0.05945,0.087044 0.101234,0.1868127 0.121277,0.2942172 h 1.33456"
+         d="m 7.6824209,287.32498 c -0.031764,-0.46983 -0.219285,-0.90081 -0.512796,-1.23625 l -0.943041,0.94203 c 0.05945,0.0871 0.101234,0.18682 0.121277,0.29422 h 1.33456"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-7"
-         d="m 8.3720259,10.989873 c 0.3359753,0.293199 0.7638428,0.480351 1.2377412,0.51225 v -1.334327 c -0.1068394,-0.01934 -0.2060354,-0.06006 -0.292662,-0.118434 l -0.9450792,0.940511"
+         d="m 4.2098828,289.04888 c 0.3359753,0.2932 0.7638428,0.48035 1.2377412,0.51225 v -1.33432 c -0.1068394,-0.0193 -0.2060354,-0.0601 -0.292662,-0.11844 l -0.9450792,0.94051"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-8"
-         d="m 9.8925775,11.502123 c 0.4738985,-0.0319 0.9017655,-0.219051 1.2377415,-0.51225 l -0.94457,-0.943565 c -0.08663,0.05922 -0.1859923,0.100957 -0.2931715,0.120979 v 1.334836"
+         d="m 5.7304344,289.56113 c 0.4738985,-0.0319 0.9017655,-0.21905 1.2377415,-0.51225 l -0.94457,-0.94356 c -0.08663,0.0592 -0.1859923,0.10095 -0.2931715,0.12098 v 1.33483"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
       <path
          id="Fill-9"
-         d="M 9.6062002,6.4612356 7.6542141,4.7268132 c 0.0034,0 0.0034,2.2924849 0.0034,2.35255 0.3563581,0.3593726 1.4677264,1.469559 1.6754604,1.6770721 0.081871,-0.05226 0.1741025,-0.089758 0.2731286,-0.108253 V 6.4612356"
+         d="M 5.4440571,284.52025 3.492071,282.78582 c 0.0034,0 0.0034,2.29249 0.0034,2.35255 0.3563581,0.35938 1.4677264,1.46956 1.6754604,1.67708 0.081871,-0.0523 0.1741025,-0.0898 0.2731286,-0.10826 v -2.18694"
          inkscape:connector-curvature="0"
          style="fill:#ffffff;fill-rule:evenodd;stroke:none;stroke-width:0.05619476" />
     </g>
