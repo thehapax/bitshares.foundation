@@ -4,10 +4,16 @@ name: Peter Conrad
 company:
  name: Cyrano UG (haftungsbeschränkt)
  url: http://bts.quisquis.de/impressum.html
-layout: default
+layout: worker
+status:
+  proposal-vetted: True
+  worker-created: False
+  worker-approved: False
+  worker-paying: False
+  worker-finished: False
+payments:
+reports:
 ---
-
-![](/img/logo.png)
 
 # Worker Proposal
 
