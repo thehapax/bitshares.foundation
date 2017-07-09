@@ -1,4 +1,4 @@
-- name: "imprint"
-  link: "/imprint"
-- name: "home"
-  link: "/"
+- name: imprint
+  link: /imprint
+- name: home
+  link: /

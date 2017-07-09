@@ -47,9 +47,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="217.17855"
-     inkscape:cy="24.716557"
+     inkscape:zoom="1.4"
+     inkscape:cx="343.44664"
+     inkscape:cy="-12.563314"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -1442,11 +1442,6 @@
        id="path5212" />
     <path
        inkscape:connector-curvature="0"
-       id="path4896"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111259px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#009fe3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 73.993846,285.9945 5.911784,0 0,1.17133 -4.519966,0 0,3.03169 4.078994,0 0,1.17133 -4.078994,0 0,4.91271 -1.391818,0 0,-10.28706 z" />
-    <path
-       inkscape:connector-curvature="0"
        id="path4898"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111259px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#009fe3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 84.5634,289.45338 q -1.019749,0 -1.612305,0.79926 -0.592557,0.79237 -0.592557,2.1773 0,1.38493 0.585667,2.18419 0.592556,0.79237 1.619195,0.79237 1.012858,0 1.605414,-0.79926 0.592557,-0.79926 0.592557,-2.1773 0,-1.37115 -0.592557,-2.17041 -0.592556,-0.80615 -1.605414,-0.80615 z m 0,-1.07487 q 1.653646,0 2.597602,1.07487 0.943956,1.07487 0.943956,2.97656 0,1.8948 -0.943956,2.97656 -0.943956,1.07487 -2.597602,1.07487 -1.660537,0 -2.604493,-1.07487 -0.937066,-1.08176 -0.937066,-2.97656 0,-1.90169 0.937066,-2.97656 0.943956,-1.07487 2.604493,-1.07487 z" />
@@ -1496,5 +1491,16 @@
        points="361.2,284.8 351.8,276.9 351.8,265.7 361.2,273.5 "
        id="polygon5194-7"
        transform="matrix(0.1846776,0,0,0.1846776,65.82737,235.25514)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.11111259px;line-height:125%;font-family:sans-serif;-inkscape-font-specification:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#009fe3;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="75.363342"
+       y="296.28156"
+       id="text3594"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3596"
+         x="75.363342"
+         y="296.28156">f</tspan></text>
   </g>
 </svg>

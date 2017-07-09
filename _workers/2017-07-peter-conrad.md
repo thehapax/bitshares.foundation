@@ -13,6 +13,8 @@ status:
   worker-finished: False
 payments:
 reports:
+price: $23k
+duration: 2 months
 ---
 
 # Worker Proposal
