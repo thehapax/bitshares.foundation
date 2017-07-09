@@ -58,6 +58,10 @@ footer {
     list-style-type: none;
     margin: 0 5px 0 10px;
 }
+.navbar .logo {
+    height: 4rem;
+    margin-top: -2rem;
+}
 .alignable {
     display: inline-block;
 }
@@ -70,6 +74,7 @@ footer {
     float: right;
 }
 
+/* Workers */
 .worker-list {
 }
 
@@ -85,6 +90,26 @@ footer {
 .worker-title {
  font-size: 1.4rem;
  margin-left: 1rem;
+}
+
+/* Partners */
+.thumbnail a img {
+ height: 64px;
+ margin-top: 5px;
+ height: 64px;
+}
+.thumbnail {
+ padding-bottom:0em;
+ width: 120px;
+ min-height: 140px;
+ max-height: 140px;
+}
+.thumbnail .caption {
+ margin-top: -10px;
+}
+
+.text-center {
+  text-align: center;
 }
 
 /* Divs */

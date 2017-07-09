@@ -12,3 +12,4 @@ collections:
  workers:
   output: true
   permalink: /:collection/:name
+ partners:
