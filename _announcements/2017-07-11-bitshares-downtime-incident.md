@@ -20,10 +20,10 @@ been unaltered.
 Unfortunately, the nature of the patch **requires all nodes to apply the
 patch**, accordingly, in order to sync back with the blockchain. We recommend
 exchanges and third party providers to update their backend to tag
-`v2.0.170710` and rebuild. The following steps facilitate this update:
+`2.0.170710` and rebuild. The following steps facilitate this update:
 
     git fetch
-    git checkout v2.0.170710
+    git checkout 2.0.170710
     git submodule update --init --recursive
     make
 
