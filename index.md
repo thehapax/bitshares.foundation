@@ -2,10 +2,11 @@
 layout: default
 ---
 
-The BitShares Foundation is registered in Deventer, Netherlands. It is
-operational since June 2016 and has been preparing industries behind the scenes
-ever since. It is a pleasure to become more operational in the near future and
-grow the BitShares ecosystem to its full potential.
+The Stichting BitShares Blockchain Foundation (BitShares.Foundation) is
+registered in Deventer, Netherlands. It is operational since June 2016
+and has been preparing industries behind the scenes ever since. The
+Foundation's mission is to promote, advocate and grow the BitShares
+ecosystem to its full potential.
 
 ## Announcements
 
