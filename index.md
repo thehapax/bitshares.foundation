@@ -2,11 +2,10 @@
 layout: default
 ---
 
-The *Stichting BitShares Blockchain Foundation* (BitShares.Foundation)
-is a non-profit organization registered in Deventer, Netherlands. It is
-operational since June 2016 and has been preparing industries behind the
-scenes ever since. The Foundation's mission is to promote, advocate and
-grow the BitShares ecosystem to its full potential.
+The *(Stichting) BitShares Blockchain Foundation* is a non-profit organization
+registered in Deventer, Netherlands. It is operational since June 2016 and has
+been preparing industries behind the scenes ever since. The Foundation's mission
+is to promote, advocate and grow the BitShares ecosystem to its full potential.
 
 ## Announcements
 
@@ -22,16 +21,17 @@ and projects running on top of BitShares.
 
 ## Escrow Workers
 
-The BitShares Foundation takes a lead in managing worker proposals on
+The BitShares Blockchain Foundation takes a lead in managing worker proposals on
 BitShares. Freelancers around the world that want to work for the BitShares DAC
 are organized through our trusted escrow setup which carefully vets worker
-proposals of freelancers, sets them up on the blockchain and ensures the
-maximum of code quality for the BitShares shareholders. {[more](/worker)}
+proposals of freelancers, sets them up on the blockchain and ensures the maximum
+of code quality for the BitShares shareholders. {[more](/worker)}
 
 ## Business Development
 
-With the BitShares Foundation, there now is a well-supported entity that feels
-responsible for BitShares and its growth. Throughout the last months, we have
-been working tirelessly to advocate partners and businesses about the
+With the BitShares Blockchain Foundation, there now is a well-supported entity
+that feels responsible for BitShares and its growth. Throughout the last months,
+we have been working tirelessly to advocate partners and businesses about the
 technological advantages we have over our competitors - with great success. The
-BitShares foundation is pleased to announce partnerships as they mature.
+BitShares Blockchain foundation is pleased to announce partnerships as they
+mature.

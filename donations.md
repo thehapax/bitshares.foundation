@@ -3,8 +3,9 @@ layout: default
 permalink: /donations
 ---
 
-The BitShares foundation is funded and supported through donations by
-individuals and partner companies throughout the BitShares ecosystem.
+The BitShares Blockchain foundation is funded and supported through
+donations by individuals and partner companies throughout the BitShares
+ecosystem.
 
 ### Donation Account
 

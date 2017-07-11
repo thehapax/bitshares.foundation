@@ -7,7 +7,7 @@ On Monday, July 10th 2017 at 9:00am UTC, an incident occurred on the BitShares
 network that caused an unplanned interruption of block production. All block
 producers have been affected by a memory corruption that was caused by an
 automatic resize of a `flat_index` container that resulted in an unrecoverable
-stale state. This has happend for the first time in over two years of
+stale state. This has happened for the first time in over two years of
 blockchain operations.
 
 After several core developers debugging the code, the cause was identified and
@@ -19,7 +19,7 @@ been unaltered.
 
 Unfortunately, the nature of the patch **requires all nodes to apply the
 patch**, accordingly, in order to sync back with the blockchain. We recommend
-exchanges and third party providers to update their backend to tag
+exchanges and third party providers to update their back-end to tag
 `2.0.170710` and rebuild. The following steps facilitate this update:
 
     git fetch
@@ -29,17 +29,17 @@ exchanges and third party providers to update their backend to tag
 
 ### Acknowledgement
 
-The BitShares Foundation would like to thank the core developers for their
-short response time and for resolving the issue in a timely manner.
+The BitShares Blockchain Foundation would like to thank the core developers for
+their short response time and for resolving the issue in a timely manner.
 
 ### Announcement Mailing List
 
-In order to improve responsiveness, the BitShares Foundation has set up several
-mailing lists including a low noise `critical` and an `announcement` list that
-we recommend fundamental industry partners (like exchanges and money
+In order to improve responsiveness, the BitShares Blockchain Foundation has set
+up several mailing lists including a low noise `critical` and an `announcement`
+list that we recommend fundamental industry partners (like exchanges and money
 transmitting partners) to [subscribe to](http://lists.bitshares.foundation).
-This reduces the latency for businesses for receiving alert messages regarding
-the BitShares network.
+This will enable all businesses in the BitShares network to be aware of all
+latest developments.
 
 ### Technical Description and Patch Description
 
@@ -50,9 +50,9 @@ block producers from producing blocks. Since object ids are supposed to not
 change, this has lead the BitShares developers to believe that a memory
 corruption caused the assertion.
 
-After several attempts to identify the cause of the memory corruption, Daniel
-Larimer gave the crucial hint about the potential of a `flat_index` container
-corrupting the memory on a resize.
+While attempting to identify the cause of the memory corruption, Daniel
+Larimer gave the crucial hint about the potential of a `flat_index`
+container corrupting the memory on a resize.
 
 A simple [five line
 patch](https://github.com/bitshares/bitshares-core/commit/67804359693168f16db98b40319593b64b6a9eed)

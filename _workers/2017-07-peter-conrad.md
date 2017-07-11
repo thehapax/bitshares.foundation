@@ -19,10 +19,11 @@ duration: 2 months
 
 # Worker Proposal
 
-This document presents a worker proposal to the BitShares shareholders curated and 
-supported by the BitShares Foundation. We see a need for a few updates on the BitShares
-network and would like begin with the proposed work below. Further more, we are happy
-to announce that we already have a freelancer that is taking up this task for us:
+This document presents a worker proposal to the BitShares shareholders curated
+and supported by the BitShares Blockchain Foundation. We see a need for a few
+updates on the BitShares network and would like begin with the proposed work
+below. Further more, we are happy to announce that we already have a freelancer
+that is taking up this task for us:
 
 **Peter Conrad**, also known as @pc and a knowledgable and long-standing member of the
 community and active developer for years.
@@ -61,7 +62,7 @@ produce blocks. With the current price of BTS, witness pay should be sufficient
 reward for their efforts.
 
 The milestones are verified and validated by ChainSquad GmbH on behalf of
-BitShares Foundation.
+BitShares Blockchain Foundation.
 
 This means that the shareholders obtain a ready-to-run and tested patch that to
 be included in the BitShares network through a hardfork.
