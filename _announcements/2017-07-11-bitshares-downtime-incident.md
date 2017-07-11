@@ -55,9 +55,8 @@ While attempting to identify the cause of the memory corruption, Daniel
 Larimer gave the crucial hint about the potential of a `flat_index`
 container corrupting the memory on a resize.
 
-A simple [five line
-patch](https://github.com/bitshares/bitshares-core/commit/67804359693168f16db98b40319593b64b6a9eed)
+A simple [five line patch](https://github.com/bitshares/bitshares-core/commit/67804359693168f16db98b40319593b64b6a9eed)
 replacing the `flat_index` container with a `generic_index` container solved
 the memory corruption and thus the block production issue. Going forward, all
-`flat_index` containers are going to be replaced by the more robust generic
-implementation.
+use of `flat_index` is revisited and a general replacement by `generic_index`
+will be [evaluated and tested](https://github.com/bitshares/bitshares-core/issues/325).
