@@ -3,13 +3,13 @@ layout: default
 permalink: /imprint
 ---
 
-BitShares Foundation is registered in 
+The **Stichting BitShares Blockchain Foundation** is registered in 
 
+    Stichting BitShares Blockchain Foundation
     Pothoofd 24
     7411ZB Deventer
     Netherlands
 
-    KVK nummer: 66189985
-    RSIN: 856434449
+    KVK nummer: 66190169
 
     mail: info@bitshares.foundation
