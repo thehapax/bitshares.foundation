@@ -3,7 +3,7 @@ title: BitShares Block Production Incident Report
 layout: announcement
 ---
 
-On Monday, July 10th 2017 at 8:30am UTC, an incident occurred on the BitShares
+On Monday, July 10th 2017 at 9:00am UTC, an incident occurred on the BitShares
 network that caused an unplanned interruption of block production. All block
 producers have been affected by a memory corruption that was caused by an
 automatic resize of a `flat_index` container that resulted in an unrecoverable
