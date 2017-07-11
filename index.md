@@ -7,10 +7,9 @@ operational since June 2016 and has been preparing industries behind the scenes
 ever since. It is a pleasure to become more operational in the near future and
 grow the BitShares ecosystem to its full potential.
 
-# Team
+# Announcements
 
-* Ronald Cramer (Board member)
-* Fabian Schuh (Technical Advisor)
+{% include ann.html %}
 
 # Transparent Communication
 
