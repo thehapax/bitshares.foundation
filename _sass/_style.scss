@@ -36,6 +36,18 @@ footer {
   background-size: auto 64px;
 }
 
+pre {
+  padding: 10px;
+  background-color: #EEE;
+  margin-left: 1rem;
+  border-left: 4px solid #189fceff;
+}
+
+h1, h2, h3, h4, h5 {
+  border-bottom: 1px solid #189fceff;
+  color: #555;
+}
+
 /*
  * Navbar
  */

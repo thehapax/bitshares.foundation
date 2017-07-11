@@ -1,4 +1,6 @@
 - name: imprint
   link: /imprint
+- name: donations
+  link: /donations
 - name: home
   link: /
