@@ -7,7 +7,8 @@ On Monday, July 10th 2017 at 8:30am UTC, an incident occurred on the BitShares
 network that caused an unplanned interruption of block production. All block
 producers have been affected by a memory corruption that was caused by an
 automatic resize of a `flat_index` container that resulted in an unrecoverable
-stale state.
+stale state. This has happend for the first time in over two years of
+blockchain operations.
 
 After several core developers debugging the code, the cause was identified and
 a patch was quickly delivered to the block producers. Shortly after that, the
@@ -42,15 +43,17 @@ for receiving alert messages regarding the BitShares network.
 ### Technical Description and Patch Description
 
 The incident caused the block production to halt due to bitasset data for
-the `GAS` asset (`2.4.0`) returning an object id `0.0.0`. Since object ids
-are supposed to not change, this has lead the BitShares developers to believe
-that a memory corruption caused the assertion.
+the `GAS` asset (`2.4.0`) returning an object id `0.0.0`. This error was
+triggered during a maintenance interval and threw an assertion that prevented
+block producers from producing blocks. Since object ids are supposed to not
+change, this has lead the BitShares developers to believe that a memory
+corruption caused the assertion.
 
 After several attempts to identify the cause of the memory corruption, Daniel
 Larimer gave the crucial hint about the potential of a `flat_index` container
 corrupting the memory on a resize.
 
-A simple [two line
+A simple [five line
 patch](https://github.com/bitshares/bitshares-core/commit/67804359693168f16db98b40319593b64b6a9eed)
 replacing the `flat_index` container with a `generic_index` container solved
 the memory corruption and thus the block production issue. Going forward, all
