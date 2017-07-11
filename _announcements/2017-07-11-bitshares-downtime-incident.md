@@ -35,10 +35,11 @@ short response time and for resolving the issue in a timely manner.
 ### Announcement Mailing List
 
 In order to improve responsiveness, the BitShares Foundation has set up several
-mailing lists including a low noise `announcements-critical` that we recommend
-exchanges and partners of BitShares to [subscribe
-to](http://lists.bitshares.foundation). This reduces the latency for exchanges
-for receiving alert messages regarding the BitShares network.
+mailing lists including a low noise `critical` and an `announcement` list that
+we recommend fundamental industry partners (like exchanges and money
+transmitting partners) to [subscribe to](http://lists.bitshares.foundation).
+This reduces the latency for businesses for receiving alert messages regarding
+the BitShares network.
 
 ### Technical Description and Patch Description
 
