@@ -14,8 +14,8 @@ After several core developers debugging the code, the cause was identified and
 a patch was quickly delivered to the block producers. Shortly after that, the
 blockchain recovered and new blocks have been generated.
 
-All transaction that made it into the blockchain prior to this incident have
-been unaltered.
+All transaction that made it into the blockchain prior to this incident are
+unaltered!
 
 Unfortunately, the nature of the patch **requires all nodes to apply the
 patch**, accordingly, in order to sync back with the blockchain. We recommend
