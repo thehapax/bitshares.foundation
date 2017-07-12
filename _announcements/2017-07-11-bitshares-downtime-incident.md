@@ -60,3 +60,19 @@ replacing the `flat_index` container with a `generic_index` container solved
 the memory corruption and thus the block production issue. Going forward, all
 use of `flat_index` is revisited and a general replacement by `generic_index`
 will be [evaluated and tested](https://github.com/bitshares/bitshares-core/issues/325).
+
+#### Update - Wed Jul 12
+
+As it turned out after further investigation, the root cause was an
+inappropriate implementation of [`flat_index::remove`](https://github.com/bitshares/bitshares-core/blob/master/libraries/db/include/graphene/db/flat_index.hpp#L73)
+that only zeroed an entry instead of removing the whole element from the
+container. What happens is that a new bitasset has been proposed but the
+proposal wasn't fully approved. The bitasset data was created in the
+database and then zeroed instead of being removed after expiration of
+the proposal. This is the first time in the history of our chain when
+`flat_index::remove` was called.
+
+The conclusion is that `flat_index` is not made for having items
+removed. Proposals can always lead to items being removed, which means
+that `flat_index` is not suitable for the job and should be replaced in
+all places.
