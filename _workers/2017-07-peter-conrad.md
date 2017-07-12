@@ -1,4 +1,6 @@
 ---
+bfid: 201707-bsip18
+workerid: 1.14.56
 title: Implementation of BSIP-18
 name: Peter Conrad
 company:
@@ -7,7 +9,7 @@ company:
 layout: worker
 status:
   proposal-vetted: True
-  worker-created: False
+  worker-created: True
   worker-approved: False
   worker-paying: False
   worker-finished: False
@@ -25,8 +27,8 @@ updates on the BitShares network and would like begin with the proposed work
 below. Further more, we are happy to announce that we already have a freelancer
 that is taking up this task for us:
 
-**Peter Conrad**, also known as @pc and a knowledgable and long-standing member of the
-community and active developer for years.
+**Peter Conrad**, also known as @pc and a knowledgable and long-standing
+member of the community and active developer for years.
 
 # Proposed Work
 

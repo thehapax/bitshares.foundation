@@ -1,16 +1,18 @@
 <section class="post-list">
   <div class="container">
    <ul>
-    {% for post in site.workers %}
+    {% for worker in site.workers %}
       <li>
         <span class="worker-list">
-          {{ post.date | date: "%Y %b %d" }} by
-          <span class="worker-name">{{ post.name }}</span>
+          {{ worker.date | date: "%Y %b %d" }} by
+          <span class="worker-id">{{ worker.od }}</span>
+          <span class="worker-name">{{ worker.name }}</span>
+          - 
           <span class="worker-company">
-           <a target="_blank" href="{{post.company.url}}">{{post.company.name}}</a>
+           <a target="_blank" href="{{worker.company.url}}">{{worker.company.name}}</a>
           </span>
          </span>
-        <div class="worker-title"><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></div>
+        <div class="worker-title"><a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a></div>
       </li>
     {% endfor %}
    </ul>
