@@ -2,7 +2,7 @@ title: BitShares Blockchain Foundation
 url: "http://www.bitshares.foundation"
 baseurl: ""
 markdown: kramdown
-tracking_id: #
+tracking_id: UA-102444300-1
 
 sass:
  style: compressed
