@@ -10,12 +10,13 @@ layout: worker
 status:
   proposal-vetted: True
   worker-created: True
-  worker-approved: False
+  worker-approved: True
   worker-paying: False
   worker-finished: False
 payments:
 reports:
-price: $23k
+ - https://github.com/bitshares/bitshares-core/pull/340
+price: $23,000
 duration: 2 months
 ---
 
