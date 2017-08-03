@@ -14,6 +14,8 @@ status:
   worker-paying: False
   worker-finished: False
 discussions:
+ - name: steemit/@billbutler
+   url: https://steemit.com/bitshares/@billbutler/bitsharesui-worker-proposal-1-14-58
 payments:
 price: 150,000$
 duration: 6 months
