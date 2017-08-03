@@ -1,7 +1,7 @@
 ---
 layout: worker
 bfid: 201708-bitsharesui
-workerid:
+workerid: 1.14.58
 title: BitShares UI Team
 name: Bill Butler
 company:
@@ -9,7 +9,7 @@ company:
   url:
 status:
   proposal-vetted: True
-  worker-created: False
+  worker-created: True
   worker-approved: False
   worker-paying: False
   worker-finished: False
