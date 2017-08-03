@@ -1,16 +1,18 @@
 <section class="post-list">
   <div class="container">
    <ul>
-    {% for worker in site.workers %}
+    {% for worker in site.workers | sort: 'bfid' %}
       <li>
         <span class="worker-list">
-          {{ worker.date | date: "%Y %b %d" }} by
+          {{ worker.start | date: "%Y/%b/%d" }} by
           <span class="worker-id">{{ worker.od }}</span>
           <span class="worker-name">{{ worker.name }}</span>
-          - 
-          <span class="worker-company">
-           <a target="_blank" href="{{worker.company.url}}">{{worker.company.name}}</a>
-          </span>
+          {% if worker.company.url %}
+             - 
+             <span class="worker-company">
+              <a target="_blank" href="{{worker.company.url}}">{{worker.company.name}}</a>
+             </span>
+          {% endif %}
          </span>
         <div class="worker-title"><a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a></div>
       </li>

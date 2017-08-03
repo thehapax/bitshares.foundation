@@ -14,7 +14,10 @@
      </tr>
      <tr>
       <th colspan=2>Freelancer</th>
-      <td colspan=3>{{page.name}} - <a href="{{page.company.url}}">{{page.company.name}}</a></td>
+      <td colspan=3>{{page.name}}
+       {% if page.company.url %}
+       - <a href="{{page.company.url}}">{{page.company.name}}</a></td>
+       {% endif %}
      </tr>
      <tr>
       <th colspan=2>Total</th>
@@ -27,6 +30,18 @@
      <tr>
       <th colspan=2>Worker ID</th>
       <td colspan=3>{{page.workerid}}</td>
+     </tr>
+     <tr>
+      <th colspan=2>Discussions</th>
+      <td colspan=3>
+       <ul>
+       {% for d in page.discussions %}
+       <li>
+        <a href="{{d.url}}">{{d.name}}</a>
+       </li>
+       {% endfor %}
+       </ul>
+      </td>
      </tr>
      <tr>
       <th colspan=5 class="text-center">Status</th>

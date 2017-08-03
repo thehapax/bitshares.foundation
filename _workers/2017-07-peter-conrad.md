@@ -1,4 +1,5 @@
 ---
+layout: worker
 bfid: 201707-bsip18
 workerid: 1.14.56
 title: Implementation of BSIP-18
@@ -6,7 +7,6 @@ name: Peter Conrad
 company:
  name: Cyrano UG (haftungsbeschränkt)
  url: http://bts.quisquis.de/impressum.html
-layout: worker
 status:
   proposal-vetted: True
   worker-created: True
@@ -14,10 +14,13 @@ status:
   worker-paying: False
   worker-finished: False
 payments:
-reports:
- - https://github.com/bitshares/bitshares-core/pull/340
+discussions:
+  - url: https://github.com/bitshares/bitshares-core/pull/340
+    name: github/issue
 price: $23,000
 duration: 2 months
+start: 2017/08/01
+end: 2018/10/30
 ---
 
 # Worker Proposal
