@@ -18,6 +18,7 @@ risks and costs for the BitShares shareholders:
 * For this reasons and due to volatility of BTS, the actual pay of the worker is higher than the USD value.
 * The worker will only pay the agreed amount of money and pay only in bitUSD to the `bitshares.foundation` account.
 * Every BTS that is not paid out after the end of the worker will be returned to the BitShares shareholders through the reserve fund.
+* In the event a worker is voted out prior to its completion, the pro-rata share of payment will be made to the freelancer and the contract will be closed.
 
 ## Legal Setup
 
