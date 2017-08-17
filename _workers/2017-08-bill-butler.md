@@ -34,6 +34,17 @@ The goal of assembling this team is to better understand the various use
 cases for BitShares and, based upon that information, craft an improved
 user experience.
 
+# Bounties
+
+Issues located at
+[bitshares/bitshares-ui](https://github.com/bitshares/bitshares-ui/issues)
+will be gathered into Milestones with a two week release schedule.
+Anyone in the community will be able to claim, work and submit a PR for
+that issue. If the PR is accepted, the user will be paid according to
+the terms on the
+[README.md](https://github.com/bitshares/bitshares-ui/blob/bitshares/README.md)
+under the Development Process heading.
+
 # Prioritization
 
 There are many opinions across the BitShares community about what is
