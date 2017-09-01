@@ -25,7 +25,7 @@
      </tr>
      <tr>
       <th colspan=2>Duration</th>
-      <td colspan=3>{{page.duration}}</td>
+      <td colspan=3>{{page.start}} - {{page.end}} ({{page.duration}})</td>
      </tr>
      <tr>
       <th colspan=2>Worker ID</th>
@@ -38,6 +38,30 @@
        {% for d in page.discussions %}
        <li>
         <a href="{{d.url}}">{{d.name}}</a>
+       </li>
+       {% endfor %}
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <th colspan=2>Invoices</th>
+      <td colspan=3>
+       <ul>
+       {% for d in page.invoices %}
+       <li>
+        <a href="{{ site.url }}/download/invoices/{{d}}">{{d}}</a>
+       </li>
+       {% endfor %}
+       </ul>
+      </td>
+     </tr>
+     <tr>
+      <th colspan=2>Payments</th>
+      <td colspan=3>
+       <ul>
+       {% for d in page.payments %}
+       <li>
+        {{d.date}} - <a href="http://bitshares-explorer.io:9009/#/objects/{{ d.opid }}">{{d.amount}}</a>
        </li>
        {% endfor %}
        </ul>
