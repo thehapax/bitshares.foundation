@@ -1,7 +1,8 @@
 <section class="post-list">
   <div class="container">
    <ul>
-    {% for worker in site.workers | sort: 'bfid' %}
+    {% assign sorted = site.workers | sort: 'bfid' | reverse %}
+    {% for worker in sorted %}
       <li>
         <span class="worker-list">
           {{ worker.start | date: "%Y/%b/%d" }} by
