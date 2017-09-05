@@ -14,6 +14,8 @@ status:
   worker-paying: False
   worker-finished: False
 discussions:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php/topic,24937.0.html
 payments:
 paymentaccount: roelandp
 invoices:
