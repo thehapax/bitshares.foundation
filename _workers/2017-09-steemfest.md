@@ -9,7 +9,7 @@ company:
   url:
 status:
   proposal-vetted: True
-  worker-created: False
+  worker-created: True
   worker-approved: False
   worker-paying: False
   worker-finished: False
