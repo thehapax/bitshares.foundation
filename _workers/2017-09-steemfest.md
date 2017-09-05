@@ -1,7 +1,7 @@
 ---
 layout: worker
 bfid: 201709-steemfest
-workerid:
+workerid: 1.14.59
 title: Steemfest-Hackathon Focus Chain Sponsorship and Prize
 name: Roeland P Landegent
 company:
