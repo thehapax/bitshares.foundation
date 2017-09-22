@@ -10,7 +10,7 @@ company:
 status:
   proposal-vetted: True
   worker-created: True
-  worker-approved: False
+  worker-approved: True
   worker-paying: False
   worker-finished: False
 discussions:
