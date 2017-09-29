@@ -34,6 +34,12 @@ Additional partners of the BitShares Blockchain Foundation may be added to the
 multi-signature scheme to strengthen the quality protocols and add additional
 expertise.
 
+## Accounting
+
+The the sake of **transparency and accountability**, we have the
+accounting for the escrow workers under public domain. You can read
+more about this on our dedicated [Accountability Page](/accounting).
+
 ## Worker Proposals
 
 {% include workers.html %}
