@@ -25,10 +25,14 @@ payments:
  - date: 2017/09/01
    opid: 1.11.63249836
    amount: 13,312.50 bitUSD
+ - date: 2017/10/04
+   opid: 1.11.75021716
+   amount: 7,468.75 bitUSD
 paymentaccount: bitshares-ui
 invoices:
  - 201708-bitsharesui-Sprint-170901.xlsx
  - 201708-bitsharesui-Sprint-170915.xlsx
+ - 201708-bitsharesui-Sprint-171001.xlsx
 price: 150,000$
 duration: 6 months
 start: 2017/08/15
