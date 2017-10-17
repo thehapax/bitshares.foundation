@@ -28,18 +28,18 @@ end: 2018/12/31
 As many already know, there was an announcement made by a major exchange
 partner to de-list BTS from their books. This resulted in a loss of $100
 Mio. in BitShares valuation. In combination with market pegged assets,
-this resulted in unpleasant and unforeseeably consequences for many
+this resulted in unpleasant and unforeseeable consequences for many
 BitShares users.
 
 The de-listing indicates a trend in recent activity by the SEC and other
 regulators and governments worldwide that will only increase as the
 whole blockchain space matures. This trend is a strong signal for
-Bitshares to adapt to new conditions that rapidly close in on the
+BitShares to adapt to new conditions that rapidly close in on the
 platform. The strength of BitShares is that of technical superiority,
 but by nature of its decentralized and autonomous community organization
 all the rest is not continuously attended, unlike most other platforms
 which generally have strong, centralized developer teams. This has left
-Bitshares with poor marketing, outdated  and often incorrect
+BitShares with poor marketing, outdated  and often incorrect
 documentation and a lack of general coordination, whether it be in
 development or in communicating with exchanges and regulatory bodies. In
 order to address these issues we are making this proposal.
@@ -48,7 +48,7 @@ order to address these issues we are making this proposal.
 
 ## Market Exposure
 
-The objective to stabilize and further the position of BitShares as a
+The objective is to stabilize and further the position of BitShares as a
 whole in the market by leading the process towards better market
 exposure of BitShares and improved market liquidity by means of having
 BTS (and other assets) listed on more exchanges.

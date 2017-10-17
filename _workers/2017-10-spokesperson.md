@@ -44,7 +44,7 @@ change.
 Our team is based throughout Europe and has two bodies in the shape of
 Foundations:
 
-* **BitShares Foundation**, that deals with eduction sessions on request
+* **BitShares Foundation**, that deals with education sessions on request
   and Escrow services and 
 * **BitShares Blockchain Foundation**, that deals with processing worker
   proposals and technical aspects of the platform, as well as keeping in
