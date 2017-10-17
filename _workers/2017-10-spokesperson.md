@@ -119,10 +119,10 @@ quality results.
 * **Annemieke Dirkes**, CEO and founder of (amongst others) Blockchain
   BV, Blockchain Projects BV, Blockchain Development UG. In IT since
   1987, in managerial roles since 1990. Expertise in general and business
-  development with a strong focus on compliance and legal. She did upon
-  request the meeting with Bittrex Inc., looking for clearing up the
-  situation and looking for solutions. She will continue to do these
-  conversations or coordinate.
+  development with a strong focus on compliance and legal. She has
+  already met with representatives of Bittrex Inc. and working on clearing
+  up the situation and looking for positive solutions. She will continue
+  to do these conversations or coordinate.
 
 * **Danique Sterenborg**, Consultant and Project Manager. Danique is a
   recent *cum laude* Master in Business, accountancy and Finance at
@@ -130,13 +130,13 @@ quality results.
   coordinating the content changes in documentation.
 
 * **Fabian Schuh**, CEO and founder of ChainSquad GmbH and Blockchain
-  Development UG. Will be assisting in all matters historically and
-  technically to further the process of creating a clear and transparent
-  picture of the BitShares Blockchain.
+  Development UG, also known as **xeroc**. Will be assisting in all
+  matters historical and technical to further the process of creating a
+  clear and transparent picture of the BitShares Blockchain.
 
 * **Ronald Kramer**, Registered Accountant, Fintech and Blockchain
   expert. Next to being CFO of the named companies, Chairman of the
   BitShares Blockchain Foundation, Founder of the Blockchain Academy and
-  part of Saxion university developments in Blockchain. Ronald will engage
-  in all financial payments made and the proper documentation towards the
-  community where payments on the proposals are made.
+  part of Saxion university developments in Blockchain, Ronald will be
+  responsible for all financial payments made and provide proper
+  documentation to the community where payments on the proposals are made.
