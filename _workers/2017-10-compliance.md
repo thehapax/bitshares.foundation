@@ -14,6 +14,8 @@ status:
   worker-paying: False
   worker-finished: False
 discussions:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php/topic,25144.0.html
 payments:
 paymentaccount: blockchainprojects
 invoices:
