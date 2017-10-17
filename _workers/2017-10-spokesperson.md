@@ -122,7 +122,7 @@ quality results.
   development with a strong focus on compliance and legal. She has
   already met with representatives of Bittrex Inc. and working on clearing
   up the situation and looking for positive solutions. She will continue
-  to do these conversations or coordinate.
+  to have these conversations or coordinate.
 
 * **Danique Sterenborg**, Consultant and Project Manager. Danique is a
   recent *cum laude* Master in Business, accountancy and Finance at
