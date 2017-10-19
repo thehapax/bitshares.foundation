@@ -18,9 +18,9 @@ long as proposal keeps the required approve during the next 15 months.
 
 We would like to emphasize that this mandate does not allow us to direct
 the future of the BitShares blockchain. If we see need for further
-approval by BTS holders or we to make changes to the underlying
-protocol, separate proposals will need to undergo the scrutiny of the
-BTS holders by means of approval voting.
+approval by BTS holders or to make changes to the underlying protocol,
+separate proposals will need to undergo the scrutiny of the BTS holders
+by means of approval voting.
 
 We would like to say **_thank you_** to all involved! We feel very
 honored by the trust and faith the community has given to us and are
