@@ -1,7 +1,8 @@
 <section class="post-list">
   <div class="container">
    <ul>
-    {% for post in site.announcements %}
+    {% assign sorted = site.announcements | sort: 'date' | reverse %}
+    {% for post in sorted %}
     <li>
      <div class="ann">
       <span class="ann-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
