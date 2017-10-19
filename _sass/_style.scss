@@ -46,7 +46,15 @@ pre {
 h1, h2, h3, h4, h5 {
   border-bottom: 1px solid #189fceff;
   color: #555;
+
+  .subheader {
+    font-size: 0.8rem;
+    font-weight: 200;
+    margin-top: 0.4rem;
+    font-style: italic;
+  }
 }
+
 
 /*
  * Navbar

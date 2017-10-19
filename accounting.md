@@ -76,7 +76,7 @@ In order to keep track of which worker has obtained how many BTS (in the `worker
 
 ## Foundation Accounts
 
-With the help of `ledger` we can give a quick summary of the accounting and individual balances. Let's dig into this real quick (state of 2017/09/29):
+With the help of `ledger` we can give a quick summary of the accounting and individual balances. Let's dig into this real quick (state of **2017/09/29**):
 
 ```
      1       3,000 BEYONDBIT

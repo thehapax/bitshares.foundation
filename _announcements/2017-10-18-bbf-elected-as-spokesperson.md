@@ -3,7 +3,7 @@ title: BitShares Blockchain Foundation elected as official Spokesperson for its 
 layout: announcement
 ---
 
-Yesterday, the BTS holders have voted in favor of the worker proposal
+On Oct. 17th, the BTS holders have voted in favor of the worker proposal
 [201710-spokesperson](http://www.bitshares.foundation/workers/2017-10-spokesperson)
 that was submitted by the BitShares Blockchain Foundation. The worker
 proposal arose in response to the turmoil around BitShares last week.

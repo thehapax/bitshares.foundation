@@ -3,8 +3,12 @@
  <div class="wrapper">
   {% include navbar.html %}
   <div class="container content">
-   <h2>{{page.title}}</h2>
-   {{ content }}
+   <h2>{{page.title}}
+    <p class="subheader">approved and published on {{ page.date | date: "%m/%d/%Y" }}</p>
+   </h2>
+   <p>
+    {{ content }}
+   </p>
   </div>
  </div>
  {% include footer.html %}
