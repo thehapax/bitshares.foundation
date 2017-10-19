@@ -11,9 +11,10 @@ on the BitShares platform.
 
 Shortly after, he approached other core developers about further
 findings that need immediate attention. The core of the problem lies in
-[this line](https://github.com/bitshares/bitshares-core/blob/2.0.170710/libraries/chain/asset_evaluator.cpp#L94)
-and
+[this line](https://github.com/bitshares/bitshares-core/blob/2.0.170710/libraries/chain/asset_evaluator.cpp#L94),
 [this line](https://github.com/bitshares/bitshares-core/blob/2.0.170710/libraries/chain/asset_evaluator.cpp#L127),
+and
+[this line](https://github.com/bitshares/bitshares-core/blob/2.0.170710/libraries/chain/evaluator.cpp#L89),
 and would have allowed an user to obtain free BTS tokens by crafting an
 `asset_create_operation` in a certain way.
 
