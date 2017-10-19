@@ -1,5 +1,5 @@
 ---
-title: Asset Creation Temporarily supsended
+title: Asset Creation Temporarily suspended
 layout: announcement
 ---
 
