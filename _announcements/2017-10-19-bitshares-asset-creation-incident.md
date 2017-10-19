@@ -16,7 +16,8 @@ findings that need immediate attention. The core of the problem lies in
 and
 [this line](https://github.com/bitshares/bitshares-core/blob/2.0.170710/libraries/chain/evaluator.cpp#L89),
 and would have allowed an user to obtain free BTS tokens by crafting an
-`asset_create_operation` in a certain way.
+`asset_create_operation` in a certain way. [Full
+Disclosure](https://github.com/bitshares/bitshares-core/issues/433).
 
 After confirming the issue on the [public
 testnet](https://testnet.bitshares.eu), the developers approached the
