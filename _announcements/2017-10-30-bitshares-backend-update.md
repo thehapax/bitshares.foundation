@@ -28,7 +28,7 @@ All full nodes must upgrade before **2017-11-27 14:40:00 UTC**!
 ## Performance Changes
 
 * [Improved startup time](https://github.com/bitshares/bitshares-core/pull/339): This change will greatly improve startup time for nodes.
-* [Incorporate p2p fixes that were made to steem codebase](https://github.com/bitshares/bitshares-core/issues/411): This patch adds the improvements made by Steemit Inc. to BitShares
+* [Incorporate p2p fixes that were made to steem codebase](https://github.com/bitshares/bitshares-core/issues/411): This patch adds the improvements made by Steemit Inc. to BitShares. It resolves that P2P connections would get stuck sometimes, which would lead to the network seeming to be stuck.
 * [Changed default settings to reduce RAM for new nodes](https://github.com/bitshares/bitshares-core/pull/422): If no configuration file has been created already, the default configuration will ensure that only up to 1000 elements are stored in the history of each account and by this drastically reduces the RAM usage of the BitShares core.
 
 
@@ -39,7 +39,6 @@ All full nodes must upgrade before **2017-11-27 14:40:00 UTC**!
 * [Fix for transaction signing in cli_wallet](https://github.com/bitshares/bitshares-core/pull/321)
 * [Improved error logging](https://github.com/bitshares/bitshares-core/pull/332)
 * [Get rid of broken flat_index](https://github.com/bitshares/bitshares-core/pull/335)
-* [Fix for blockchain crash](https://github.com/bitshares/bitshares-core/pull/324)
 * [Fixed rounding issue when creating assets](https://github.com/bitshares/bitshares-core/issues/429)
 * [Fix and softfork protection for asset creation fee issue](https://github.com/bitshares/bitshares-core/issues/433)
 * [Fixed issue of more than 100 accounts owned by the same user](https://github.com/bitshares/bitshares-core/issues/295)
