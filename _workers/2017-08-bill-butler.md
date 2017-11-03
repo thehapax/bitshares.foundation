@@ -31,6 +31,9 @@ payments:
  - date: 2017/10/16
    opid: 1.11.78907587
    amount: 14,043.75 bitUSD
+ - date: 2017/11/03
+   opid: 1.11.84394276
+   amount: 10,075.00 bitUSD
 paymentaccount: bitshares-ui
 invoices:
  - 201708-bitsharesui-Sprint-170901.xlsx
