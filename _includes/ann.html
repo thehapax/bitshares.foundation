@@ -2,7 +2,7 @@
   <div class="container">
    <ul>
     {% assign sorted = site.announcements | sort: 'date' | reverse %}
-    {% for post in sorted %}
+    {% for post in sorted | limit: 3 %}
     <li>
      <div class="ann">
       <span class="ann-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
