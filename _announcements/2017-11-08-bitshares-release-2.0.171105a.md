@@ -20,9 +20,7 @@ This is a **consensus changing protocol upgrade**. All full nodes MUST upgrade b
 
         2017-12-08 15:40:00 UTC!
 
-A detailed description of the changes introduced by this update can be found here:
-
-http://www.bitshares.foundation/announcements/2017-10-30-bitshares-backend-update
+A detailed description of the changes introduced by this update can be [found here](http://www.bitshares.foundation/announcements/2017-10-30-bitshares-backend-update).
 
 ## Mailing Lists
 
