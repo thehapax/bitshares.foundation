@@ -11,14 +11,18 @@ status:
   proposal-vetted: True
   worker-created: True
   worker-approved: True
-  worker-paying: False
-  worker-finished: False
+  worker-paying: True
+  worker-finished: True
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,24937.0.html
 payments:
-paymentaccount: roelandp
+ - date: 2017/11/09
+   oid: 1.11.86598848
+   amount: 6,666.00 bitUSD
+paymentaccount: steemfest
 invoices:
+ - 201709-steemfest-invoice-SF-sponsorship-Bitshares-Foundation-2017.pdf
 price: $5,555 + $1,111
 duration: 1 months
 start: 2017/09/20
