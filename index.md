@@ -11,6 +11,8 @@ is to promote, advocate and grow the BitShares ecosystem to its full potential.
 
 {% include ann.html %}
 
+Show {[all announcements](/anns)}
+
 ## Transparent Communication
 
 Decentralized networks come with a high need of cooperation and coordination.
