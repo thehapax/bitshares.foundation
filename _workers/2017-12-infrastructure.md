@@ -130,8 +130,8 @@ It follows an outline of the cost positions and its denomination:
 Additional, we ask for additional funding in BTS:
 
 * **BTS (Fee):** Operating the public reference faucet **330 USD/month**
-* **BTS (Expense)::** LTM upgrade fee for committee-owned registrar account: 1,500 BTS
-* **USD (Expense)::** Funding for the faucet (in BTS(!)) - 1.21396 BTS/account
+* **BTS (Expense)::** LTM upgrade fee for committee-owned registrar account: **1,500 BTS**
+* **BTS (Expense)::** Funding for the faucet - currently **1.21396 BTS/account**
 
 As you can see, we distinguish between fees and expenses. Note that
 while the fee is fixed for the whole duration of the worker proposal,
