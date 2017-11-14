@@ -40,6 +40,7 @@ invoices:
  - 201708-bitsharesui-Sprint-170915.xlsx
  - 201708-bitsharesui-Sprint-171001.xlsx
  - 201708-bitsharesui-Sprint-171015.xlsx
+ - 201708-bitsharesui-Sprint-171101.xlsx
 price: 150,000$
 duration: 6 months
 start: 2017/08/15
