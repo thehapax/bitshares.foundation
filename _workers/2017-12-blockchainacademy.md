@@ -1,7 +1,7 @@
 ---
 layout: worker
 bfid: 2017-12-blockchainacademy
-workerid:
+workerid: 1.14.68
 title: Blockchain Academy - Marketing BitShares through education 
 name: Blockchain Academy
 company:
@@ -9,7 +9,7 @@ company:
  url: https://blockchainacademy.nl
 status:
   proposal-vetted: True
-  worker-created: False
+  worker-created: True
   worker-approved: False
   worker-paying: False
   worker-finished: False
