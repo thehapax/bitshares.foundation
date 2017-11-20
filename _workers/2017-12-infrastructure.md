@@ -16,7 +16,7 @@ status:
 payments:
 discussions:
  - name: bitsharestalk
- - url: https://bitsharestalk.org/index.php/topic,25291.0.html
+   url: https://bitsharestalk.org/index.php/topic,25291.0.html
 price: $19,000
 duration: 6 months
 start: 2017/12/01

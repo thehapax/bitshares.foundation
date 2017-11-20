@@ -15,6 +15,8 @@ status:
   worker-finished: False
 payments:
 discussions:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php/topic,25318.0.html
 price: 15,000 bitUSD
 duration: 5 months
 start: 2017/12/01
