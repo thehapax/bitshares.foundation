@@ -10,6 +10,8 @@ interested readers to understand the basic aspects. With this, we hope
 to clarify the differences, individual risks and opportunities for
 price-stable crypto-currencies in the blockchain space.
 
+{[**Read the full article**](/download/articles/cryptocurrencies_as_medium_of_payment.pdf)}
+
 # Abstract
 
 With the current growth of the crypto-ecosystem in general, and the
@@ -52,5 +54,3 @@ cheap fees. They reduce currency-risk for merchants. Additionally, these
 **price-stable** currencies provide an interesting instrument to
 professional traders that need a hedge and seek for the stability of
 fiat in bearish markets.
-
-{[**Read the full article**](/download/articles/cryptocurrencies_as_medium_of_payment.pdf)}
