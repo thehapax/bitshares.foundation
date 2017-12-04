@@ -12,7 +12,7 @@ affect you.
 
 Additionally, after some discussions within the core development team, a decision
 has been made to slightly postpone the deadline at which all back-end nodes need to
-have upgraded to the [new release version](https://github.com/bitshares/bitshares-core/releases/tag/2.0.171105a) tagged with
+have upgraded to the [new release version](https://github.com/bitshares/bitshares-core/releases/latest) tagged with
 
         2.0.171105a
 
