@@ -1,5 +1,5 @@
 ---
-title: Reminder: Protocol Upgrade on 2017-12-08 15:40:00 UTC - Update Mandatory
+title: "Reminder: Protocol Upgrade on 2017-12-08 15:40:00 UTC - Update Mandatory"
 layout: announcement
 ---
 
