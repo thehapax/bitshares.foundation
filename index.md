@@ -17,7 +17,7 @@ Show {[all announcements](/anns)}
 
 Decentralized networks come with a high need of cooperation and coordination.
 To facilitate this need on a technical level, we provide open and transparent
-mailing lists for developers, block producers, committee members, shareholders,
+mailing lists for developers, block producers, committee members, token holders,
 and projects running on top of BitShares.
 {[mailing lists](http://lists.bitshares.foundation)}
 
@@ -27,14 +27,14 @@ The BitShares Blockchain Foundation takes a lead in managing worker proposals on
 BitShares. Freelancers around the world that want to work for the BitShares DAC
 are organized through our trusted escrow setup which carefully vets worker
 proposals of freelancers, sets them up on the blockchain and ensures the maximum
-of code quality for the BitShares shareholders. {[more](/worker)}
+of code quality for the BTS token holders. {[more](/worker)}
 
 ## Transparent Accounting
 
 Since we are in the fortunate position to have received sufficient trust from
-BitShares shareholders to successfully operate [multiple escrow
+BTS token holders to successfully operate [multiple escrow
 workers](http://www.bitshares.foundation/worker), we feel the need to be as
-transparent as humanly possible to these shareholders as to how the funds are
+transparent as humanly possible to these token holders as to how the funds are
 used. {[more](/accounting)}
 
 ## Spokesperson

@@ -5,7 +5,7 @@ permalink: /accounting
 
 It is our pleasure to now publicly announce another major step for the [BitShares Blockchain Foundation](http://bitshares.foundation) towards transparency, openness and accountability.
 
-Since we are in the fortunate position to have received sufficient trust from BitShares shareholders to successfully operate [multiple escrow workers](http://www.bitshares.foundation/worker), we feel the need to be as transparent as humanly possible to these shareholders as to how the funds are used.
+Since we are in the fortunate position to have received sufficient trust from BTS token holders to successfully operate [multiple escrow workers](http://www.bitshares.foundation/worker), we feel the need to be as transparent as humanly possible to these token holders as to how the funds are used.
 
 Thus, we started working with an accounting system that allows us to
 
@@ -33,7 +33,7 @@ Please allow us to briefly go through the tool before we show an overview of the
 
 2. Show register of an individual account
 
-        ledger -f ledger.ledger register BitShares:Shareholders
+        ledger -f ledger.ledger register BitShares:BitSharesDAC
 
 ## Explanations
 
@@ -48,7 +48,7 @@ Let us start with first describing what accounts we are looking into and what th
     BitSharesFoundation                  # Accounts controlled by the foundation
         bitshares.foundation             # account `bitshares.foundation`
         donations.bitshares.foundation   # account `donations.bitshares.foundation`
-    BitSharesShareholders                # accounts owned by the shareholders (ultimately)
+    BitSharesDAC                         # accounts joitnly owned by the BTS token holders (ultimately)
         workers.bitshares.foundation     # account `workers.bitshares.foundation`
     BitSharesReserves                    # Funds obtained from the reserves (in BTS)
     Income                               # Income for the BitShares Blockchain Foundation
@@ -63,14 +63,14 @@ This hierarchy may be subject to change as we find more efficient ways to organi
 
 ## Escrow Worker Procedure
 
-The procedure of dealing with a worker proposal and its payment (if the shareholders approve the worker) is as follows.
+The procedure of dealing with a worker proposal and its payment (if the BTS holders approve the worker) is as follows.
 
 1. The worker pay is obtained through the `workers.bitshares.foundation` account which has created the workers on the blockchain to begin with.
 2. Then, the BTS are traded into USD in that account.
 3. Afterwards, USD are transferred into escrow by `bitshares.foundation`.
 4. Freelancers that applied for the worker/job get paid through `bitshares.foundation` with bitUSD (or possibly other bitassets)
 
-It is important to remark that funds that are in `workers.bitshares.foundation` are owned by the BitShares shareholders and not technically owned by the foundation.
+It is important to remark that funds that are in `workers.bitshares.foundation` are owned by the BTS holders and not technically owned by the foundation.
 
 In order to keep track of which worker has obtained how many BTS (in the `workers.bitshares.foundation` account), we make use of sub accounts where possible (see below). These sub accounts only appear in the accounting and are not reflected on the blockchain. After a worker has complete, we will thus be able to directly say how many BTS have been obtained from reserves, how many have been used to obtain USD and how many are to be returned to the reserves.
 
@@ -96,7 +96,7 @@ With the help of `ledger` we can give a quick summary of the accounting and indi
     15    -599,666.66324 BTS    201708-bitsharesui
     16     -30,750.00000 BTS    201709-steemfest
     17     578,259.29542 BTS
-    18        4,219.2236 USD  BitSharesShareholders:workers.bitshares.foundation
+    18        4,219.2236 USD  BitSharesDAC:workers.bitshares.foundation
     19     261,718.25619 BTS
     20          421.0994 USD    201707-bsip18
     21     282,879.53812 BTS
@@ -129,8 +129,8 @@ With the help of `ledger` we can give a quick summary of the accounting and indi
 * **line 5-9**: Total funds in account `bitshares.foundation`. The BTS are for operational costs (tx fee) while the USD are separated into subaccounts for each individual worker for which the BitShares Blockchain Foundation is escrow for.
 * **line 10-12**: Donations made to the bitshares blockchain foundation.
 * **line 13-16**: These are the BTS that have been obtained from the BitShares reserves for each individual worker (and in total)
-* **line 17-23**: Funds in account `workers.bitshares.foundation`. This account is owned by the BitShares shareholders and used to track claiming of worker pay as well as trading. There is a separation into subaccounts for each individual worker.  
-* **line 24**: Transaction fees that have been paid (in USD). Technically, most of those fees occur in the workers account when creating actual workers on the blockchain.  Thus, those fees are mostly paid by BitShares shareholders.
+* **line 17-23**: Funds in account `workers.bitshares.foundation`. This account is owned by the BTS holders and used to track claiming of worker pay as well as trading. There is a separation into subaccounts for each individual worker.  
+* **line 24**: Transaction fees that have been paid (in USD). Technically, most of those fees occur in the workers account when creating actual workers on the blockchain.  Thus, those fees are mostly paid by BTS holders.
 * **line 25-28**: Total income
 * **line 29**: Funds that have been paid to Worker proposals (these are separated into *Proposals* and *Outstanding*)
 * **line 30-37**: Outstanding payments to approved worker proposals separated into worker proposals as well as involved entities (for worker, review, accounting, management, etc.)
@@ -198,7 +198,7 @@ We would like to highlight a few points in what we were able to achieve in recen
 * Proposals worth almost **180k USD** have been **approved** and are covered by the foundation
 * Over **13k USD** have been paid out to freelancers already
 * **700k BTS** have been claimed from the BitShares Reserves of which over **420k BTS** are unused in the currently covered workers.
-* This means that **60%** of the funds in the worker account will probably be returned to the BitShares Shareholders (after the individual workers have terminated)
+* This means that **60%** of the funds in the worker account will probably be returned to the BTS holders (after the individual workers have terminated)
 * **1000 USD** have been donated to `donations.bitshares.foundation`so far.
 * Over **430 USD** have been paid as transaction fees of which **240 USD** are used to create workers and **177 USD** have been paid to upgrade the workers account.
 
@@ -214,7 +214,6 @@ Additionally to management tools, the code produced by freelancers needs to be r
 
 In the future you can expect regular updates on the accounting of BitShares Blockchain Foundation to ensure the highest standards in transparency and accountability. We feel the deep desire to support the BitShares community and ensure that uncertainties that appear are covered and resolved as quickly as possible.
 
-Further, we hope that we can continue to grow our reputation within the BitShares shareholders and the whole community to receive sufficient trust to do what we are planning to do with BitShares.
+Further, we hope that we can continue to grow our reputation within the BTS holders and the whole community to receive sufficient trust to do what we are planning to do with BitShares.
 
 If you want to support our efforts, please don't hesitate to get in contact with us (`info@bitshares.foundation`) or donate to `donations.bitshares.foundation`. We would like to emphasise that the BitShares Blockchain Foundation is a registered **non-profit** entity in the Netherlands which means that all funds donated will need to go into following our foundations' goals: Growing BitShares. 
-
