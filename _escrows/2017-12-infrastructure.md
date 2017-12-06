@@ -21,6 +21,8 @@ price: $19,000
 duration: 6 months
 start: 2017/12/01
 end: 2018/05/31
+redirect_from: 
+ - /workers/2017-12-infrastructure
 ---
 
 # Worker Proposal

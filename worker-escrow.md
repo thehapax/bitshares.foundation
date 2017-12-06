@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /worker/escrow
+permalink: /worker/escrow/
 ---
 
 ## Escrow workers

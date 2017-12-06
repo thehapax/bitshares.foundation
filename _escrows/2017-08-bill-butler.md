@@ -49,6 +49,8 @@ price: 150,000$
 duration: 6 months
 start: 2017/08/15
 end: 2018/02/15
+redirect_from: 
+ - /workers/2017-08-bill-butler
 ---
 
 # Introduction

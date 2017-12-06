@@ -27,7 +27,10 @@ price: $5,555 + $1,111
 duration: 1 months
 start: 2017/09/20
 end: 2017/10/20
+redirect_from: 
+ - /workers/2017-09-steemfest
 ---
+
 # Introduction
 
 Dear BitShares Stakeholders and valuable committee members, 

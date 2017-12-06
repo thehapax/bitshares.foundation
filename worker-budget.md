@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /worker/budget
+permalink: /worker/budget/
 ---
 
 ## Budget Workers

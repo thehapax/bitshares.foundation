@@ -11,10 +11,16 @@ sass:
 collections:
  escrows:
   output: true
-  permalink: /:collection/:name
+  permalink: /worker/escrow/:name
  budgets:
   output: true
-  permalink: /:collection/:name
+  permalink: /worker/budget/:name
  announcements:
   output: true
   permalink: /:collection/:name
+
+plugins:
+  - jekyll-redirect-from
+
+whitelist:
+  - jekyll-redirect-from

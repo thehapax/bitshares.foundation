@@ -21,6 +21,8 @@ price: 15,000 bitUSD
 duration: 5 months
 start: 2017/12/01
 end: 2018/04/31
+redirect_from: 
+ - /workers/2017-12-blockchainacademy
 ---
 
 # Blockchain Academy - Marketing BitShares through education 

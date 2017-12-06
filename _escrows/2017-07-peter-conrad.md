@@ -21,6 +21,8 @@ price: $23,000
 duration: 2 months
 start: 2017/08/01
 end: 2018/10/30
+redirect_from: 
+ - /workers/2017-07-peter-conrad
 ---
 
 # Worker Proposal

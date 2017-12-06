@@ -23,6 +23,8 @@ price: 50,000$
 duration: 15 months
 start: 2017/10/18
 end: 2018/12/31
+redirect_from: 
+ - /workers/2017-10-compliance
 ---
 
 # Introduction
