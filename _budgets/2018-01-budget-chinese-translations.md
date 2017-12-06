@@ -1,8 +1,8 @@
 ---
 layout: worker
-bfid: 201801-budget-mandarin-translations
+bfid: 201801-budget-chinese-translations
 workerid:
-title: Translations into Mandarin
+title: Translations into (Simplified) Chinese
 name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
@@ -21,13 +21,13 @@ start: 2018/01/01
 end: 2018/06/30
 ---
 
-# Translation budget - Mandarin
+# Translation budget - (Simplified) Chinese
 
 # Budget proposal
 
 This is a budget proposal that specifically aims to establish a
 financial base for the Bitshares Blockchain Foundation (BBF) for a
-specific purpose (here: Translations into Mandarin). We consider this
+specific purpose (here: Translations into Chinese). We consider this
 necessary in order to be flexible and properly represent the BitShares
 ecosystem with a peer review process to keep quality standards. This
 budget is restricted in its spending and can only be used for tasks
@@ -43,7 +43,7 @@ The BBF aims to increase market penetration and recognition of the
 BitShares platform. Currently, most of the advertising material and news
 articles are in English. To support the Chinese market, we seek to
 establish a translation budget that enables translations of relevant
-publications into Mandarin. The BBF’s task is to select appropriate
+publications into Chinese. The BBF’s task is to select appropriate
 publications, either by hand-picking them or through suggestions by the
 community (e.g. by tagging the BBF in the comments).
 
@@ -55,7 +55,7 @@ This budget can only be used for:
   multi-lingual articles (front and backend adjustments), if possible
 * Headhunting and monitoring suitable translation freelancer(s)
   (including reviewing translation quality)
-* Translating publication material (advertising, news, etc.) to Mandarin
+* Translating publication material (advertising, news, etc.) to Chinese
 
 This proposal is limited to a period of 6 months at a maximum of 1000
 USD per month. That means that a maximum of 6000 USD can be spend if
@@ -71,7 +71,7 @@ It is open for professional translators to apply for translation tasks
 and either get paid on a word-count or hourly basis (to be agreed on
 individually). In order to apply as a translator these requirements need
 to be fulfilled:
-* Fluent in Mandarin (language proficient or native language)
+* Business proficient in (Simplified) Chinese
 * Known real-world identity (for invoicing and accountability)
 * BitShares account required (for on-chain payment in bitUSD)
 
