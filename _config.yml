@@ -9,10 +9,12 @@ sass:
  sass_dir: _sass
 
 collections:
- workers:
+ escrows:
   output: true
   permalink: /:collection/:name
- partners:
+ budgets:
+  output: true
+  permalink: /:collection/:name
  announcements:
   output: true
   permalink: /:collection/:name

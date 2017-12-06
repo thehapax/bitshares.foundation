@@ -1,6 +1,8 @@
 - name: imprint
   link: /imprint
-- name: donations
-  link: /donations
+- name: workers
+  link: /worker
+- name: spokesperson
+  link: /spokesperson
 - name: home
   link: /

@@ -19,3 +19,6 @@ address for donations, only.
 * [Blockchain BV](http://blockchainbv.com)
 * [ChainSquad GmbH](http://chainsquad.com)
 * [BitShares Europe](http://bitshares.eu)
+* @lucid1980
+* @aloha
+* @browniedistro

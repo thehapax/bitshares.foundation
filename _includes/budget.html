@@ -1,7 +1,7 @@
 <section class="post-list">
   <div class="container">
    <ul>
-    {% assign sorted = site.workers | sort: 'date' | reverse %}
+    {% assign sorted = site.budgets | sort: 'date' | reverse %}
     {% for worker in sorted %}
       <li>
         <span class="worker-list">
