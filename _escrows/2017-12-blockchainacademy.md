@@ -25,8 +25,6 @@ redirect_from:
  - /workers/2017-12-blockchainacademy
 ---
 
-# Blockchain Academy - Marketing BitShares through education 
-
 ## Who is the Blockchain Academy?
 The Blockchain Academy is a non-profit organization; founded by two
 teachers from [Saxion University](https://www.saxion.edu) (Netherlands).

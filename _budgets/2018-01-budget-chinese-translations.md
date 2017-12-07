@@ -1,5 +1,5 @@
 ---
-layout: worker
+layout: budget
 bfid: 201801-budget-chinese-translations
 workerid:
 title: Translations into (Simplified) Chinese
@@ -20,8 +20,6 @@ duration: 6 months
 start: 2018/01/01
 end: 2018/06/30
 ---
-
-# Translation budget - (Simplified) Chinese
 
 # Budget proposal
 
