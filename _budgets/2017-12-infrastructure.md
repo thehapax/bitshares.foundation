@@ -23,6 +23,7 @@ start: 2017/12/01
 end: 2018/05/31
 redirect_from: 
  - /workers/2017-12-infrastructure
+ - /worker/escrow/2017-12-infrastructure
 ---
 
 # Worker Proposal
@@ -126,14 +127,14 @@ It follows an outline of the cost positions and its denomination:
 * **USD (Fee):** One-time setup fee - **3,300 USD**
 * **USD (Fee):** Additional maintenance fee - **1,650 USD/month**
 * **USD (Expense):** Payment of the server costs (EC2, Google Cloud, ...) - starting at **100 USD/month/server**
-* **USD (Expense)::** Docker Hub subscription for Continuous Integration of BitShares-Core - starting at **15 USD/month**
-* **USD (Expense)::** Wildcard SSL certificate -- **800 USD**
+* **USD (Expense):** Docker Hub subscription for Continuous Integration of BitShares-Core - starting at **15 USD/month**
+* **USD (Expense):** Wildcard SSL certificate -- **800 USD**
 
 Additional, we ask for additional funding in BTS:
 
 * **BTS (Fee):** Operating the public reference faucet **330 USD/month**
-* **BTS (Expense)::** LTM upgrade fee for committee-owned registrar account: **1,500 BTS**
-* **BTS (Expense)::** Funding for the faucet - currently **1.21396 BTS/account**
+* **BTS (Expense):** LTM upgrade fee for committee-owned registrar account: **1,500 BTS**
+* **BTS (Expense):** Funding for the faucet - currently **1.21396 BTS/account**
 
 As you can see, we distinguish between fees and expenses. Note that
 while the fee is fixed for the whole duration of the worker proposal,
