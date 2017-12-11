@@ -56,8 +56,8 @@ purposes where escrow workers do not fit, such as translation work,
 bug fixing or bounties. The rules are as follows:
 
 * BitShares Blockchain Foundation has an account (`workers.bitshares.foundation`) that is co-owned by `committee-account` and escrow partners.
-* The worker will redeem it's funds on a regular basis and buy up bitUSD from the market (with reasonable premiums).
-* For this reason and due to volatility of BTS, the actual budget in USD terms might vary over time.
+* The BBF will redeem these funds on a regular basis and buy up bitUSD from the market (with reasonable premiums).
+* For this reason and due to volatility of BTS, the available budget in USD terms might vary over time.
 * The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
 * The amounts available for individual budgets can be obtained through [transparent account](/accounting)
 
@@ -67,7 +67,7 @@ Beneficiaries of either of these models need to authenticate themselves
 against the BitShares Blockchain Foundation with their real-world identity.
 Invoices need to be sent that are published in this site.
 
-**Pamynets will be made only after receiving and approving individual
+**Payments will be made only after receiving and approving individual
 invoices**!
 
 
