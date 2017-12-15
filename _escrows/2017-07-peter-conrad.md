@@ -11,9 +11,18 @@ status:
   proposal-vetted: True
   worker-created: True
   worker-approved: True
-  worker-paying: False
-  worker-finished: False
+  worker-paying: True
+  worker-finished: True
 payments:
+ - date: 2017/12/15
+   opid: 1.11.103758702
+   amount: 19,000 bitUSD
+ - date: 2017/12/15
+   opid: 1.11.103758921
+   amount: 4,000 bitUSD
+invoices:
+ - 201712-bsip18.pdf
+ - 201712-bsip18-chsqd.pdf
 discussions:
   - url: https://github.com/bitshares/bitshares-core/pull/340
     name: github/issue
