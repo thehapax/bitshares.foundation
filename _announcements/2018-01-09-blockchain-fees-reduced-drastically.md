@@ -20,7 +20,7 @@ The fees can be found on the blockchain using [bitshares.eu](https://wallet.bits
 As of today, the actual fees for most transaction types are:
 
 | Operation                                 |                      Fee |  USD equivalent (2018/01/09)|
-| ----------------------------------------- |:------------------------:| --------------------:|
+| ----------------------------------------- | ------------------------:| --------------------:|
 | transfer                                  |              0.01662 BTS |           0.0129 USD |
 | limit_order_create                        |              0.00092 BTS |           0.0007 USD |
 | limit_order_cancel                        |              0.00009 BTS |           0.0001 USD |
