@@ -1,5 +1,6 @@
 ---
 title: Accounting Report 2018-01
+layout: announcement
 ---
 
 # What is this report
