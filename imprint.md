@@ -6,12 +6,13 @@ permalink: /imprint
 The **Stichting BitShares Blockchain Foundation** is registered in 
 
     Stichting BitShares Blockchain Foundation
-    Pothoofd 24
+    Zutphenseweg 6
     7411ZB Deventer
     Netherlands
     KVK nummer: 66190169
 
-Our offices are open to BTS holders at any time. Visit us any time.
+Any BTS holder is welcome to visit us. Please contact us to make an
+appointment.
 
 If you would like to reach out to us digitally, you can write us via
 [mail](mailto:info@bitshares.foundation).
