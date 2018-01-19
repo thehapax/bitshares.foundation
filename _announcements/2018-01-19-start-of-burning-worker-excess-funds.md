@@ -11,6 +11,6 @@ managed so far.
 
 The operation with id `1.11.120681976` is our first batch of 150,000 BTS
 being reserved (e.g. given back to the working budget/reserves). As of
-today, 782,339.68910 BTS are yet to be reserves. Our current strategy is
+today, 782,339.68910 BTS are yet to be reserved. Our current strategy is
 to reserve those funds in medium-sized chunks to avoid falsifying weekly
 statistics.
