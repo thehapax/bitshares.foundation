@@ -10,10 +10,9 @@ company:
 status:
   proposal-vetted: True
   worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
-payments:
+  worker-approved: True
+  worker-paying: True
+  worker-finished: True
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25318.0.html
@@ -23,6 +22,14 @@ start: 2017/12/01
 end: 2018/04/31
 redirect_from: 
  - /workers/2017-12-blockchainacademy
+invoices:
+ - 2017-12-blockchainacademy-Invoice-2017-15.pdf
+ - 2017-12-blockchainacademy-Invoice-2017-16.pdf
+ - 2017-12-blockchainacademy-Invoice-2017-17.pdf
+payments:
+ - date: 2017/01/29
+   oid: 1.11.126994733
+   amount: 15,000 bitUSD
 ---
 
 ## Who is the Blockchain Academy?
@@ -121,3 +128,10 @@ with supportive guidance at reasonable costs.
   Middle-East. Co-founder of the Blockchain Center of Excellence at Saxion
   University of Applied Sciences and co-creator of the Blockchain
   education program at Saxion University of Applied Sciences.
+
+# Remark BitShares Blockchain Foundation
+
+This worker has ended. The inquired costs invoiced by the worker has
+been higher than the agreed 15,000 bitUSD. The BitShares Blockchain
+Foundation, after careful review, paid the agreed amount (15,000
+bitUSD), the rest is covered by Blockchain Projects BV.
