@@ -18,7 +18,7 @@ discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25895.new.html
 price: $350,000
-duration: 12 months
+duration: 6 months
 start: 2018/02/15
 end: 2018/07/30
 ---
