@@ -29,6 +29,11 @@ worker proposals:
   many different people for their support out of a single purpose-specific
   fund.
 
+* [**BSIP workers**](/worker/bsip): These workers merely serve to seek
+  approval for so called BitShares Improvement Proposals (BSIPS) which
+  is required in order to introduce new features to the BitShares main
+  network through protocol upgrades.
+
 ### Escrow Worker Model
 
 The purpose of escrow workers is to ensure proper payment for the work

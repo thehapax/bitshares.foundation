@@ -15,6 +15,9 @@ collections:
  budgets:
   output: true
   permalink: /worker/budget/:name
+ bsip:
+  output: true
+  permalink: /worker/bsip/:name
  announcements:
   output: true
   permalink: /:collection/:name

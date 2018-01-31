@@ -1,0 +1,31 @@
+{% include header.html %}
+<body>
+ <div class="wrapper">
+  {% include navbar.html %}
+  <div class="container content">
+   <table>
+    <tbody>
+     <tr>
+      <th colspan=2 class="text-center">{{page.title}}</th>
+     </tr>
+     <tr>
+      <th>Worker ID</th>
+      <td>{{page.workerid}}</td>
+     </tr>
+     <tr>
+      <th>Implementation</th>
+      <td>{{page.name}}
+       {% if page.company.url %}
+       - <a href="{{page.company.url}}">{{page.company.name}}</a></td>
+       {% endif %}
+     </tr>
+    </tbody>
+   </table>
+   <div>
+    This proposal asks for approval of <a
+    href="https://github.com/bitshares/bsips/blob/master/{{page.bsip}}.md">{{page.bsip}}</a>.
+   </div>
+  </div>
+ </div>
+ {% include footer.html %}
+</body>
