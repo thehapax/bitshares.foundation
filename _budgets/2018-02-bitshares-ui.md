@@ -17,7 +17,7 @@ discussions:
  - name: steemit/@billbutler
    url: https://steemit.com/bitshares/@billbutler/bitshares-gui-worker-proposal-renewal
  - name: bitsharestalk
-   url: 
+   url: https://bitsharestalk.org/index.php/topic,25903.msg315544.html
 payments:
 paymentaccount: bitshares-ui
 invoices:
