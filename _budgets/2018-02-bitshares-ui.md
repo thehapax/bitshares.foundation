@@ -1,7 +1,7 @@
 ---
 layout: worker
 bfid: 2018-02-bitsharesui
-workerid: 1.14.82
+workerid: 1.14.83
 title: BitShares UI Team
 name: Bill Butler
 company:
