@@ -15,7 +15,7 @@ status:
   worker-finished: False
 discussions:
  - name: steemit/@billbutler
-   url: 
+   url: https://steemit.com/bitshares/@billbutler/bitshares-gui-worker-proposal-renewal
  - name: bitsharestalk
    url: 
 payments:
