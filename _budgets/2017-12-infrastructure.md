@@ -24,6 +24,11 @@ end: 2018/05/31
 redirect_from: 
  - /workers/2017-12-infrastructure
  - /worker/escrow/2017-12-infrastructure
+reports:
+ - name: 2017-12-11 Roadmap
+   url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Roadmap_2017-12-infrastructure.pdf
+ - name: 2018-01-15 Interim report
+   url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Interim_report_1_2017-12-infrastructure.pdf
 ---
 
 # Worker Proposal
@@ -107,12 +112,14 @@ to organize a much bigger Stress-Testing Infrastructure.
 # Milestones
 
 1. integrate and deploy reference faucet
-2. develop and test docker containers
-3. develop and test orchestration tooling
-4. public nodes with load balancer in the U.S. on separate servers for redundancy
-5. support SSL encryption on the load balancers
-6. deploy additional load balancer and 2 public API nodes in Asia
-7. include testnet nodes on those machines
+2. develop docker containers
+3. develop orchestration tooling
+4. develop loadbalancer
+5. test deployment and loadbalanced nodes
+6. public nodes with load balancer in the U.S. on separate servers for redundancy
+7. support SSL encryption on the load balancers
+8. deploy additional load balancer and 2 public API nodes in Asia
+9. include testnet nodes on those machines
 
 As time progresses, more nodes will be added in the most economical
 manner.

@@ -67,6 +67,20 @@
        </ul>
       </td>
      </tr>
+     {% if page.reports %}
+     <tr>
+      <th>Reports</th>
+      <td>
+       <ul>
+        {% for r in page.reports %}
+        <li>
+         <a href="{{r.url}}">{{r.name}}</a>
+        </li>
+        {% endfor %}
+       </ul>
+      </td>
+     </tr>
+    {% endif %}
     </tbody>
    </table>
    <div>
