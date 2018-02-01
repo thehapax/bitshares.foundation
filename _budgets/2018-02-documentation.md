@@ -20,7 +20,7 @@ payments:
 price: $80,000
 duration: 12 months
 start: 2018/02/15
-end: 2018/02/14
+end: 2019/02/14
 ---
 
 # Proposal
