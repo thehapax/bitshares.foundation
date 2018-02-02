@@ -109,7 +109,7 @@ individual working on this. Furthermore, parts of the work will be
 available to be claimed by anyone knowledgable about the BitShares
 technology as bounties.
 
-This worker is **capped at $150,000** over a period of 12 months.
+This worker is **capped at $80,000** over a period of 12 months.
 Whatever funds are not needed will be given back to the BitShares DAC.
 Accounting will be delivered by the BitShares Blockchain Foundation and
 made available to the public. Individual invoices received and paid by
