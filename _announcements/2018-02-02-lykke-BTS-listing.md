@@ -1,5 +1,5 @@
 ---
-title: Lykke to list BitShares BTS on the Lykke Exchange
+title: Lykke will Enable On-/Off-Ramping BTS. SmartCoins are Considered
 layout: announcement
 steemit-link: https://steemit.com/bitshares/@bitshares.fdn/lykke-will-enable-on-off-ramping-bts-smartcoins-are-considered
 ---
