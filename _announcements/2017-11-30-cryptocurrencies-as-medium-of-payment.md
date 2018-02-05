@@ -1,6 +1,9 @@
 ---
 title: Crypto-Currencies as Medium of Payment
 layout: announcement
+redirect_from: 
+ - /smartcoins
+ - /bitassets
 ---
 
 The BitShares Blockchain Foundation is pleased to announce a new paper
