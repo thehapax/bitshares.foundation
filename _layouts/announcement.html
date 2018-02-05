@@ -4,6 +4,9 @@
   {% include navbar.html %}
   <div class="container content">
    <h2>{{page.title}}
+    {% if page.steemit-link %}
+    <p class="subheader-right">also published on <a href="{{ page.steemit-link }}">Steemit</a></p>
+    {% endif %}
     <p class="subheader">approved and published on {{ page.date | date: "%m/%d/%Y" }}</p>
    </h2>
    <p>

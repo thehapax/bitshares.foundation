@@ -4,6 +4,8 @@ layout: announcement
 redirect_from: 
  - /smartcoins
  - /bitassets
+ - /bitasset
+ - /smartcoin
 ---
 
 The BitShares Blockchain Foundation is pleased to announce a new paper
