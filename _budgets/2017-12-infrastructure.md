@@ -13,7 +13,6 @@ status:
   worker-approved: False
   worker-paying: False
   worker-finished: False
-payments:
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25291.0.html
@@ -29,6 +28,16 @@ reports:
    url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Roadmap_2017-12-infrastructure.pdf
  - name: 2018-01-15 Interim report
    url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Interim_report_1_2017-12-infrastructure.pdf
+payments:
+ - date: 2018/02/16
+   oid: 1.11.24473034
+   amount: 7,615.65 bitUSD
+invoices:
+ - 201712-infrastructure/20180216-BitSharesEurope Faucet.pdf
+ - 201712-infrastructure/20180216-Factuur 2018-4.pdf
+ - 201712-infrastructure/20180216-Hetzner Invoice 20180203.pdf
+ - 201712-infrastructure/20180216-Linode + AWS.PDF
+
 ---
 
 # Worker Proposal
