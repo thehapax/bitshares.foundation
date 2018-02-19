@@ -12,7 +12,7 @@ status:
   worker-created: True
   worker-approved: True
   worker-paying: True
-  worker-finished: False
+  worker-finished: True
 discussions:
  - name: steemit/@billbutler
    url: https://steemit.com/bitshares/@billbutler/bitsharesui-worker-proposal-1-14-58
@@ -54,7 +54,10 @@ payments:
    amount: 6,843.75 bitUSD
  - date: 2018/02/06
    opid: 1.11.133383473
-   amount: 10,156.2500 bitUSD
+   amount: 10,156.25 bitUSD
+ - date: 2018/02/19
+   opid: 1.11.141192361
+   amount: 12,968.75 bitUSD
 paymentaccount: bitshares-ui
 invoices:
  - 201708-bitsharesui-Sprint-170901.xlsx
@@ -69,6 +72,7 @@ invoices:
  - 201708-bitsharesui-Sprint-180108-corrected.xlsx
  - 201708-bitsharesui-Sprint-180115.xlsx
  - 201708-bitsharesui-Sprint-180201.xlsx
+ - 201708-bitsharesui-Sprint-180215.xlsx
 price: 150,000$
 duration: 6 months
 start: 2017/08/15
