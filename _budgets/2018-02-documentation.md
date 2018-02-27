@@ -14,9 +14,9 @@ status:
   worker-paying: False
   worker-finished: False
 payments:
-#discussions:
-# - name: bitsharestalk
-#   url: 
+discussions:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=25916.0
 price: $80,000
 duration: 12 months
 start: 2018/02/15
