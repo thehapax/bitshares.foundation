@@ -9,7 +9,7 @@ company:
  url:
 discussions:
  - name: bitsharestalk
-   url:
+   url: https://bitsharestalk.org/index.php?topic=25968.0
 price: less than $711,774
 duration: 9 months
 start: 2018/03/02
