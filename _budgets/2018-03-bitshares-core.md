@@ -379,6 +379,8 @@ professional background in project management with software development teams an
 scrum master (PSM-1) with multi-national experience in financial services, mortgage banking and
 manufacturing.
 
+![](2018-03-bitshares-core.jpg)
+
 Taconator - Core Developer, Business Analyst
 ============================================
 
