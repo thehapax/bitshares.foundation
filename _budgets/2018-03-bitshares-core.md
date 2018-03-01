@@ -1,7 +1,7 @@
 ---
 layout: worker
 bfid: 201803-bitshares-core
-workerid:
+workerid: 1.14.99
 title: BitShares-Core Development Team
 name: Ryan R. Fox (`fox`)
 company:
