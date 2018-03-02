@@ -10,6 +10,8 @@ company:
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25968.0
+ - name: steemit
+   url: https://steemit.com/bitshares/@fox/voting-for-bitshares-core-team-worker-proposal-2018
 price: less than $711,774
 duration: 9 months
 start: 2018/03/02
@@ -379,7 +381,7 @@ professional background in project management with software development teams an
 scrum master (PSM-1) with multi-national experience in financial services, mortgage banking and
 manufacturing.
 
-![](/img/workers/201803-bitshares-core-ryanfox.jpg)
+![](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmWf2xvJuo3nWYHM7yJoQNMMPDNehCxUtXjKFuhurCwyAq_1680x8400)
 
 Taconator - Core Developer, Business Analyst
 ============================================
@@ -497,7 +499,7 @@ Pool [5-6].
 | Total Collaboration Tools (Table 3)     |       $5,000 |           |              |
 | ++ Convert to daily (/30 days)          |              |      $167 |              |
 | Total Conference Budget (Table 4)       |      $32,250 |           |              |
-| ++ Convert to daily (/44 weeks /7 days) |              |      $111 |              |
+| ++ Convert to daily (/42 weeks /7 days) |              |      $111 |              |
 | ≈≈ TOTAL DAILY BUDGET ITEMS             |              |    $2,421 |              |
 | **≈≈ ≈≈ TOTAL 42 WEEK BUDGET**          |              |           | **$711,774** |
 
