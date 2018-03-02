@@ -381,8 +381,6 @@ professional background in project management with software development teams an
 scrum master (PSM-1) with multi-national experience in financial services, mortgage banking and
 manufacturing.
 
-![](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmWf2xvJuo3nWYHM7yJoQNMMPDNehCxUtXjKFuhurCwyAq_1680x8400)
-
 Taconator - Core Developer, Business Analyst
 ============================================
 
@@ -481,7 +479,7 @@ continuously evaluates and prioritizes new issues ongoing.
 
 **Chart 1. Initiatives - 2018**
 
-![BitShares Core Initiatives - 2018](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives.png "BitShares Core Initiatives - 2018")
+![BitShares Core Initiatives - 2018](https://steemit-production-imageproxy-thumbnail.s3.amazonaws.com/DQmWf2xvJuo3nWYHM7yJoQNMMPDNehCxUtXjKFuhurCwyAq_1680x8400 "BitShares Core Initiatives - 2018")
 
 Budget
 ======
