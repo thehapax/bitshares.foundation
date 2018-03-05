@@ -19,8 +19,12 @@ discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25903.msg315544.html
 payments:
+ - date: 2018/03/05
+   oid: 1.11.148465311
+   amount: 17,718.75 bitUSD
 paymentaccount: bitshares-ui
 invoices:
+ - 201802-bitsharesui-Sprint-180302.xlsx
 price: up to 210,000$ (budget)
 duration: 6 months
 start: 2018/02/15
