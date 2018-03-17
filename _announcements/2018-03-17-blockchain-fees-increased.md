@@ -3,7 +3,7 @@ title: Blockchain Fees reduced drastically
 layout: announcement
 ---
 
-As of Tuesday, January 9th 2018, the transaction fees on BitShares have
+As of March 17th 2018, the transaction fees on BitShares have
 been increased by the BitShares Committee.
 
 Due to the decrease of the unit price of BTS on all major exchanges, an increase 
