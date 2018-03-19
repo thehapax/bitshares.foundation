@@ -11,7 +11,7 @@ of the BitShares Blockchain Foundation.
 This step is our moral obligation to connect to the entire BitShares Blockchain
 in the best way possible and be able to serve the ecosystem best.
 
-[Invitation Letter]({{ site.baseurl }}/download/articles/20180319_Invitation_to_the_Committee.pdf)
+[Invitation Letter](https://github.com/bitshares-foundation/bitshares.foundation/blob/master/download/articles/20180319_Invitation_to_the_Committee.pdf)
 
 The invitation letter, of course, needs to be publicly accepted by a majority
 of the members of the BitShares Committee. We hope to see this happening in the
