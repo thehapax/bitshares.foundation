@@ -17,9 +17,13 @@ duration: 9 months
 start: 2018/03/02
 end: 2018/12/31
 paymentaccount: bitsharesdev
-reports:
 payments:
+ - date: 2018/03/16
+   oid: 1.11.155341706
+   amount: 8,773.75 bitUSD
 invoices:
+ - CoreTeam-2018-Week10.xlsx
+reports:
 ---
 
 Intent
