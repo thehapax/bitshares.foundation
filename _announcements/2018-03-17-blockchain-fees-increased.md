@@ -1,5 +1,5 @@
 ---
-title: Blockchain Fees reduced drastically
+title: Blockchain Fees increased
 layout: announcement
 ---
 
