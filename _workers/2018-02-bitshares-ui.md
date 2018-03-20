@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: budget
 bfid: 2018-02-bitsharesui
 workerid: 1.14.83
 title: BitShares UI Team
@@ -7,12 +8,7 @@ name: Bill Butler
 company:
   name:
   url:
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: paying
 discussions:
  - name: steemit/@billbutler
    url: https://steemit.com/bitshares/@billbutler/bitshares-gui-worker-proposal-renewal
@@ -29,10 +25,12 @@ paymentaccount: bitshares-ui
 invoices:
  - 201802-bitsharesui-Sprint-180302.xlsx
  - 201802-bitsharesui-Sprint-180315.xlsx
-price: up to 210,000$ (budget)
+price: $210,000
 duration: 6 months
 start: 2018/02/15
 end: 2018/08/15
+redirect_from: 
+ - /worker/budget/2018-02-bitshares-ui
 ---
 
 # Introduction

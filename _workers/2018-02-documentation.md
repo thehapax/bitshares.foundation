@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: budget
 bfid: 201802-documentation
 workerid: 1.14.84
 title: Revision of Whitepapers and Improvements of Technical Documentation
@@ -7,12 +8,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status:
-  proposal-vetted: True
-  worker-created: False
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: paying
 payments:
 discussions:
  - name: bitsharestalk
@@ -21,6 +17,8 @@ price: $80,000
 duration: 12 months
 start: 2018/02/15
 end: 2019/02/14
+redirect_from: 
+ - /worker/budget/2018-02-documentation
 ---
 
 # Proposal

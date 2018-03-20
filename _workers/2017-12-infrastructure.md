@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: budget
 bfid: 201712-infrastructure
 workerid: 1.14.67
 title: Deploy and maintain independent BitShares infrastructure
@@ -7,12 +8,7 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25291.0.html

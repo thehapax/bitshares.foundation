@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 201708-bitsharesui
 workerid: 1.14.58
 title: BitShares UI Team
@@ -7,12 +8,7 @@ name: Bill Butler
 company:
   name:
   url:
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: True
-  worker-finished: True
+status: finished
 discussions:
  - name: steemit/@billbutler
    url: https://steemit.com/bitshares/@billbutler/bitsharesui-worker-proposal-1-14-58
@@ -79,6 +75,7 @@ start: 2017/08/15
 end: 2018/02/15
 redirect_from: 
  - /workers/2017-08-bill-butler
+ - /worker/escrow/2017-08-bill-butler
 ---
 
 # Introduction

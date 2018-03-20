@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 201707-bsip18
 workerid: 1.14.56
 title: Implementation of BSIP-18
@@ -7,12 +8,7 @@ name: Peter Conrad
 company:
  name: Cyrano UG (haftungsbeschränkt)
  url: http://bts.quisquis.de/impressum.html
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: True
-  worker-finished: True
+status: finished
 payments:
  - date: 2017/12/15
    opid: 1.11.103758702
@@ -32,6 +28,7 @@ start: 2017/08/01
 end: 2018/10/30
 redirect_from: 
  - /workers/2017-07-peter-conrad
+ - /worker/escrow/2017-07-peter-conrad
 ---
 
 # Worker Proposal

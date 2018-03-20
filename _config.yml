@@ -9,15 +9,9 @@ sass:
  sass_dir: _sass
 
 collections:
- escrows:
+ workers:
   output: true
-  permalink: /worker/escrow/:name
- budgets:
-  output: true
-  permalink: /worker/budget/:name
- bsip:
-  output: true
-  permalink: /worker/bsip/:name
+  permalink: /workers/:name
  announcements:
   output: true
   permalink: /:collection/:name

@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 2017-12-blockchainacademy
 workerid: 1.14.68
 title: Blockchain Academy - Marketing BitShares through education 
@@ -7,12 +8,7 @@ name: Blockchain Academy
 company:
  name: Blockchain Academy
  url: https://blockchainacademy.nl
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: True
-  worker-finished: True
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25318.0.html
@@ -22,6 +18,7 @@ start: 2017/12/01
 end: 2018/04/31
 redirect_from: 
  - /workers/2017-12-blockchainacademy
+ - /worker/escrow/2017-12-blockchainacademy
 invoices:
  - 2017-12-blockchainacademy-Invoice-2017-15.pdf
  - 2017-12-blockchainacademy-Invoice-2017-16.pdf

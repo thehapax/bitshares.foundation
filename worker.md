@@ -13,23 +13,28 @@ into a *price-stable* cryptocurrency, such as bitUSD.
 
 ## Spending Budgets
 
-The Bitshares Blockchain Foundation currently knows **two** types of
+The BitShares Blockchain Foundation currently maintains the following
+list of proposals through escrow:
+
+{% include workers.html %}
+
+The BitShares Blockchain Foundation currently knows **three** types of
 worker proposals:
 
-* [**escrow workers**](/worker/escrow): With this, we organize
+* **escrow workers**: With this, we organize
   freelancers around the world that want to work for the BitShares DAC
   through our trusted escrow setup which carefully vets the individual
   offers, sets them up on the blockchain and ensures the maximum of code
   quality for the BTS token holders.
 
-* [**budget workers**](/worker/budget): These workers serve as a budget
+* **budget workers**: These workers serve as a budget
   that can be tapped whenever it is needed for purposes defined in the
   individual budget workers. This serves as working budget that is more
   flexible then static escrow workers in the way that it allows to pay
   many different people for their support out of a single purpose-specific
   fund.
 
-* [**BSIP workers**](/worker/bsip): These workers merely serve to seek
+* **BSIP workers**: These workers merely serve to seek
   approval for so called BitShares Improvement Proposals (BSIPS) which
   is required in order to introduce new features to the BitShares main
   network through protocol upgrades.
@@ -66,6 +71,14 @@ bug fixing or bounties. The rules are as follows:
 * The budget is controlled by `bitshares.foundation` who serves as an independent entity to supervise payouts.
 * The amounts available for individual budgets can be obtained through [transparent account](/accounting)
 
+### BSIP Worker Model
+
+BSIP is the abbreviation for *BitShares Improvement Proposal* and is
+describes the procedure of improving the BitShares protocol. Every major
+change to the behavior of the BitShares Blockchain requires approval by
+BTS holders by means of approval voting. This is implemented by means of
+a BSIP worker.
+
 ## Beneficiaries
 
 Beneficiaries of either of these models need to authenticate themselves
@@ -84,7 +97,7 @@ supervise the progress. Payouts are facilitated in bitUSD through a
 multi-signature escrow setup with the independent BitShares Foundation.
 
 [Blockchain Projects BV](http://blockchainprojectsbv.com) has offered to
-handle the technical details lead quality assurance procedures.
+handle the technical details and lead quality assurance procedures.
 
 ## Accounting
 

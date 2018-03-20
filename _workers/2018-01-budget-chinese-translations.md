@@ -1,5 +1,6 @@
 ---
 layout: budget
+type: budget
 bfid: 201801-budget-chinese-translations
 workerid:
 title: Translations into (Simplified) Chinese
@@ -7,18 +8,15 @@ name: Blockchain Projects BV
 company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
-status:
-  proposal-vetted: True
-  worker-created: False
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: paying
 payments:
 discussions:
-price: up to 6,000 bitUSD
+price: $6,000
 duration: 6 months
 start: 2018/01/01
 end: 2018/06/30
+redirect_from: 
+ - /worker/budget/2018-01-budget-chinese-translations
 ---
 
 # Budget proposal

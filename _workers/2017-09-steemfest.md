@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 201709-steemfest
 workerid: 1.14.59
 title: Steemfest-Hackathon Focus Chain Sponsorship and Prize
@@ -7,12 +8,7 @@ name: Roeland P Landegent
 company:
   name:
   url:
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: True
-  worker-finished: True
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,24937.0.html
@@ -29,6 +25,7 @@ start: 2017/09/20
 end: 2017/10/20
 redirect_from: 
  - /workers/2017-09-steemfest
+ - /worker/escrow/2017-09-steemfest
 ---
 
 # Introduction

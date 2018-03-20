@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 201710-spokesperson
 workerid: 1.14.61
 title: Publicly Approved BitShares Spokesperson
@@ -7,24 +8,20 @@ name: BitShares Blockchain Foundation
 company:
   name: BitShares Blockchain Foundation
   url: http://bitshares.foundation
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: True
-  worker-paying: False
-  worker-finished: False
+status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25143.0.html
 payments:
 paymentaccount: bitshares.foundation
 invoices:
-price: 50,000$
+price: $50,000
 duration: 15 months
 start: 2017/10/18
 end: 2018/12/31
 redirect_from: 
  - /workers/2017-10-spokesperson
+ - /worker/escrow/2017-10-spokesperson
 ---
 
 # Introduction

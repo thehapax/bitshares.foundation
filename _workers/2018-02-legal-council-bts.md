@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: budget
 bfid: 201802-legal-bts
 workerid: 1.14.80
 title: Legal Council about BTS and No-action
@@ -7,12 +8,7 @@ name: BitShares Blockchain Foundation
 company:
  name: BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: paying
 payments:
 discussions:
  - name: bitsharestalk
@@ -21,6 +17,8 @@ price: $350,000
 duration: 6 months
 start: 2018/02/15
 end: 2018/07/30
+redirect_from: 
+ - /worker/budget/2018-02-legal-council-bts
 ---
 
 # Proposal

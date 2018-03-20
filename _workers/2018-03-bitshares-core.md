@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: budget
 bfid: 201803-bitshares-core
 workerid: 1.14.99
 title: BitShares-Core Development Team
@@ -7,12 +8,13 @@ name: Ryan R. Fox (`fox`)
 company:
  name:
  url:
+status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=25968.0
  - name: steemit
    url: https://steemit.com/bitshares/@fox/voting-for-bitshares-core-team-worker-proposal-2018
-price: less than $711,774
+price: $711,774
 duration: 9 months
 start: 2018/03/02
 end: 2018/12/31
@@ -24,6 +26,8 @@ payments:
 invoices:
  - CoreTeam-2018-Week10.xlsx
 reports:
+redirect_from: 
+ - /worker/budget/2018-03-bitshares-core
 ---
 
 Intent

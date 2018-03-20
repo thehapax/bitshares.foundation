@@ -1,5 +1,6 @@
 ---
 layout: worker
+type: escrow
 bfid: 201710-compliance
 workerid: 1.14.60
 title: Regulatory Compliance and Exchange Relations
@@ -7,12 +8,7 @@ name: Blockchain Projects BV
 company:
   name: Blockchain Projects BV
   url: http://blockchainprojectsbv.com
-status:
-  proposal-vetted: True
-  worker-created: True
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: finished
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25144.0.html
@@ -25,6 +21,7 @@ start: 2017/10/18
 end: 2018/12/31
 redirect_from: 
  - /workers/2017-10-compliance
+ - /worker/escrow/2017-10-compliance
 ---
 
 # Introduction
