@@ -60,17 +60,19 @@ internet domains and are going to launch them:
   picture of what the BitShares Blockchain is and what the BTS token
   represents with all the details properly described in appropriate
   terminology. Content here clearly targets lawyers and regulators with
-  appropriate documentation that rarely changes. bitshares.works
-  (*Community managed*) - This domain is meant to become the main hub of
-  end-user information and thus will contain user guides, instructions,
-  tutorials as well as some basic technical documentation. The content on
-  this page will be community driven (e.g. through the approved
-  documentation worker) similar to the previous documentation portal
-  hosted on docs.bitshares.eu. The documentation part of bitshares.eu will
-  ultimately only contain a redirect to the new site with compliments to
-  BitShares Europe. However, the BitShares Blockchain Foundation needs to
-  clarify the scope of this portal and the terminology used properly so as
-  not to interfere with the content of sites like bitshares.legal.
+  appropriate documentation that rarely changes.
+
+* **bitshares.works** (*Community managed*) - This domain is meant to
+  become the main hub of end-user information and thus will contain user
+  guides, instructions, tutorials as well as some basic technical
+  documentation. The content on this page will be community driven (e.g.
+  through the approved documentation worker) similar to the previous
+  documentation portal hosted on docs.bitshares.eu. The documentation part
+  of bitshares.eu will ultimately only contain a redirect to the new
+  site with compliments to BitShares Europe. However, the BitShares
+  Blockchain Foundation needs to clarify the scope of this portal and the
+  terminology used properly so as not to interfere with the content of
+  sites like bitshares.legal.
 
 * **bitshares.foundation** (*BBF managed*) - Presentation of the
   BitShares Blockchain and its native core token BTS as a platform for
