@@ -2,7 +2,7 @@
 layout: worker
 type: budget
 bfid: 201804-general-presentation
-workerid:
+workerid: 1.14.101
 title: Update BitShares' General Public Presentation
 name: BitShares Blockchain Foundation
 company:
@@ -25,7 +25,7 @@ reports:
 ---
 
 ## General
-As reported in the Spokesperson reports of January 11th 2018 and  March
+As reported in the Spokesperson reports of January 11th 2018 and March
 2nd, the BitShares community faces serious issues as a result of the
 information that is presented to the public, international regulators,
 lawmakers and investors with respect to BitShares as a platform, its
@@ -34,18 +34,20 @@ ecosystem. The main source of this information has always been
 bitshares.org. Thus, the legal counsel of BitShares Blockchain
 Foundation, Paul Hastings, advised us to remove this content immediately
 and start from scratch with regulatory terminology in mind under a
-non-profit entity. Until recently, the domain bitshares.org was owned by
-Cryptonomex Inc. and could not be obtained by the BitShares Blockchain
-Foundation, as described in the latest Spokesperson report. So far, the
-content on that domain has been provided by BitShares community members.
-This, however, has resulted in marginal modifications over the last
-years, despite growing regulatory pressure. Since then, the domain
-bitshares.org has been transferred to @apasia.tech, a Bangkok-based
-Blockchain company. We’d like to express to the new owner of
-bitshares.org that we are open-minded for future collaboration to find a
-solution that best suits the ecosystem. In the meantime, we would like
-to propose the following solution, since regulatory pressure is
-immediate.
+non-profit entity.
+
+Until recently, the domain bitshares.org was owned by Cryptonomex Inc.
+and could not be obtained by the BitShares Blockchain Foundation, as
+described in the latest Spokesperson report. So far, the content on that
+domain has been provided by BitShares community members. This, however,
+has resulted in marginal modifications over the last years, despite
+growing regulatory pressure. Since then, the domain bitshares.org has
+been transferred to @apasia.tech, a Bangkok-based Blockchain company.
+
+We'd like to express to the new owner of bitshares.org that we are
+open-minded for future collaboration to find a solution that best suits
+the ecosystem. In the meantime, we would like to propose the following
+solution, since regulatory pressure is immediate.
 
 ## The plan
 With our ongoing efforts to rework presentation of the BitShares
@@ -60,7 +62,7 @@ internet domains and are going to launch them:
   picture of what the BitShares Blockchain is and what the BTS token
   represents with all the details properly described in appropriate
   terminology. Content here clearly targets lawyers and regulators with
-  appropriate documentation that rarely changes.  bitshares.works
+  appropriate documentation that rarely changes. bitshares.works
   (*Community managed*) - This domain is meant to become the main hub of
   end-user information and thus will contain user guides, instructions,
   tutorials as well as some basic technical documentation. The content on
@@ -84,7 +86,7 @@ internet domains and are going to launch them:
   commercial activity only. The first document is likely to go online at
   the end of this week as it is needed in the case of Bittrex Inc.
 
-* **bitshares.exchange**  (*Community managed*) - This domain will be
+* **bitshares.exchange** (*Community managed*) - This domain will be
   the entry point to the BitShares Blockchain and will host the
   reference wallet previously at wallet.bitshares.org. Even though the
   domain is owned by the BitShares Blockchain Foundation, we would like to
