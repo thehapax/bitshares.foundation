@@ -10,10 +10,8 @@ company:
  url: http://bitshares.foundation
 status: pending
 discussions:
-# - name: bitsharestalk
-#   url:
-# - name: steemit
-#   url:
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=26167.new#new
 price: $45,000
 duration: 6 months
 start: 2018/04/01
