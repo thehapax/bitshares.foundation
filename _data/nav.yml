@@ -1,5 +1,7 @@
 - name: imprint
   link: /imprint
+- name: lists
+  link: http://lists.bitshares.foundation
 - name: workers
   link: /worker
 - name: spokesperson

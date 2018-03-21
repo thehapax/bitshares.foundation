@@ -11,6 +11,14 @@ by BTS holders, obtain funding in BTS tokens from the working budget
 (a.k.a. reserves) of the BitShares DAC. These BTS tokens are then traded
 into a *price-stable* cryptocurrency, such as bitUSD.
 
+## Transparency
+
+We want to serve an open and trust-less ecosystem. As such, we provide
+full transparency to the BitShares network.
+For the sake of **transparency and accountability**, we have the
+accounting for the escrow workers under public domain. You can read more
+about this on our dedicated [Accountability Page](/accounting).
+
 ## Spending Budgets
 
 The BitShares Blockchain Foundation currently maintains the following
@@ -98,9 +106,3 @@ multi-signature escrow setup with the independent BitShares Foundation.
 
 [Blockchain Projects BV](http://blockchainprojectsbv.com) has offered to
 handle the technical details and lead quality assurance procedures.
-
-## Accounting
-
-For the sake of **transparency and accountability**, we have the
-accounting for the escrow workers under public domain. You can read more
-about this on our dedicated [Accountability Page](/accounting).

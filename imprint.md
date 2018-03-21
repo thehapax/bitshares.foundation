@@ -31,3 +31,12 @@ Donations are welcome and much needed to keep operations on going since the
 BitShares Blockchain Foundation has neither raised money nor does it have
 special privileges within the BitShares DAC. For further instructions, please
 see our [donations page](/donations)
+
+# Partnerships
+
+The BitShares Blockchain Foundation is an independent entity and acknowledges
+its responsiblity towards the BitShares Blockchain by staying an independent
+non-profit organization. As a consequence, the BitShares Blockchain Foundation
+can and will not enter into partnerships with 3rd parties, neither can it enter
+into partnerships in the name of the BitShares Blockchain, or the BitShares
+Community.
