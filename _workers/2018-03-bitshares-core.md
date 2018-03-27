@@ -1,4 +1,5 @@
 ---
+language: en
 layout: worker
 type: budget
 bfid: 201803-bitshares-core

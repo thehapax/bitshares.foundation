@@ -1,4 +1,5 @@
 ---
+language: en
 layout: budget
 type: budget
 bfid: 201801-budget-chinese-translations

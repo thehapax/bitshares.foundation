@@ -7,7 +7,7 @@
   </tr>
  {%- assign sorted = site.workers | sort: 'date' | reverse -%}
  {%- for worker in sorted -%}
- {%- if worker.status != "finished" -%}
+ {%- if worker.status != "finished" and worker.language == "en" -%}
    <tr>
     <td>
      <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>

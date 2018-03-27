@@ -1,4 +1,5 @@
 ---
+language: en
 layout: worker
 type: escrow
 bfid: 2017-12-blockchainacademy

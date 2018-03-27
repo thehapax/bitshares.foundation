@@ -20,6 +20,7 @@ paymentaccount: bitshares.foundation
 payments:
 invoices:
 reports:
+language: en
 ---
 
 ## General
