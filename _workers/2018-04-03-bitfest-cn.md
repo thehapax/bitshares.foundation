@@ -30,23 +30,23 @@ discussions:
 
 我们将推出周末的活动门票，以供所有与会人员随意选择和任意组合。
 
- | Nr. | Ticket | Price |
+ | 序号 | 门票 | 价格 |
  | --- | ------ | ----- |
- | 1   | Friday Ticket - Friday Afternoon Activities | 65 EUR excl. VAT |
- | 2 | Early Bird Ticket - Saturday Conference*  | 100 EUR excl. VAT | 
- | 3 | Regular Ticket - Saturday Conference | 150 EUR excl. VAT |
- | 4 | Walking Dinner Ticket - Saturday Night | 65 EUR excl. VAT |
+ | 1   | 周五门票——周五下午活动 | 65 EUR excl. VAT |
+ | 2 | 早鸟票——周六会议*  | 100 EUR （不含增值税）| 
+ | 3 | 普通票——周六会议  | 150 EUR（不含增值税）|
+ | 4 | 步行晚宴门票——周六晚宴 | 65 EUR（不含增值税）|
 
-* Only the first 100 buyers get the ticket at a reduced price 
+* 仅限前100位购票者可享受折扣优惠。
 
-We already found a suitable venue for BitFest. The building is located in the city centre of Amsterdam and has an industrial atmosphere. The venue offers several separate rooms which allows us to run a rich program of speakers and activities. Each room can have its own theme and visitors can go where they like. All activities are on walking distance from each other and in a compact (lovely canal) area around the central station.
+我们目前已经找到了适合举办比特集会的地点。这座建筑坐落于阿姆斯特丹的市中心，具一种浓郁的工业风。此场所拥有几间独立的活动室，适合用于举办各种类型的演讲和活动。每间活动室都设自己的主题，与会者可根据自己的喜欢自行参加。所有活动项目彼此相隔仅数步之遥，且全部集中在中央车站周围（可欣赏美丽的运河）。
 
-## Community Involvement BitFest Program, Topics, and Speakers
-We have already set up a basic plan, found a great venue and prepared a website. For determining the final program content, topics to be discussed and which speakers to invite, we would like to involve the Community. This means that we would like to offer the opportunity to the community to apply for presentations first.
+## 社区参与确定比特集会的会议日程、主题和演讲嘉宾
+我们目前已经制定了基本的计划，找到了适合的场所，并且做好了网站。为了确定会议日程的最终内容、需要讨论的主题以及准备邀请的演讲嘉宾，我们希望社区能参与其中。这意味着我们愿意优先为社区提供申请演讲展示的机会。
 
-## Our Proposal
-This is the first conference especially targeted specifically for the BitShares Community. We believe that it will be an amazing and inspiring weekend for all involved and we are really passionate to organize it. However, as it is the first conference in its kind, it is hard to estimate how many participants there will be and whether it will be a success or not. Therefore, we would like to ask the Community to cover our risk. For instance, when too few tickets are sold we would have to incur a loss for the fixed costs as venue reservation, invited speakers, website costs besides the effort we put into planning and organizing BitFest. This means that, we, as a non-profit organization run a risk here, and we do not want a body with losses.
+## 我们的提议
+这是专门针对BitShares社区举办的首次会议。我们相信这将是一个令所有参与者惊奇和鼓舞的周末，因为我们的确投入了极大的热情来组织这次会议。但毕竟此次会议是有史以来的第一次，因此很难预估会有多少参与者，以及是否能圆满举行。为此，我们希望社区能为我们承担相关的风险。例如，售出的门票太少时，除了我们为筹划和组织比特集会所付出的努力外，我们还会因场地预订、邀请演讲嘉宾、网站制作等固定成本而遭受损失。这意味着，作为一家非盈利性组织，我们需要承担举办这一活动的风险，而我们并不想让机构亏损。
 
-With this Worker, we ask the Community to cover the costs and penalties of 20.000 EUR that would arise if we would have to cancel the conference up to a month before the planned date. This concerns costs related to the venue rent, penalties on planned activities, penalties on hired event personal, invited speakers, and catering. We have not done any final reservations/obligations yet. As soon as this worker proposal is approved, we will put our plan into action and make all necessary reservations and start contractual obligations.
+为此，我们借由该工人请求社区承担我们在预计日期前一个月取消会议所发生的费用和罚金共计20.000欧元。这其中涉及到场地租金、计划活动的取消罚金，以及聘用活动人员、受邀演讲嘉宾以及餐饮服务的取消罚金。目前，我们还没有完成最终预订，因此尚未发生任何费用。一旦这位工人的提议获得批准，我们便将会立即将这一计划付诸行动，进行一切必要的预订，并开始履行合同义务。
 
-What happens with the money if BitFest will be a success? Well, we have got a plan for that, too. In that case, we will use the funds provided by the Community to keep the ticket prices low, so attending the conference will be feasible for more people. Furthermore, a part of the funds will be spend on merchandise and marketing of BitFest.
+假如比特集会成功举办，这笔资金又如何处理呢？ 我们对此也有一个计划。在这种情况下，我们会利用社区提供的资金来降低门票价格，以便让更多的人能参与会议。此外，还有一部分资金将用于购买商品和比特集会的推广宣传。
