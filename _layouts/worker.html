@@ -61,7 +61,7 @@
        <ul>
        {% for d in page.payments %}
        <li>
-        {{d.date}} - <a href="http://bitshares-explorer.io:9009/#/objects/{{ d.opid }}">{{d.amount}}</a>
+        {{d.date}} - <a href="http://bitshares-explorer.io/#/objects/{{ d.oid }}{{ d.opid }}">{{d.amount}}</a>
        </li>
        {% endfor %}
        </ul>
