@@ -1,0 +1,30 @@
+{% include header.html %}
+<body>
+<div class="wrapper">
+    {% include navbar.html %}
+    <div class="container content">
+        <h2>{{page.title}}<br/>
+            {% if page.steemit-link %}
+            <p class="subheader-right">also published on <a href="{{ page.steemit-link }}">Steemit</a></p>
+            {% endif %}
+
+            {% assign articles=site.articles | where:"identifier", page.identifier | sort: 'language' | reverse %}
+            {% assign allSites=articles %}
+            {% assign len=allSites | size %}
+            {% if len > 0 %}
+                <p class="subheader-right language-selector"> available in multiple languages
+                    <!--{% for site in allSites %}
+                        <a lang="{{ page.language }}" href="{{ site.url }}" class="{{ site.language }}">{{ site.language }}</a>
+                    {% endfor %}-->
+                </p>
+            {% endif %}
+
+            <p class="subheader">approved and published on {{ page.date | date: "%m/%d/%Y" }}</p>
+        </h2>
+        <p>
+            {{ content }}
+        </p>
+    </div>
+</div>
+{% include footer.html %}
+</body>

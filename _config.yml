@@ -16,7 +16,8 @@ collections:
   output: true
   permalink: /:collection/:name
  articles:
-  output: false
+  output: true
+  permalink: /:collection/:name
 
 plugins:
   - jekyll-redirect-from

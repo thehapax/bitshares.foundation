@@ -1,5 +1,6 @@
 ---
 layout: default
+language: en
 ---
 
 The *(Stichting) BitShares Blockchain Foundation* is a non-profit organization

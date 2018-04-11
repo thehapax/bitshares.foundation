@@ -1,21 +1,21 @@
 <table>
-  <tr>
-   <th>Title</th>
-   <th>Worker</th>
-   <th>Price</th>
-   <th>Duration</th>
-  </tr>
- {%- assign sorted = site.workers | sort: 'date' | reverse -%}
- {%- for worker in sorted -%}
- {%- if worker.status != "finished" and worker.language == "en" -%}
-   <tr>
-    <td>
-     <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
-    </td>
-    <td>{{worker.bfid}}</td>
-    <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
-    <td>{{worker.duration}}</td>
-   </tr>
- {% endif %}
- {% endfor %}
+    <tr>
+        <th>Title</th>
+        <th>Worker</th>
+        <th>Price</th>
+        <th>Duration</th>
+    </tr>
+    {%- assign sorted = site.workers | sort: 'bfid' | reverse -%}
+    {%- for worker in sorted -%}
+        {%- if worker.status != "finished" and worker.language == page.language -%}
+            <tr>
+                <td>
+                    <a class="worker-link" href="{{ worker.url | prepend: site.baseurl }}">{{ worker.title }}</a>
+                </td>
+                <td>{{worker.bfid}}</td>
+                <td>{{worker.price}}<br/>(<strong>{{worker.type}}</strong>)</td>
+                <td>{{worker.duration}}</td>
+            </tr>
+        {% endif %}
+    {% endfor %}
 </table>

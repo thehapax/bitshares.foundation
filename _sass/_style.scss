@@ -76,6 +76,11 @@ h1, h2, h3, h4, h5 {
 .navbar {
     padding: 50px 0 50px 0;
 }
+.language-selector {
+  .en:lang(en), .cn:lang(cn){
+    font-weight: bold;
+  }
+}
 .navbar-ul {
     display: inline-block;
     margin: 0;

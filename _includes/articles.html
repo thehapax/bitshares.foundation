@@ -1,17 +1,29 @@
 <section class="post-list">
-  <div class="container">
-   <ul>
-    {% assign sorted = site.articles | sort: 'date' | reverse %}
-    {% for post in sorted | limit: 5 %}
-    <li>
-     <div class="ann">
-      <span class="ann-title"><a href="/download/articles/{{ post.article }}">{{ post.title }}</a></span>
-      <span class="ann-date">[{{ post.date | date: "%Y %b %d" }}]</span>
-     </div>
-    </li>
-    {% endfor %}
-   </ul>
-  </div>
+    <div class="container">
+        <ul>
+            {% assign sorted = site.articles | sort: 'date' | reverse %}
+            {% assign limitSize = 5 %}
+            {% if page.show_all %}
+                {% assign limitSize = sorted | size %}
+            {% endif %}
+            {% for post in sorted | limit: limitSize %}
+                {% if page.language == null or page.language == empty or post.language == null or post.language == empty or post.language == page.language %}
+                    <li>
+                        <div class="ann">
+                            {% if post.article %}
+                                <span class="ann-title"><a href="/download/articles/{{ post.article }}">{{ post.title }}</a></span>
+                            {% else if %}
+                                <span class="ann-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></span>
+                            {% endif %}
+                            <span class="ann-date">[{{ post.date | date: "%Y %b %d" }}]</span>
+                        </div>
+                    </li>
+                {% endif %}
+            {% endfor %}
+        </ul>
+    </div>
 </section>
 
+{% unless page.show_all %}
 Show {[all articles](/articles)}
+{% endunless %}

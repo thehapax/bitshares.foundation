@@ -1,17 +1,31 @@
- <div class="navbar container">
-  <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">
-   <img class="logo" src="/img/logo.png" />
-  </a>
-  <ul class="alignable pull-right navbar-ul">
-   {% for x in site.data.nav %}
-   <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
-    {% if forloop.first == false %}
-    /
+<div class="navbar container">
+    <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">
+        <img class="logo" src="/img/logo.png"/>
+    </a>
+    <ul class="alignable pull-right navbar-ul">
+        {% for x in site.data.nav %}
+        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+            {% if forloop.first == false %}
+            /
+            {% endif %}
+        </li>
+        {% endfor %}
+    </ul>
+    {% assign workers=site.workers | where: 'bfid', page.bfid | sort: 'language' %}
+    {% assign articles=site.articles | where: 'identifier', page.identifier | sort: 'language' %}
+    {% assign allSites=articles | concat: workers %}
+    {% assign len=allSites | size %}
+    {% if len > 0 %}
+        <div style="clear:both"></div>
+        <ul class="alignable pull-right navbar-ul language-selector">
+            {% for site in allSites %}
+                <li class="alignable pull-right nav-list">
+                    <a lang="{{ page.language }}" href="{{ site.url }}" class="{{ site.language }}">{{ site.language }}</a>
+                </li>
+            {% endfor %}
+        </ul>
     {% endif %}
-   </li>
-   {% endfor %}
-  </ul>
- </div>
- <div style="clear:both"></div>
- <hr>
+</div>
+<div style="clear:both"></div>
+<hr>
 

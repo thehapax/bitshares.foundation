@@ -14,7 +14,7 @@ duration: 6 months
 start: 2018/04/01
 end: 2018/09/23
 paymentaccount: bitshares.foundation
-language: en
+language: cn
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26237.0
