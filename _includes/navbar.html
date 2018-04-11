@@ -15,7 +15,7 @@
     {% assign articles=site.articles | where: 'identifier', page.identifier | sort: 'language' %}
     {% assign allSites=articles | concat: workers %}
     {% assign len=allSites | size %}
-    {% if len > 0 %}
+    {% if len > 1 %}
         <div style="clear:both"></div>
         <ul class="alignable pull-right navbar-ul language-selector">
             {% for site in allSites %}
