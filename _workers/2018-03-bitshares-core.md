@@ -33,7 +33,9 @@ payments:
  - date: 2018/04/23
    oid: 1.11.175202363
    amount: 24,105.75 bitUSD
-
+ - date: 2018/05/15
+   oid: 1.11.196570020
+   amount: 16,817.50 bitUSD
 invoices:
  - CoreTeam-2018-Week-10.xlsx
  - CoreTeam-2018-Week-11.xlsx
