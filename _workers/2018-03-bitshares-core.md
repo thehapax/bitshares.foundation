@@ -16,7 +16,7 @@ discussions:
  - name: steemit
    url: https://steemit.com/bitshares/@fox/voting-for-bitshares-core-team-worker-proposal-2018
 price: $711,774
-duration: 9 months
+duration: 10 months
 start: 2018/03/02
 end: 2018/12/31
 paymentaccount: bitsharesdev
@@ -41,6 +41,7 @@ invoices:
  - CoreTeam-2018-Week-11.xlsx
  - CoreTeam-2018-Week-13.xlsx
  - CoreTeam-2018-Week-15.xlsx
+ - CoreTeam-2018-Week-17.xlsx
 reports:
 redirect_from: 
  - /worker/budget/2018-03-bitshares-core
