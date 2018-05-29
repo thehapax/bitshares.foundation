@@ -47,7 +47,6 @@ invoices:
  - CoreTeam-2018-Week-17.xlsx
  - CoreTeam-2018-Week-17-2.xlsx
  - CoreTeam-2018-Week-19.xlsx
-reports:
 redirect_from: 
  - /worker/budget/2018-03-bitshares-core
 ---

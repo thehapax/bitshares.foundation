@@ -7,8 +7,8 @@ workerid: 1.14.83
 title: BitShares UI Team
 name: Bill Butler
 company:
-  name:
-  url:
+ name:
+ url:
 status: paying
 discussions:
  - name: steemit/@billbutler
@@ -28,12 +28,12 @@ payments:
  - date: 2018/04/23
    oid: 1.11.175203741
    amount: 14,056.25 bitUSD
-- date: 2018/05/15
-  oid: 1.11.196568064
-  amount: 19,468.75 bitUSD
-- date: 2018/05/29
-  oid: 1.11.208071292
-  amount: 17,343.75 bitUSD
+ - date: 2018/05/15
+   oid: 1.11.196568064
+   amount: 19,468.75 bitUSD
+ - date: 2018/05/29
+   oid: 1.11.208071292
+   amount: 17,343.75 bitUSD
 paymentaccount: bitshares-ui
 invoices:
  - 201802-bitsharesui-Sprint-180302.xlsx
