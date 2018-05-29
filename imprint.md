@@ -7,7 +7,7 @@ The **Stichting BitShares Blockchain Foundation** is registered in
 
     Stichting BitShares Blockchain Foundation
     Zutphenseweg 6
-    7411ZB Deventer
+    7418AJ Deventer
     Netherlands
     KVK nummer: 66190169
 
