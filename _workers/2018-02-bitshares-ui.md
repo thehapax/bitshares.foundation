@@ -34,6 +34,9 @@ payments:
  - date: 2018/05/29
    oid: 1.11.208071292
    amount: 17,343.75 bitUSD
+ - date: 2018/05/30
+   oid: 1.11.208816871
+   amount: 125 bitUSD
 paymentaccount: bitshares-ui
 invoices:
  - 201802-bitsharesui-Sprint-180302.xlsx
@@ -42,6 +45,7 @@ invoices:
  - 201802-bitsharesui-Sprint-180418.xlsx
  - 201802-bitsharesui-Sprint-180501.xlsx
  - 201802-bitsharesui-Sprint-180525.xlsx
+ - 201802-bitsharesui-Sprint-180525-2.xlsx
 price: $210,000
 duration: 6 months
 start: 2018/02/15
