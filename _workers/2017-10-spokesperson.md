@@ -23,6 +23,9 @@ end: 2018/12/31
 redirect_from: 
  - /workers/2017-10-spokesperson
  - /worker/escrow/2017-10-spokesperson
+reports:
+ - name: Hours (October 2017 - March 2018)
+   url: download/invoices/201710-spokesperson/Spokesperson Hours October 2017 - March 2018.pdf
 ---
 
 # Introduction
