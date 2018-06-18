@@ -53,8 +53,9 @@ This is a *protocol upgrade release*. **All** nodes must upgrade before `2018-07
 
 ## Change Log
 
-The detailed lists about bug and security fixes can be found in the [Release
-Notes](https://github.com/bitshares/bitshares-core/releases/tag/2.0.180425)
+The detailed lists of updates, bug fixes and security fixes can be found
+in the [Release
+Notes](https://github.com/bitshares/bitshares-core/releases/tag/2.0.180612)
 
 ## Docker
 
