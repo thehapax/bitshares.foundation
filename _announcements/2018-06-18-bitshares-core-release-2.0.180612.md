@@ -1,5 +1,5 @@
 ---
-title: BitShares Core Release 2.0.180425
+title: BitShares Core Release 2.0.180612 (mandatory upgrade)
 layout: announcement
 ---
 
