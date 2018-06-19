@@ -42,6 +42,9 @@ payments:
  - date: 2018/05/30
    oid: 1.11.208818054
    amount: 21,850.00 bitUSD
+ - date: 2018/06/19
+   oid: 1.11.224511984
+   amount: 16,482.50 bitUSD
 invoices:
  - CoreTeam-2018-Week-10.xlsx
  - CoreTeam-2018-Week-11.xlsx
@@ -51,6 +54,7 @@ invoices:
  - CoreTeam-2018-Week-17-2.xlsx
  - CoreTeam-2018-Week-19.xlsx
  - CoreTeam-2018-Week-21.xlsx
+ - CoreTeam-2018-Week-23.xlsx
 redirect_from: 
  - /worker/budget/2018-03-bitshares-core
 ---
