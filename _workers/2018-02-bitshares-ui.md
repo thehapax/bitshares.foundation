@@ -49,7 +49,7 @@ invoices:
 price: $210,000
 duration: 6 months
 start: 2018/02/15
-end: 2018/08/15
+end: 2018/06/15
 redirect_from: 
  - /worker/budget/2018-02-bitshares-ui
 ---
