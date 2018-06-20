@@ -26,3 +26,4 @@ following two reports:
 * [Report 1](https://steemit.com/bitshares/@bitshares.fdn/report-spokesperson-bitshares-blockchain-foundation-on-bittrex-inc-and-other-regulatory-issues)
 * [Report 2](https://steemit.com/bitshares/@bitshares.fdn/second-report-spokesperson-bitshares-blockchain-foundation-on-bittrex-inc-and-other-regulatory-issues)
 * [Report 3](https://steemit.com/bitshares/@bitshares.fdn/report-3-spokesperson-on-lykke-listings-workers-and-ongoing-material)
+* [Report 4](https://steemit.com/spokesperson/@bitshares.fdn/spokesperson-report-2018-05-bitshares-blockchain-foundation-bbf)
