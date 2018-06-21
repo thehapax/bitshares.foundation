@@ -62,3 +62,25 @@ Notes](https://github.com/bitshares/bitshares-core/releases/tag/2.0.180612)
 The new docker container has been built by Docker Hub and is available via
 
     docker pull bitshares/bitshares-core:2.0.180612
+
+## Protocol Upgrade: A reliable and secure hard fork
+
+The new release modifies the blockchain protocol and
+due to this is a consensus-changing modification. While the usual
+terminology for this kind of upgrade in other blockchains is
+**hard-fork**, we would like to emphasis a new term for Graphene-based
+blockchains: **protocol upgrade**. The reasons we distinguish our
+upgrades from a **hard-forks**, is that our consensus mechanism -
+delegated proof of stake (DPOS) - does **not allow** for the blockchain
+to **split** into two (or even more) independent blockchains.
+BitShares comes with an **inherent replay protection** and together with
+BTS holder-approved block producers cannot result in a splitting of the
+blockchain.
+
+## Mailing Lists
+
+We would like to remind everyone of the [mailing
+lists](http://lists.bitshares.foundation/listinfo) operated by the BitShares
+Blockchain Foundation where business operators and users can engage discussions
+and get the most recent updates, directly. An distinct mailing list for
+*critical* operation updates exists, too.
