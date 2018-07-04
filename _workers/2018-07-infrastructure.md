@@ -12,7 +12,7 @@ company:
 status: paying
 discussions:
  - name: bitsharestalk
-   url: to be linked
+   url: "https://bitsharestalk.org/index.php?topic=26778.0"
 price: 32,860 USD
 price_division:
     fixed: 13,860 USD
