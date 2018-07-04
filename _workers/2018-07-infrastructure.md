@@ -138,13 +138,13 @@ The BitShares Blockchain Foundation runs the escrow operations and earns 10% of 
 
 The total costs are summarized again (marked with ~ where estimated expense)
 
-         7 * 1,650 USD
-     +     7 * 330 USD
-     +      8 * 50 USD
-     + 8 * 7 * 100 USD ~
-     +       8,000 USD ~
-     +       4,000 USD ~
-     +    100 * 10 USD ~
+         7 * 1,650 USD     (node maintenance fee)
+     +     7 * 330 USD     (faucet fee)
+     +      8 * 50 USD     (premium SSL)
+     + 8 * 7 * 100 USD ~   (node server costs)
+     +       8,000 USD ~   (stress test development)
+     +       4,000 USD ~   (stress test operations)
+     +    10 * 100 USD ~   (stress test server costs)
      ============================
      = 32,860 USD
 
