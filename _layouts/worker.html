@@ -21,7 +21,11 @@
      </tr>
      <tr>
       <th>Total</th>
-      <td>{{page.price}}</td>
+      <td>{{page.price}}
+		{% if page.price_division %}
+				({{page.price_division.fixed}} fees and {{page.price_division.variable}} estimated expenses)
+		{% endif %}
+      </td>
      </tr>
      <tr>
       <th>Duration</th>

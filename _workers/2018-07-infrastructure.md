@@ -13,7 +13,10 @@ status: paying
 discussions:
  - name: bitsharestalk
    url: to be linked
-price: 32,860 USD (13,860 USD fees and 19,000 USD estimated expenses)
+price: 32,860 USD
+price_division:
+    fixed: 13,860 USD
+    variable: 19,000 USD
 duration: 6 months
 start: 2018/07/01
 end: 2019/01/31
