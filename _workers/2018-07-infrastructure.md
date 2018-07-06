@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: budget
 bfid: 201807-infrastructure
-workerid: not yet created
+workerid: 1.14.108
 title: "Renewal 1: Deploy and maintain independent BitShares infrastructure"
 name: Blockchain Projects BV
 company:
@@ -17,7 +17,7 @@ price: 32,860 USD
 price_division:
     fixed: 13,860 USD
     variable: 19,000 USD
-duration: 6 months
+duration: 7 months
 start: 2018/07/01
 end: 2019/01/31
 reports:
