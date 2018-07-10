@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: budget
 bfid: 201807-hackthedex
-workerid: n.a.
+workerid: 1.14.109
 title: Hack the DEX - a BitShares Bug Bounty Program
 name: Matt Beckman
 company:
@@ -17,7 +17,7 @@ price: up to $250,000 bitUSD
 duration: 6 months
 start: 2018/07/15
 end: 2019/01/15
-paymentaccount: bitshares.foundation
+paymentaccount: hackthedex-distribution
 reports:
 payments:
 invoices:
