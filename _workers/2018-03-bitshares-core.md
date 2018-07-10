@@ -125,7 +125,7 @@ results will warrant subsequent Worker(s) to budget for additional team members 
 | Core Developer                    |                    $150 | Alfredo Garcia  | 2 hours weekly^   |
 | Junior Core Developer, BA         |                    $125 | Taconator       | 10 hours weekly   |
 | Business Analyst, Coordinator, QA |                    $125 | Ryan R. Fox     | 15 hours weekly   |
-| Lead Documentation Specialist, QA |                    $ 90 | Tamami Sugimoto | 10 hours weekly   |
+| Lead Documentation Specialist, QA |                    $ 90 | T. Sugimoto     | 10 hours weekly   |
 | UI/UX Liaison                     |                    $125 | Bill Butler     | 2 hours weekly    |
 | Core Developers                   |                    $125 | -open-          | -                 |
 | Business Analysts                 |                    $ 75 | -open-          | -                 |
@@ -434,7 +434,7 @@ to successfully build those technical products. (Just because one might have a "
 mean that every problem is a "nail".) These solutions span from augmented reality applications on
 mobile devices to global distributed software systems.
 
-Tamami Sugimoto - Documentation Specialist, QA/Tester
+T. Sugimoto - Documentation Specialist, QA/Tester
 =====================================================
 
 I have created and revised documentation for BitShares over the past year [15]. I hold a Masters in
@@ -575,5 +575,5 @@ References
 * [12] [Core Dev Worker](https://github.com/oxarbitrage/worker-proposals/blob/master/bitshares2018_1.md), Alfredo Garcia
 * [13] [BitShares Core Contributions](https://github.com/bitshares/bitshares-core/commits?author=oxarbitrage), Alfredo Garcia
 * [14] [GitHub Repository](https://github.com/oxarbitrage), Alfredo Garcia
-* [15] [BitShares Documentation](), Tamami Sugimoto
+* [15] [BitShares Documentation](), T. Sugimoto
 * [16] [BitShares GUI Worker](https://steemit.com/bitshares/@billbutler/bitshares-gui-worker-proposal-renewal), Bill Butler
