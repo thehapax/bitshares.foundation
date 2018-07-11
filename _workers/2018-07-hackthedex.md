@@ -12,7 +12,7 @@ company:
 status: pending
 discussions:
  - name: bitsharestalk
-   url: https://bitsharestalk.org/...
+   url: https://bitsharestalk.org/index.php?topic=26806.0
 price: up to $250,000 bitUSD
 duration: 6 months
 start: 2018/07/15
