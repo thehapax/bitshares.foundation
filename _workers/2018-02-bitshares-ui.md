@@ -43,7 +43,6 @@ payments:
  - date: 2018/07/11
    oid: 1.11.278442040
    amount: 11,368.75 bitUSD
-278442040
 paymentaccount: bitshares-ui
 invoices:
  - 201802-bitsharesui-Sprint-180302.xlsx
