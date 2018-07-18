@@ -1,5 +1,6 @@
 ---
 layout: worker
+language: en
 bfid: 201808-bitshares-ui
 workerid:
 title: BitShares UI Team
