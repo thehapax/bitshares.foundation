@@ -35,11 +35,11 @@ payments:
    oid: 1.11.167987463
    amount: 5,859.42 bitUSD
 invoices:
- - 201712-infrastructure/Invoice 2018-17.pdf
- - 201712-infrastructure/20180216-BitSharesEurope Faucet.pdf
- - 201712-infrastructure/20180216-Factuur 2018-4.pdf
- - 201712-infrastructure/20180216-Hetzner Invoice 20180203.pdf
- - 201712-infrastructure/20180216-Linode + AWS.PDF
+ - Invoice-2018-17.pdf
+ - 20180216-BitSharesEurope Faucet.pdf
+ - 20180216-Factuur 2018-4.pdf
+ - 20180216-Hetzner Invoice 20180203.pdf
+ - 20180216-Linode + AWS.PDF
 
 ---
 

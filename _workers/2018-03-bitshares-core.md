@@ -56,7 +56,6 @@ invoices:
  - CoreTeam-2018-Week-11.xlsx
  - CoreTeam-2018-Week-13.xlsx
  - CoreTeam-2018-Week-15.xlsx
- - CoreTeam-2018-Week-17.xlsx
  - CoreTeam-2018-Week-17-2.xlsx
  - CoreTeam-2018-Week-19.xlsx
  - CoreTeam-2018-Week-21.xlsx

@@ -10,7 +10,8 @@ company:
  name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
 status: paying
-payments:
+payments: []
+invoices: []
 discussions:
 price: $6,000
 duration: 6 months
