@@ -15,7 +15,7 @@ status:
   worker-finished: False
 discussions:
 payments:
-price: 290,000$
+price: up to 290,000$
 duration: 8 months
 start: 2018/08/01
 end: 2019/03/31
@@ -82,14 +82,13 @@ This worker proposal will continue to enhance this effort by:
 * Establish a more methodical QA and testing phase before releasing each version.
 * Create a series of automated front and backend tests to reduce resurfacing bugs.
 
-
 # Development Cost
 
 Currently, updates to the bitshares-ui are handled by Sigve Kvalsvik
-(@svk). We have included the BitShares Foundation on this proposal in
-order to increase the surface area for code review, testing and
-acceptance as well as facilitate payments in bitUSD. This proposal is
-intended to alocate a budget for making improvements to the BitShares
+(@svk). We have included the BitShares Blockchain Foundation on this
+proposal in order to increase the surface area for code review, testing
+and acceptance as well as facilitate payments in bitUSD. This proposal
+is intended to alocate a budget for making improvements to the BitShares
 client and establish a more formal and ongoing effort towards the
 development effort.
 
