@@ -1,5 +1,5 @@
 ---
-title: Invitation for Advisory Board
+title: The BitShares Blockchain - Whitepaper
 article: BitSharesBlockchain.pdf
 language: en
 ---
