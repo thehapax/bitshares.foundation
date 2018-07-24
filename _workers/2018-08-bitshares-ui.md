@@ -41,7 +41,7 @@ will be gathered into Milestones with a two week release schedule.
 Anyone in the community will be able to claim, work and submit a PR for
 that issue. If the PR is accepted, the user will be paid according to
 the terms on the
-[README.md](https://github.com/bitshares/bitshares-ui/blob/bitshares/README.md)
+[README.md](https://github.com/bitshares/bitshares-ui/blob/develop/README.md)
 under the Development Process heading.
 
 # Prioritization
