@@ -15,6 +15,10 @@ status:
   worker-paying: False
   worker-finished: False
 discussions:
+ - name: Bitshares Talk
+   url: https://bitsharestalk.org/index.php?topic=26858.0
+ - name: steemit/@sc-steemit
+   url: https://steemit.com/bitshares/@sc-steemit/worker-proposal-bitshares-ui-renewal
 payments:
 price: up to 290,000$
 duration: 8 months
