@@ -25,8 +25,10 @@ reports:
    url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Roadmap_2017-12-infrastructure.pdf
  - name: 2018-01-15 Interim report
    url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Interim_report_1_2017-12-infrastructure.pdf
- - name: 2018-01-15 Final development report
-   url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Final_development_report_2017-12-infrastructure.pdf
+ - name: 2018-01-15 Interim report 2
+   url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Interim_report_2_2017-12-infrastructure.pdf
+ - name: 2018-07-26 Final report
+   url: https://github.com/blockchainprojects/2017-12-infrastructure/blob/master/Final_report_2017-12-infrastructure.pdf
 payments:
  - date: 2018/02/16
    oid: 1.11.24473034
