@@ -2,6 +2,7 @@
 layout: worker
 language: en
 bfid: 201808-bitshares-ui
+type: budget
 workerid: 1.14.112
 title: BitShares UI Team
 name: Bill Butler

@@ -1,19 +1,26 @@
 ---
-language: en
 layout: worker
+language: en
+bfid: 201808-flash-global-infrastructure
 type: budget
-bfid: 2018-08-flash-global-infrastructure
 workerid: not created yet
-title: “Project: Flash” - Global Infrastructure for BitShares by APAsia.tech
+title: "Project: Flash - Global Infrastructure for BitShares by APAsia.tech"
 name: Milos Preocanin
 company:
  name: AP Asia Tech Co., LTD.
  url: http://apasia.tech
-status: draft
+status:
+  proposal-vetted: True
+  worker-created: True
+  worker-approved: False
+  worker-paying: False
+  worker-finished: False
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26860.0"
+payments:
 price: up to 25500 USD
+duration: 6 months
 duration: 6 months
 start: 2018/08/01
 end: 2019/02/02
