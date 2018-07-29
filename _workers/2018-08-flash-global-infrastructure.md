@@ -3,7 +3,7 @@ layout: worker
 language: en
 bfid: 201808-flash-global-infrastructure
 type: budget
-workerid: not created yet
+workerid: 1.14.115
 title: "Project: Flash - Global Infrastructure for BitShares by APAsia.tech"
 name: Milos Preocanin
 company:
@@ -20,7 +20,6 @@ discussions:
    url: "https://bitsharestalk.org/index.php?topic=26860.0"
 payments:
 price: up to 25500 USD
-duration: 6 months
 duration: 6 months
 start: 2018/08/01
 end: 2019/02/02
