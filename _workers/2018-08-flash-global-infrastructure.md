@@ -1,4 +1,4 @@
- ---
+---
 language: en
 layout: worker
 type: budget
@@ -17,7 +17,6 @@ price: up to 25500 USD
 duration: 6 months
 start: 2018/08/01
 end: 2019/02/02
-
 ---
 
 # **Introduction**
