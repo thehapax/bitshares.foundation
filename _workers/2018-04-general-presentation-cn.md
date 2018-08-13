@@ -8,7 +8,7 @@ name: BitShares Blockchain Foundation
 company:
  name: Stichting BitShares Blockchain Foundation
  url: http://bitshares.foundation
-status: pending
+status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=26167.new#new
