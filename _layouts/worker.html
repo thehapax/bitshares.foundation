@@ -48,43 +48,9 @@
       </td>
      </tr>
      <tr>
-      <th>Costs</th>
-      <td>
-       <ul>
-       {% for d in page.invoices %}
-       <li>
-        <a href="{{ site.url }}/download/invoices/{{d}}">{{d}}</a>
-       </li>
-       {% endfor %}
-       </ul>
-      </td>
+      <th>Accounting &amp; Reporting</th>
+      <td><a href="https://workers.bitshares.foundation/{{page.bfid}}">workers.bitshares.foundation/{{page.bfid}}</a></td>
      </tr>
-     <tr>
-      <th>Payments</th>
-      <td>
-       <ul>
-       {% for d in page.payments %}
-       <li>
-        {{d.date}} - <a href="http://bitshares-explorer.io/#/objects/{{ d.oid }}{{ d.opid }}">{{d.amount}}</a>
-       </li>
-       {% endfor %}
-       </ul>
-      </td>
-     </tr>
-     {% if page.reports %}
-     <tr>
-      <th>Reports</th>
-      <td>
-       <ul>
-        {% for r in page.reports %}
-        <li>
-         <a href="{{r.url}}">{{r.name}}</a>
-        </li>
-        {% endfor %}
-       </ul>
-      </td>
-     </tr>
-    {% endif %}
     </tbody>
    </table>
    <div>
