@@ -9,7 +9,7 @@ name: Milos Preocanin
 company:
  name: "AP Asia Tech Co., LTD. (Legal DAO representative of Trusty team)"
  url: "http://apasia.tech"
-status: finished
+status:
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26873.0"
