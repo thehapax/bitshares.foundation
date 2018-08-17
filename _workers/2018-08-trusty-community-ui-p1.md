@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: escrow
 bfid: 201808-trusty-community-ui-p1
-workerid: not created yet
+workerid: 1.14.117
 title: BitShares Community Wallet (Part 1/2)
 name: Milos Preocanin
 company:
