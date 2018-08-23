@@ -12,6 +12,13 @@
       <th>Worker ID</th>
       <td>{{page.workerid}}</td>
      </tr>
+     {% if page.authors %}
+     <tr>
+      <th>Authors</th>
+      <td>{{page.authors}}
+     </tr>
+     {% endif %}
+     {% if page.name %}
      <tr>
       <th>Implementation</th>
       <td>{{page.name}}
@@ -19,6 +26,7 @@
        - <a href="{{page.company.url}}">{{page.company.name}}</a></td>
        {% endif %}
      </tr>
+     {% endif %}
     </tbody>
    </table>
    <div>
