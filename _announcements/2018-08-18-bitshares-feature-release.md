@@ -41,7 +41,7 @@ Follow the usual compile instructions with cmake and make
 ## Change Log
 
 The detailed lists of updates, bug fixes and security fixes can be found in the
-Release Notes(https://github.com/bitshares/bitshares-core/releases)]
+[Release Notes](https://github.com/bitshares/bitshares-core/releases)
 
 ## Docker
 
