@@ -44,7 +44,6 @@ Furthermore, we would like to encourage everyone interested in meeting
 the people behind the BitShares Blockchain Foundation to make an
 appointment for a personal meeting at 
 
-    Stichting Bitshares Blockchain Foundation
     Business Innovation Campus (BIC) De Gasfabriek
     Zutphenseweg 6b
     7418 AJ Deventer
