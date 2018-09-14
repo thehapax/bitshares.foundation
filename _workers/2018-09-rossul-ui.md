@@ -156,7 +156,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
   To simplify the onboarding and code handover we expect some overlap time with the current UI team. This is a standard process that reduces the risk of setback and keeps the development velocity constant. The process facilitates direct information exchange between engineers and designers, brings the current UI team onboard the app’s code and architecture, provides support for the current UI team when specific information is needed. 
 
   **Estimated time:** 100 hours/team ($25,000 total).
-  *If less time is required, the allocated funds will be distributed back to he community.*
+  *If less time is required, the allocated funds will be distributed back to the community.*
 
 
 # The Project Costs
