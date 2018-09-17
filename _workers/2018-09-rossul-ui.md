@@ -11,10 +11,10 @@ company:
  url: http://bitshares.rossul.com/
 status:
 discussions:
-price: 240828 USD
-duration: 5 months
+price: 265828 USD
+duration: 5 months + 1 month buffer
 start: 2018/10/01
-end: 2018/02/28
+end: 2018/03/31
 ---
 
 # Who is ROSSUL and Graphene Lab (Introduction)
@@ -100,7 +100,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
 ## Project Milestones
 
-### September 
+### 1st month
 
 * DESIGN - Research
 
@@ -114,7 +114,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
   At this stage, ROSSUL will work closely with BitShares stakeholders to gather project specifications and establish critical success factors. We will begin the process by interviewing stakeholders as a group or individually. At this stage, it is just as important that we are able to ask the right questions and collect our data in an unbiased manner.
 
-### October
+### 2nd month
 
 * DESIGN - Mobile Wireframes
 
@@ -128,7 +128,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
   Architecture and planning stages of development. The study of the internal features of the code base and the search for solutions for the implementation of more optimized and qualitative product.
 
-### November-December
+### 3rd-4th month
 
 * DESIGN - Look & Feel Design
 
@@ -142,7 +142,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
   Inclusion of existing functionality, binding and uploading current data from the blockchain, working with the output of static information.
 
-### December-January
+### 4th-5th month
 
 * DEVELOPMENT - Development of new functionality
 
@@ -161,7 +161,7 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
 # The Project Costs
 
-|**Design - RESEARCH**| |
+|**Design - Research**| |
 |--|--|
 |Technical and functional requirements    | $ 2 100|
 |Competitors and field study    | $ 2 400|
@@ -178,16 +178,18 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 |Look & Feel    | $ 12 000|
 |UI Components Library    | $ 3 600|
 |Project Management    | $ 10 620|
-|Design total | $ 116 820|
-|**RESEARCH & DOCUMENTATION**||
+|*Design total* | $ 116 820|
+|**Research & Documentation**||
 |Estimating workload | $ 2 480|
 |Documentation | $ 8 620|
-|**DEVELPMENT**||
+|**Development**||
 |Implementation of primary interfaces  | $ 13 840|
 |Transfer an existing project | $ 41 520|
 |Development of new functionality | $ 32 240|
 |API | $ 13 840|
-|**Development total** | $ 112 540|
-| 5% escrow fee | $ 11 468 |
+|*Development total* | $ 112 540|
 |**Code Handover and overlap period** | $ 25 000|
+| | |
+|**5% escrow fee** | $ 11 468 |
+| | |
 | **Project Total** | **$ 265 828**|
