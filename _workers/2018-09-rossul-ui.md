@@ -2,7 +2,7 @@
 language: en
 layout: worker
 type: escrow
-bfid: 2018-09-rossul-ui
+bfid: 201809-rossul-ui
 workerid: TBA
 title: ROSSUL - Bitshares Exchange UX/UI Redesign Project
 name: Rossul Design Inc.
@@ -153,11 +153,16 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
 ### Code Handover and overlap period
 
-  To simplify the onboarding and code handover we expect some overlap time with the current UI team. This is a standard process that reduces the risk of setback and keeps the development velocity constant. The process facilitates direct information exchange between engineers and designers, brings the current UI team onboard the app’s code and architecture, provides support for the current UI team when specific information is needed. 
+To simplify the onboarding and code handover we expect some overlap time with the current UI team. This is a standard process that reduces the risk of setback and keeps the development velocity constant. The process facilitates direct information exchange between engineers and designers, brings the current UI team onboard the app’s code and architecture, provides support for the current UI team when specific information is needed. 
 
   **Estimated time:** 100 hours/team ($25,000 total).
   *If less time is required, the allocated funds will be distributed back to the community.*
 
+### Support
+
+We will provide support services and assistance to maintain and update the aforementioned deliverables, including correcting any errors or deficiencies during the first 60 days following the final delivery (Warranty period). “Support Services” means technical support and assistance to maintain and update the front-end source code Deliverables, including correcting any errors or Deficiencies, but shall not include new development, enhancements, or features, or other services outside the scope of the Proposal. 
+
+Additional time above following expiration of Warranty Period shall be billed at the regular hourly rate ($150/h design and 120/h code realted tasks) and require a new worker proposal.
 
 # The Project Costs
 
