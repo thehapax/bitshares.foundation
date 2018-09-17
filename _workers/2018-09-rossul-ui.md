@@ -81,7 +81,7 @@ Julia brings more than 20 years of experience in graphic design and publishing. 
 Ting Yi is a creative and passionate designer who loves crafting intuitive and elegant UI solutions. Six years of experience in UX and UI design for web and mobile apps, multiplied by her detail-oriented approach and ability to adapt to rapidly changing business goals, make her a natural-born problem solver. Ting Yi holds an MA in Design.
 
 **Konstantin Krupovich**, System Architect
-Konstantin is a is a system architect with a wide range of technical, management and business experience. He excels in planning challenging environments ranging from enterprise cloud solutions to Blockchain software integration research and development, where pragmatic and innovative thinking is required to be successful. Konstantin holds an MA in Economics and a BA in Computer Science.
+Konstantin is a system architect with a wide range of technical, management and business experience. He excels in planning challenging environments ranging from enterprise cloud solutions to Blockchain software integration research and development, where pragmatic and innovative thinking is required to be successful. Konstantin holds an MA in Economics and a BA in Computer Science.
 
 ## Graphene Lab
 **Igor Romanov**, Core blockchain developer
