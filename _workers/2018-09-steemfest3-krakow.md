@@ -13,10 +13,10 @@ status: pending
 discussions:
  - name: bitsharestalk
    url: tba
-price: 10,000 EUR (=$12,000)
-duration: 2.5 months / 10 weeks
+price: 10,000 EUR (=12,000 USD)
+duration: 14 weeks
 start: 2018/09/21
-end: 2018/11/30
+end: 2018/12/28
 paymentaccount: steemfest
 language: en
 discussions:
@@ -68,32 +68,32 @@ _Bitshares will literally be profiled as a very kind philanthropist making the e
 
 This sponsorship through a worker would give BitShares: 
 1. Growth in brand recognition:
- - deep integration in all event's promotional media (see below)
- - dedicated rollup banner 'booth' at the "wall of dapps" expo on both conference days in the breaks-area.
+   - deep integration in all event's promotional media (see below)
+   - dedicated rollup banner 'booth' at the "wall of dapps" expo on both conference days in the breaks-area.
 2. A chance to attract new users to BitShares by:
- - getting a **20 minute presentation slot at main SteemFest³ event**  one of the conference days.
- - using 3 unique competition rounds for the 5 included SteemFest tickets to the event to raise awareness for Bitshares (see below)
+   - getting a **20 minute presentation slot at main SteemFest³ event**  one of the conference days.
+   - using 3 unique competition rounds for the 5 included SteemFest tickets to the event to raise awareness for Bitshares (see below)
 
 # Bitshares SteemFest³ Sponsorship - In Depth - what's included:
 
 1. 5 x full (5 day) conference tickets giving access to all events of SteemFest (10 venues), which will be raffled under the name of the Bitshares chain in a dedicated post(s) on Steem which in themselves form  _"engagement advertising events"_ for Bitshares, as I envision the following 3 competitions for the 5 free tickets through a dedicated account on Steem (@bitshares-at-sf)[https://steemit.com/@bitshares-at-sf]:
-- BTS-Steemfest3 Competition 1: (2 x 1 ticket) - simple raffle: Steem users can participate by leaving a comment with their BTS account. If they don't have one, they should get one. 
-- BTS Steemfest3 Competition 2: (2 x 1 ticket) - Make an artwork featuring Bitshares and/or it's core feature: decentralised exchange. Post your artwork on your Steem account, leave a comment here which also includes your BTS account. (If you don't have one, you should get one).
-- BTS Steemfest3 Competition 3: (1 x 1 ticket) - Most referrals to bring in new Steem users to Bitshares, using the BTS referral system as judge. 
+   - BTS-Steemfest3 Competition 1: (2 x 1 ticket) - simple raffle: Steem users can participate by leaving a comment with their BTS account. If they don't have one, they should get one. 
+   - BTS Steemfest3 Competition 2: (2 x 1 ticket) - Make an artwork featuring Bitshares and/or it's core feature: decentralised exchange. Post your artwork on your Steem account, leave a comment here which also includes your BTS account. (If you don't have one, you should get one).
+   - BTS Steemfest3 Competition 3: (1 x 1 ticket) - Most referrals to bring in new Steem users to Bitshares, using the BTS referral system as judge. 
 
 2. The sponsorship of SteemFest will get the Bitshares brand (logo) included on: 
-- website 
-- mobile app 
-- printed map of Kraków
-- every attendees badge
-- opening slides 
-- all future official event announcements on Steem
-- every future newsletter (to about 1000 steem users / previous attendees)
-- on the digital pdf tickets every attendee obtains
-- and wherever deemed reasonable in the event decorations (like banners etcetera)
-- a dedicated rollup banner booth for Bitshares to be placed in the "Wall of dApps" expo along 15-20 products
-- option to do a Bitshares related presentation on stage provided a speaker volunteer wants to do this. 
-- 5 tickets to the event, to be used in a promotional oriented raffle (see above)
+   - website 
+   - mobile app 
+   - printed map of Kraków
+   - every attendees badge
+   - opening slides 
+   - all future official event announcements on Steem
+   - every future newsletter (to about 1000 steem users / previous attendees)
+   - on the digital pdf tickets every attendee obtains
+   - and wherever deemed reasonable in the event decorations (like banners etcetera)
+   - a dedicated rollup banner booth for Bitshares to be placed in the "Wall of dApps" expo along 15-20 products
+   - option to do a Bitshares related presentation on stage provided a speaker volunteer wants to do this. 
+   - 5 tickets to the event, to be used in a promotional oriented raffle (see above)
 
 3. Looking to use the BEET voting widget on steemfest.com to show the power of the Bitshares DAO worker system.
 
