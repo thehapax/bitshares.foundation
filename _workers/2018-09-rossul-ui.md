@@ -100,6 +100,8 @@ Developer meticulous with the details. Studied to be a Russian language teacher,
 
 ## Project Milestones
 
+The project is intended to start in october, with a month of buffer incorporated.
+
 ### 1st month
 
 * DESIGN - Research
