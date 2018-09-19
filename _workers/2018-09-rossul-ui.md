@@ -96,7 +96,7 @@ User Interface developer, also interested in prototyping and UX/UI design. Hardc
 **Anton Tishchenko**, Frontend developer
 Developer meticulous with the details. Studied to be a Russian language teacher, but found his calling in interface development, for which we are really thankful. Projects: Karma, “School Olympus”
 
-#**Initial Development Plan**
+# Initial Development Plan
 
 ## Project Milestones
 
