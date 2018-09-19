@@ -3,13 +3,13 @@ language: en
 layout: worker
 type: escrow
 bfid: 201809-steemfest
-workerid: 1.14.tba
+workerid: 1.14.123
 title: SteemFest³ Sponsorship by Bitshares
 name: Roeland P Landegent
 company:
   name: SteemFest
   url: https://steemfest.com
-status: pending
+status: voting now
 discussions:
  - name: bitsharestalk
    url: tba
