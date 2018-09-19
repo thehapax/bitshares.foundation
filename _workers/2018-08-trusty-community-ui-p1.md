@@ -9,7 +9,7 @@ name: Milos Preocanin
 company:
  name: "AP Asia Tech Co., LTD. (Legal DAO representative of Trusty team)"
  url: "http://apasia.tech"
-status:
+status: 
 discussions:
  - name: bitsharestalk
    url: "https://bitsharestalk.org/index.php?topic=26873.0"
@@ -70,6 +70,7 @@ Furthermore we seek to
 - Support [current UI team](https://www.bitshares.foundation/workers/2018-07-infrastructure) by enabling them to focus more on business development for DEX
 and providing full API functionality, while Community has a working product to be used
 - **not** replace of the [reference UI](https://github.com/bitshares/bitshares-ui)
+- work **directly under BitShares GitHub Repository** for total transparency & proper licensing - [Community UI Github](https://github.com/bitshares/bitshares-community-ui)
 
 
 ## **Collaboration Framework**
@@ -83,9 +84,9 @@ priority and sprint deadline
 - Maintain timely communications with community members, posting issues or comments on
 Git
 - Favor feature usability (bugs fixing) over schedule and deliver the highest priority work first
-- Deliver results for public beta testing by the end of every 3rd week (3 weeks sprints)
+- Deliver results for public beta testing by the end of every 4th week (4 weeks sprints - for easier accounting/tracking/reviews)
 - Provide monthly reports of results against hours and costs of development
-- Keep hours logged with TopTracker for entire team with reporting
+- Keep hours logged with TopTracker for entire team and bounty claims. [Github/Hours Reporting available here](https://github.com/bitshares/bitshares-community-ui/tree/master/team/hours)
 
 ## **Development Process**
 
@@ -107,9 +108,9 @@ UI we will be using best market practice examples, Bitfinex and Huobi interfaces
 | JS And Code review (Anton Lopan)      |	 $140.00     |
 | Lead Front-End Developer / Architect, Code Review (Roman Sabirov)	 |    $80.00     |
 | Full-stack Developer (Roman Bellendir)	         |    $80.00     |
-| HTML and CSS Developer	         |    $50.00     |
-| Front-End JS Developer             |	  $50.00     |
-| Designer                           |	  $50.00     |
+| HTML and CSS Developer	 |    $50.00     |
+| Front-end JS Developer (Rostislav Gogolauri) |	  $50.00     |
+| Designer (Daniel Savin)     |	  $50.00     |
 
 ### **Initial Development Plan Part 1**
 
@@ -133,7 +134,9 @@ UI we will be using best market practice examples, Bitfinex and Huobi interfaces
 ## **Team Bios**
 
 ### Milos Preocanin
-**Worker/Technology Manager**
+```
+Worker/Technology Manager
+```
 
 Born in Serbia, with having a new home for last half decade in SE Asia, became a master of Linux
 networking and administration before reaching his 20’s. Spent early days in ISP industry, where later
@@ -148,7 +151,9 @@ Also will be one and only point of PR for this worker, unless professional discu
 developers is requested/needed.
 
 ### Armen Azatyan
-**Business and Product Development**
+```
+Business and Product Development
+```
 
 5 years in IT entrepreneurship, 7 years in Investment banking. Ex. Social marketing director in
 OnetwoTrip online travel agency, founder IFAB.ru, Trendever.com. Ex. Deutsche Bank, VTB Capital, 18
@@ -158,7 +163,9 @@ Expert in business administration and customer experience. Will manage team and 
 BitShares DAC (Decentralized Exchange) meets the the top-notch app usability standards.
 
 ### Anton Lopan
-**JS dev, Devops, Code review**
+```
+JS dev, Devops, Code review
+```
 
 8 years in web development, from php5 heavy templates websites to serverless PWA (2 year of vuejs
 currently). Really love to code, that’s why can do it even on Brainfuck or Haskell.
@@ -171,7 +178,9 @@ and pull request communication, full cover of CI / Devops processes, unit tests,
 issues communication, propose bitshares-core features.
 
 ### Roman Sabirov
-**Lead Front-End Developer, Architect, Code Review**
+```
+Lead Front-End Developer, Architect, Code Review
+```
 
 Development Experience: 5+ years of commercial front-end development which includes 3 years of
 building complex web applications using Vue.js/Vuex and modern JS stack (es6+, babel, webpack,
@@ -181,8 +190,9 @@ Will make architectural decisions, perform PR code reviews and develop main comp
 application.
 
 ### Roman Bellendir
-**Fullstack Dev**
-
+```
+Fullstack Dev
+```
 5 years in commercial web-development. 2 years was engaged in simulation of industrial production.
 3 years was focusing on Android development. 1 year development of blockchain related products.
 Working on backend and frontend services of Trusty, creating faucet, money sender service, android
@@ -190,12 +200,20 @@ app.
 
 Specialist in NodeJs, Vue.js, Kotlin.
 
-### Alex Volkov
-**Web Designer**
+### Daniel Savin
+```
+Web Designer
+```
+ Over 5 years experience in web-design. Power user of Adobe Illustrator and Photoshop. Specialized in designing responsive applications and printing materials. Worked for EBK System, Sberbank, Moscow State University, took participation on such web projects as trendever.com, directbot.io etc. 
 
-Experience more than 3 years. Pro-user of photoshop and illustrator. Specialist in creating sites,
-applications and printing. Focuses on designing of responsive interfaces. 
-
+### Rostislav Gogolauri
+```
+JS developer
+```
+Unfamiliar with crypto, first time know about BitShares over a private hire on Freelancer,
+lucky to be here and ready to donate some fresh blood to the eco-system.
+Over 3 years of experience in web/cross-platform mobile development.
+Specialized in Angular, Vue, React, Node and other related frameworks and libraries.
 <hr>
 
 # **Trusty's Open Source contribution and existing project**
@@ -211,9 +229,9 @@ Furthermore, a Portfolio Management App for Mobile has been developed, which is 
 
 **NOTICE/ADVERTISEMENT:**
 
-Three more positions will be hired* and initially offered to the Developers around BitShares ecosystem:
+2(two) more positions will be hired* and initially offered to the Developers around BitShares ecosystem:
 1. Project Coordinator / Coordination, QA and Testing
 2. HTML and CSS developer
-3. Frontend JS developer
+
 
 *For submissions please contact Milos by Telegram (@murda_ra), or in the discussion thread https://bitsharestalk.org/index.php?topic=26873.0 
