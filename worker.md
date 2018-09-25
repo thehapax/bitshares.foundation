@@ -105,5 +105,5 @@ Foundation, who will also act as the freelancer's contracting partner,
 supervise the progress. Payouts are facilitated in bitUSD through a
 multi-signature escrow setup with the independent BitShares Foundation.
 
-[Blockchain Projects BV](http://blockchainprojectsbv.com) has offered to
-handle the technical details and lead quality assurance procedures.
+[Blockchain Projects BV](http://blockchainprojectsbv.com) is contracted to 
+handle the technical details and support quality assurance procedures.
