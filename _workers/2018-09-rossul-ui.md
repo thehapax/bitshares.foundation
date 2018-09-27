@@ -14,7 +14,7 @@ discussions:
 price: 265,828 bitUSD
 duration: 5 months + 1 month buffer
 start: 2018/10/01
-end: 2018/03/31
+end: 2019/03/31
 ---
 
 # Who is ROSSUL and Graphene Lab (Introduction)
