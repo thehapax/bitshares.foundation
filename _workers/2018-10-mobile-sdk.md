@@ -71,10 +71,10 @@ following:
 * **On Approval** - BitShares-UI^1 team is granted access to the
   (closed-source and proprietary) repository after signing a
   Non-Disclosure Agreement with us.
-* **After €50k** - The code is published and open-sourced under GPL. We
+* **After €50k** - The code is published under proprietary license. We
   start implementing according to feedback provided by BitShares-UI
   team.
-* **After €75k** - MIT-license is granted.
+* **After €75k** - SDK is open-sourced under GPL.
 * Support and consultation for the provided code is provided until end
   of Q4/2018.
 
