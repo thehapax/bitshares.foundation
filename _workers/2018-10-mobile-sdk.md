@@ -4,21 +4,21 @@ layout: worker
 type: budget
 bfid: 201810-mobile-sdk
 workerid:
-title: BitShares mobile SDK (android/ios)
-name: Blockchain Projects BV
+title: OpenSource BitShares Mobile SDK (android/ios)
+name: Blockchain BV
 company:
- name: Blockchain Projects BV
+ name: Blockchain BV
  url: http://blockchainprojectsbv.com
 discussions:
  - name: bitsharestalk
    url:
  - name: steemit
    url:
-price: up to 75,000 €
+price: up to 75,000 €/bitEUR
 duration: 
 start: 2018/10/01
 end: 2018/12/31
-paymentaccount: blockchainprojects
+paymentaccount: blockchain-bv
 ---
 
 # Intent
@@ -49,19 +49,40 @@ development and receive funding to continue our work on the SDK.
 
 Our BitShares mobile framework comes with the following functionalities:
 
-* Wallet creation/backup/import
-* Key import and encrypted storage (pin)
-* Account Registration via standard faucets
-* Multi-account support and account management
-* Memo support
-* Mainnet and Testnet support
-* Account history
-* QR code scanner, payment format and QRLogin
-* Request Money Screen
-* I18n and language support
-* Custom sponsoring screens and listings
+* **Multiasset** support
+* **Multiaccount** support and account management
+* **Wallet** creation/backup/import
+* Key import and **encrypted storage** (pin)
+* Account **registration** via standard faucets
+* **Memo** support
+* **Mainnet** and **Testnet** support
+* Account **history**
+* **QR code** scanner, payment format and **QRLogin**
+* **Request Money** Screen
+* I18n and **language support**
+* Custom **sponsoring** screens and listings
+* Easy customization through **branding**
 
 **[Screenshots](2018-10-mobile-sdk/)**
+
+# Deliverables
+
+This worker delivers, in case it is accepted by the community, the
+sources of a fully functional mobile wallet development toolkit
+that builds to a mobile wallet app today.
+
+The community will be free to leverage this software delivery to build
+their own products based on this framework, such as the usual UIA
+use-cases: Remittance, Loyalty programs, service coins, prepaid cards
+etc.
+
+Our delivery focuses on:
+* code base as git repository
+* unit testing
+* basic UI/UX
+* build toolchain for Android and iOS
+* continuous integration (e.g. into gitlab)
+* technical documentation
 
 # Milestones/Delivery and Costs
 
@@ -78,8 +99,9 @@ following:
 * Support and consultation for the provided code is provided until end
   of Q4/2018.
 
-# Remark
+# Fineprint
 
-* Terms & Conditions of Blockchain Projects BV apply with the BitShares DAC being referred to as Client
-* This worker pays in bitEUR/€ instead of bitUSD/$
+* This worker pays in **bitEUR/€** instead of bitUSD/$
+* The Terms & Conditions of Blockchain Projects BV apply with the BitShares DAC being referred to as Client
+* Blockchain Projects BV to perform and assist with delivery and coordination
 * ^1: The "BitShares-UI team" being the team working on the `bitshares-ui` repository in the github `bitshares` organization.
