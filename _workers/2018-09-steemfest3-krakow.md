@@ -21,7 +21,7 @@ paymentaccount: steemfest
 language: en
 discussions:
  - name: bitsharestalk
-   url: tba
+   url: https://bitsharestalk.org/index.php?topic=27177.0
 ---
 
 # Introduction
@@ -98,14 +98,15 @@ This sponsorship through a worker would give BitShares:
 3. Looking to use the BEET voting widget on steemfest.com to show the power of the Bitshares DAO worker system.
 
 # Funding needed: 
-This sponsorship costs 10,000 EURO (bitUSD 11,500). To be collected in a daily pay of 4,000 BTS, through the escrow of the BBF. Left-over BTS will be refunded through the BBF transparent accounting system. 
+This sponsorship costs 10,000 EURO (bitUSD 12,000). To be collected in a daily pay of 2,716 BTS, through the escrow of the BBF. Left-over BTS will be refunded through the BBF transparent accounting system. 
 
 # Usage of sponsorship money:
 The sponsorship money will be used to cover the generic event budget and therefor helps lower the ticket price for those not so wealthy. The current lowest ticketprice for SteemFest lies at 50% of the actual costprice of attandance. This is only possible thanks to sponsorships. A bitshares sponsorship enables about 35 extra of these lowest priced tickets. 
 
 # Milestones:
 - Event announced / venues arranged, see https://steemfest.com
+- Included BEET Vote widget on https://steemfest.com 
 - Bitshares logo integration in online media (newsletters, website, event announcement, digital tickets)
 - Bitshares logo integration on onsite decorations and printed matters
 - Bitshares rollup banner booth on site
-- SteemFest event: 7-11 November
+- SteemFest event itself: 7-11 November
