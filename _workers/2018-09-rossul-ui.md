@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: escrow
 bfid: 201809-rossul-ui
-workerid: TBA
+workerid: 1.14.124
 title: ROSSUL - Bitshares Exchange UX/UI Redesign Project
 name: Rossul Design Inc.
 company:
@@ -11,7 +11,7 @@ company:
  url: http://bitshares.rossul.com/
 status:
 discussions:
-price: 265828 USD
+price: 265,828 bitUSD
 duration: 5 months + 1 month buffer
 start: 2018/10/01
 end: 2018/03/31
