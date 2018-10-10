@@ -150,7 +150,7 @@ Detailed projects / sprints / tasks will be tracked through issues on GitHub Rep
 - New BitShares GitHub repository for BitShares.org (where the future development will be available, and current staging and production website reside)
 - Email server with SPF record and SSL (Shared) protection - currently hosted with apasia.tech
 - Separation of header and footer with php in order to get content updates less complicated
-- Load Balancer main node (shared root between collaborators) with 3 nodes behind (Entire setup by APT - Asia, EU, USA) - "Zavod Premik" would be holding root to the USA, BitShares Blockchain Foundation would be offered with EU, and Abit/Sigve would be offered to hold keys to Asia (fully decentralized).
+- Geo-location based load balancer for BitShares.org with content mirrored in three regions, namely Northern America, Western Europe and Asia. Access to those hosts will be handed over to trusted members of the community to ensure a fully decentralized setup
 - DNS login restrictions between selected individuals of BitShares GitHub Team. 
 - New 'Website Terms of Agreement' and 'Content Restrictions'
 
