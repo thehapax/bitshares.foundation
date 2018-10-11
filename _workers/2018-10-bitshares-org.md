@@ -161,7 +161,6 @@ By voting-in this worker an optimized and professionally managed BitShares.org w
 The demo currently hosted at demo.bitshares.org will be finalized following features by the end of the first month:
 
 - All pages in order with content
-- Support Ticketing system for all inquiries
 - New hosting / SSL / Email deployed
 - Live domain/site security hardening
 - Above "A" grade on both PageSpeed & YahooSlow tests for home page (landing page)
