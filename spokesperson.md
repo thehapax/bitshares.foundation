@@ -42,11 +42,4 @@ BTS holders by means of approval voting.
 
 Furthermore, we would like to encourage everyone interested in meeting
 the people behind the BitShares Blockchain Foundation to make an
-appointment for a personal meeting at 
-
-    Business Innovation Campus (BIC) De Gasfabriek
-    Zutphenseweg 6b
-    7418 AJ Deventer
-    The Netherlands
-
-or reach out to the spokesperson via [email](mailto:spokesperson@bitshares.foundation).
+appointment via [email](mailto:spokesperson@bitshares.foundation).
