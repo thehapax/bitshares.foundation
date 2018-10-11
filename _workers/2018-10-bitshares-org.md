@@ -4,7 +4,7 @@ layout: worker
 type: escrow
 bfid: 201810-bitshares-org
 workerid: 1.14.126
-title: BitShares.org - Website Development, Content/Domain Management, Hosting, Support System 
+title: BitShares.org - Website Development, Content/Domain Management, Hosting
 name: Milos Preocanin
 company:
  name: Zavod Premik
