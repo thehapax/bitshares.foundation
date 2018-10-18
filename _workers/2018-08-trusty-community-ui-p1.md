@@ -104,12 +104,12 @@ UI we will be using best market practice examples, Bitfinex and Huobi interfaces
 | ---------------------------------- | -------------:|
 | General Manager (Milos Preocanin)   |   $100.00     |
 | Product Manager / UI/UX Liaison (Armen Azatyan)  |   $140.00     |
-| QA and Testing      |    $80.00     |
+| QA and Testing (Noemi Nikoghsoyan)     |    $80.00     |
 | JS And Code review (Anton Lopan)      |	 $140.00     |
 | Lead Front-End Developer / Architect, Code Review (Roman Sabirov)	 |    $80.00     |
 | Full-stack Developer (Roman Bellendir)	         |    $80.00     |
 | HTML and CSS Developer	 |    $50.00     |
-| Front-end JS Developer (Rostislav Gogolauri) |	  $50.00     |
+| Front-end JS Developer (Petr Lapin, Rostislav Gogolauri) |	  $50.00     |
 | Designer (Daniel Savin)     |	  $50.00     |
 
 ### **Initial Development Plan Part 1**
@@ -162,6 +162,13 @@ closed deals ECM and M&A (>$18bn in total).
 Expert in business administration and customer experience. Will manage team and make sure that
 BitShares DAC (Decentralized Exchange) meets the the top-notch app usability standards.
 
+### Noemi Nikoghsoyan
+```
+QA & Project/Team Management
+```
+
+Project manager with 4+ years of working experience in software development. Outgoing, agile, result driven, strong analytical and problem-solving skills. Certified scrum master and product owner. He worked for various projects, including channels monitoring tool, online and mobile banking, B2b call center software, etc.
+
 ### Anton Lopan
 ```
 JS dev, Devops, Code review
@@ -205,6 +212,14 @@ Specialist in NodeJs, Vue.js, Kotlin.
 Web Designer
 ```
  Over 5 years experience in web-design. Power user of Adobe Illustrator and Photoshop. Specialized in designing responsive applications and printing materials. Worked for EBK System, Sberbank, Moscow State University, took participation on such web projects as trendever.com, directbot.io etc. 
+ 
+### Petr Lapin
+```
+Front-end JS developer
+```
+Front-end working experience exceeds 5 years. Worked for Yandex, CSSSE, Constanta.
+Good knowledge of in JS, Nodejs, BEM, Angular, React, Vue.
+Expert in Javascript(vanilla js) / ES-2015, Angular, Vue/Vuex. He worked for different projects, including city information portal, betting service, etc.
 
 ### Rostislav Gogolauri
 ```
@@ -229,9 +244,8 @@ Furthermore, a Portfolio Management App for Mobile has been developed, which is 
 
 **NOTICE/ADVERTISEMENT:**
 
-2(two) more positions will be hired* and initially offered to the Developers around BitShares ecosystem:
-1. Project Coordinator / Coordination, QA and Testing
-2. HTML and CSS developer
+1(one) more position will be hired* and initially offered to the Developers around BitShares ecosystem:
+1. HTML and CSS developer
 
 
 *For submissions please contact Milos by Telegram (@murda_ra), or in the discussion thread https://bitsharestalk.org/index.php?topic=26873.0 
