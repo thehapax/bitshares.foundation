@@ -95,8 +95,14 @@ against the BitShares Blockchain Foundation with their real-world identity.
 Invoices need to be sent that are published in this site.
 
 **Payments will be made only after receiving and approving individual
-invoices**!
+invoices**
+Invoices are to be adressed to
 
+    BitShares Blockchain Foundation
+    Suite 10, Huggins House
+    P. O. Box 187
+    Old Manor Estate
+    Gingerland, Nevis
 
 ## Legal Setup
 
