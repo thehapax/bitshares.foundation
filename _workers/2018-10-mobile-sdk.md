@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: budget
 bfid: 201811-mobile-sdk
-workerid:
+workerid: 1.14.134
 title: OpenSource BitShares Mobile SDK (android/ios)
 name: Blockchain Projects BV
 company:
