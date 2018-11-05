@@ -5,9 +5,9 @@ type: budget
 bfid: 201811-mobile-sdk
 workerid:
 title: OpenSource BitShares Mobile SDK (android/ios)
-name: Blockchain BV
+name: Blockchain Projects BV
 company:
- name: Blockchain BV
+ name: Blockchain Projects BV
  url: http://blockchainprojectsbv.com
 discussions:
  - name: bitsharestalk
