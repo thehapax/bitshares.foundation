@@ -11,14 +11,12 @@ company:
  url: http://blockchainprojectsbv.com
 discussions:
  - name: bitsharestalk
-   url:
- - name: steemit
-   url:
+   url: https://bitsharestalk.org/index.php?topic=27341.0
 price: up to 100,000 €/bitEUR
 duration: 12 months
 start: 2018/11/15
 end: 2019/12/31
-paymentaccount: blockchain-bv
+paymentaccount: blockchainbv
 ---
 
 # Intent
@@ -57,7 +55,7 @@ Our BitShares mobile framework comes with the following functionalities:
 * Custom **sponsoring** screens and listings
 * Easy customization through **branding**
 
-**[Screenshots](2018-10-mobile-sdk/)**
+**[Screenshots](https://github.com/bitshares-foundation/bitshares.foundation/tree/master/_workers/2018-10-mobile-sdk)**
 
 # Deliverables
 
@@ -94,7 +92,7 @@ resources **for 12 months**. The budget accounts for the following roles and man
 | ------------------------------ | ---------------: | 
 | Management Fee                 | €1500/mth        | 
 | Code review                    |  €500/mth        | 
-| Escrow Fee (BBF)               | 5%/€500 (total)  |
+| Escrow Fee (BBF)               | 5%/€5000 (total) |
 
 The character of this worker proposal is towards developing a framework for mobile development (an SDK).
 Consequently, an exemplary mobile wallet will be provided for testing but applying for "app-stores" inclusion for
