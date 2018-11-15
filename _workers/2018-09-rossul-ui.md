@@ -2,7 +2,7 @@
 language: en
 layout: worker
 type: escrow
-bfid: 201809-rossul-ui
+bfid: 2018-09-rossul-ui
 workerid: 1.14.124
 title: ROSSUL - Bitshares Exchange UX/UI Redesign Project
 name: Rossul Design Inc.
