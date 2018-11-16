@@ -3,13 +3,19 @@ layout: default
 permalink: /imprint
 ---
 
-The **Stichting BitShares Blockchain Foundation** is registered in 
+The **BitShares Blockchain Foundation** is registered in 
 
     BitShares Blockchain Foundation
+    Suite 10, Huggins House
+    P. O. Box 187
+    Old Manor Estate
+    Gingerland, Nevis
+
+### Per Address
+
     Zutphenseweg 6
     7418AJ Deventer
     Netherlands
-    KVK nummer: 66190169
 
 Any BTS holder is welcome to visit us. Please contact us to make an
 appointment.
