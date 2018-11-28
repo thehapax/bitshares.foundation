@@ -45,11 +45,28 @@ transmitting partners) to [subscribe to](http://lists.bitshares.foundation).
 This will enable all businesses in the BitShares network to be aware of all
 latest developments.
 
-### Technical Description and Patch Description
+## Root Cause
 
-The incident caused the block production to halt due to an overflow in the
-operation for bidding collateral of the settlement fund. This resulted in an
-assertion to trigger for crossing maximum possible supply.
+Collateral bids for settled assets are only processed during maintenance. At
+least one bid was out of bounds and caused the processing overflow.
+
+Prior to the halt, validation software did not contain code to properly check
+for an overflow condition within the method used to bid collateral for debt in
+the global settlement pool of an asset. In this case, the asset bitUSD was in
+the global settlement state, and a bidder submitted a transaction containing a
+bid operation that exceeded the total supply of available bitUSD within the
+settlement pool. During the maintenance period, at least one overflow condition
+was caught by the software which prevented the bid operation from being
+included as a valid transaction. However, this did not fail gracefully and
+caused the block producing nodes to halt.
+
+##Resolution
+
+The BitShares Core Team reacted promptly and professionally to identify the
+root cause and issue an emergency patch. Once the patch was validated and
+issued to Block Producers to restart the network, a
+[Release](https://github.com/bitshares/bitshares-core/releases) was posted on
+GitHub for all nodes to upgrade their running software.
 
 [The patch](https://github.com/bitshares/bitshares-core/commit/5b2309931c441412234c3bd09f39b41969c74dcc)
 fixes this by treating the amount provided in the price correctly and prevent
