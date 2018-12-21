@@ -12,7 +12,7 @@ On Monday, December 20th 2018 at block height 33,269,099, an incident occurred o
 Upon restart, most backend machines restarted and replayed to the current state of the blockchain just fine. However, a few backend nodes have been stuck with an inconsistent state caused by a proposal.
 
 ### Root cause
-A special crafted proposal made it onto the blockchain which caused a chaining of events that lead to unexpected results and caused crashes on some machines.
+A special crafted proposal made it onto the blockchain which caused a chaining of events that lead to memory corruption and crashes on some machines.
 
 ### Impact
 This incident had some impact on API and backend nodes and caused crashes. Most backend nodes could automatically recover from the crash and continue to operate.
