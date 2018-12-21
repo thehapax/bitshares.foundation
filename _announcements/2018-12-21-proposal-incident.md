@@ -3,7 +3,7 @@ title: BitShares Backend Crash Incident after Malformed Proposal
 layout: announcement
 ---
 
-On Monday, December 20th 2018 at block height 33,269,099, an incident occurred on the BitShares network that caused some backend nodes to crash with errors such as
+On Monday, December 20th 2018 at block height 33,269,102, an incident occurred on the BitShares network that caused some backend nodes to crash with errors such as
 
 * `counter < db.get_global_properties().active_witnesses.size() * 2: Max proposal nesting depth exceeded!`
 * `Proposed transaction 1.10.17503 failed to apply once approved with exception:`
