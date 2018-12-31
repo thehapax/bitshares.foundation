@@ -12,8 +12,8 @@ company:
 status:
   proposal-vetted: True
   worker-created: True
-  worker-approved: False
-  worker-paying: False
+  worker-approved: True
+  worker-paying: True
   worker-finished: False
 discussions:
  - name: Bitshares Talk
