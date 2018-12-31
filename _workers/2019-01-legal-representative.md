@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: escrow
 bfid: 201901-legal-representative
-workerid:
+workerid: 1.14.149
 title: Publicly Approved BitShares Representative
 name: BitShares Blockchain Foundation
 company:
@@ -13,9 +13,8 @@ status: paying
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php/topic,25143.0.html
-payments:
 paymentaccount: bitshares.foundation
-invoices:price: 50,000 bitEUR
+price: 50,000 bitEUR
 duration: 12 months
 start: 2019/01/01
 end: 2019/12/31
