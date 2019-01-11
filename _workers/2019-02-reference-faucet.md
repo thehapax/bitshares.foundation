@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: escrow
 bfid: 201902-reference-faucet
-workerid:
+workerid: 1.14.159
 title: Maintaining the Reference faucet
 name: BitShares Europe
 company:
@@ -52,7 +52,10 @@ percentage for affiliates remains at **70%**. This means that
 
 As of January 10th, BitShares Europe has registered **over 100,000
 accounts** for the BitShares Community. Of those, almost **500 accounts
-upgraded** to life-time member. Greater details are provided
+upgraded** to life-time member. Since over 100,000 BTS have already been paid
+to the reference faucet as part of the referral program, no additional funding
+to operate the faucet is expected.
+Greater details are provided
 [online](https://bitshares.eu/referral/onboarding/onboarding.bitshares.foundation).
 
 ## Deliverables & Conditions
@@ -78,6 +81,8 @@ The BitShares community receives a **30% discount** which results in
 
 The worker proposals desires to fund operations for a duration of a full
 year.
+
+The total includes a 5% fee for the BitShares Blockchain Foundation.
 
 ## Remarks
 
