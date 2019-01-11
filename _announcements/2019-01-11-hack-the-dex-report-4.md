@@ -2,11 +2,11 @@
 title: Hack the DEX Incident Report - 004
 layout: announcement
 ---
-### Halt Chain by Global Settlement of Short Asset with Supply Greater Than GRAPHENE_MAX_SHARE_SUPPLY
+### Halt Chain by Greater Than MAX_SHARE_SUPPLY
 
 On December 6th 2018 the [Hack the DEX](https://hackthedex.io) Team received a report of a potential 
 unhandled exception that would result in halting the blockchain. The report was evaluated, tested, 
-patched and code distributed block producing nodes on December **TODO: XX**, 2018. The BitShares 
+patched and code distributed block producing nodes on December 8, 2018. The BitShares 
 network was **not** impacted, **no** user funds were affected and **all operations continue to function**
 as designed. 
 
@@ -16,14 +16,20 @@ prototype code to resolve the bug. The Hack the DEX Team evaluated the submissio
 **TODO: XX,XXX bitUSD** tokens as a reward for disclosing the bug.
 
 ### Root Cause
-An unhandled exception existed where, at the time an asset entered global settlement, an asset with a 
-supply greater than GRAPHENE_MAX_SHARE_SUPPLY would cause **TODO: a very technical description**. 
+An unhandled exception existed allowing a user to force-settle an asset which would result in a 
+payment greater than GRAPHENE_MAX_SHARE_SUPPLY. The execution of a forced settlement happens at a 
+specific time after the user requested it through an `asset_settle_operation`. In very specific cases, 
+this execution would run into an assertion failure, which would prevent any additional blocks from 
+being applied to the chain database, which would effectively halt the chain.
 
 ### Resolution
-The Core Team created a patch to handle the above condition and fail gracefully. The patch was 
-distributed to the active block producers for implementation. The code relevant code changes maybe 
-found **TODO: update URL** [here](https://github.com/bitshares/bitshares-core/commit/ZZZZZZZZZZZZZZ). 
-This code will be included within next Release.
+A _soft fork_ was distributed to block producing nodes by the BitShares Core Team, which prevents the 
+issue from entering the blockchain. A permanent fix is in the making, see 
+[Pull Request #1498](https://github.com/bitshares/bitshares-core/pull/1498). The soft fork currently 
+prevents certain forms of `call_order_update_operation` from being included in proposals. This 
+restriction will be removed when the permanent fix is activated at the time of the upcoming 
+[Protocol Upgrade Release](https://github.com/bitshares/bitshares-core/projects/10).
+
 
 ### Acknowledgement
 
