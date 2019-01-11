@@ -89,3 +89,12 @@ The total includes a 5% fee for the BitShares Blockchain Foundation.
 * We would like to remind everyone about time and IP-based restrictions
   that are put in place to prevent abuse of this community services.
   Commercial use of this faucet is discouraged.
+
+* "Reference wallet" denotes the software as developed and maintained within
+  github.com/bitshares/bitshares-ui. At this point, this software is deployed
+  as part of the light-wallet downloads as well as wallet.bitshares.org. Keep
+  in mind that bitshares.org and its subdomains are owned by a third party and
+  are not contractually obligated to deploy the reference software.
+
+* Terms&Service of BitShares Europe applies with the BitShares
+  DAC being referred to as `Client`
