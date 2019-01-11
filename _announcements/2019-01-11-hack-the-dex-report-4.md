@@ -2,18 +2,18 @@
 title: Hack the DEX Incident Report - 004
 layout: announcement
 ---
-### Halt Chain by Greater Than MAX_SHARE_SUPPLY
+### Unhandled Exception of asset_settle_operation
 
 On December 6th 2018 the [Hack the DEX](https://hackthedex.io) Team received a report of a potential 
 unhandled exception that would result in halting the blockchain. The report was evaluated, tested, 
-patched and code distributed block producing nodes on December 8, 2018. The BitShares 
-network was **not** impacted, **no** user funds were affected and **all operations continue to function**
-as designed. 
+patched and code was distributed to block producing nodes on December 8, 2018. The BitShares network 
+was **not** impacted, **no** user funds were affected and **all operations continue to function** as
+designed. 
 
 ### Reward
 Special thanks to [@cogutvalera](https://github.com/cogutvalera) for providing the research and 
 prototype code to resolve the bug. The Hack the DEX Team evaluated the submission and awards 
-**TODO: XX,XXX bitUSD** tokens as a reward for disclosing the bug.
+**15,000 bitUSD** tokens as a reward for disclosing the bug.
 
 ### Root Cause
 An unhandled exception existed allowing a user to force-settle an asset which would result in a 
