@@ -184,11 +184,10 @@ Summing up all measurables we end up with a total budget (all amounts are up to)
 | Visibility: Add information | 6,789 CNY |
 | Translation | 8,487 CNY |
 |---|---|
-|---|---|
-| Total Budget | 134,097 CNY |
+| **Total Budget** | 134,097 CNY |
 | Escrow Fee (5%) | 6,705 CNY |
 |---|---|
-| Total Asking | 140,801 CNY (~20,752 USD) |
+| **Total Asking** | 140,801 CNY (~20,752 USD) |
 
 The maximum hourly rates are listed below and the actually agreed upon hourly rates will be listed on every invoice
 
