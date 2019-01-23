@@ -3,7 +3,7 @@ language: en
 layout: worker
 type: budget
 bfid: 201902-marketing-interviews-articles-and-visibility
-workerid: 1.14.
+workerid: 
 title: "Marketing: Interviews, articles and visibility"
 name: Blockchain Projects BV
 company:
@@ -14,7 +14,7 @@ discussions:
  - name: bitsharestalk
    url: 
 price: up to 140,801 CNY (~20,752 USD)
-duration: 5 months
+duration: 4 months + 1 month buffer
 start: 2019/02/01
 end: 2019/06/30
 ---
@@ -196,7 +196,7 @@ The maximum hourly rates are listed below and the actually agreed upon hourly ra
 | Organization & Review | 125 USD/h | 848 CNY/h | Needs management skills and complete oversight, done by BCP |
 | Content creation | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
 | Conduct interview | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
-| Communication | max. 80 USD/h | 542 CNY/h | Patience, negotation skills and cultural awareness |
+| Communication | max. 100 USD/h | 542 CNY/h | Patience, negotation skills and cultural awareness |
 | Spread the word | max. 80 USD/h | 542 CNY/h | Needs good ties into the crypto-community and knowledge where to go |
 | Translation | max. 60 USD/h | 407 CNY/h | Mother tongue, with understanding of technical terms in the blockchain space |
 
@@ -210,4 +210,4 @@ All amounts are in CNY. Any remaining or unspent budget will be returned. BitSha
 
 # Support
 
-- **Linda Tian**, Secretary Genereal of Global Graphene Blockchain Application Center (http://gbacenter.org/), active member in chinese BitShares community, will be assisting in all matters that need support from the chinese community
+- **Linda Tian**, Secretary Genereal of Global Graphene Blockchain Application Center (http://gbacenter.org/), active member in chinese BitShares community, will be assisting in all matters that need support from the chinese community (Task Communication)
