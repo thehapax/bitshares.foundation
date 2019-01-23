@@ -172,7 +172,7 @@ Summing up all measurables we end up with a total budget (all amounts are up to)
 The maximum hourly rates are listed below and the actually agreed upon hourly rates will be listed on every invoice
 
 | Task | Hourly (USD) | Converted | Reasoning  |
-|---|---|---|
+|---|---|---|---|
 | Organization & Review | 125 USD/h | 848 CNY/h | Needs management skills and complete oversight, done by BCP |
 | Content creation | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
 | Conduct interview | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
