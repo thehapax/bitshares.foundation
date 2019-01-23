@@ -62,7 +62,7 @@ The following are tangible points that this worker proposal will pursue.
 All **fees** are fixed costs, which are paid to the respective entity for the publication, whereas **budget** work is done 
 on an *hourly* basis. The amount indicated with those budgets reflects the total budget that is allowed to be 
 spent on hourly rates. Billing will happen for actually incurred hours only and we will strive to find best 
-cost-value ratios in the hourly rates. We ask the community to allow us flexibility in the hourly rates
+cost-value ratios in the hourly rates. The budget is meant as "up to", and if we can get it done for less, we will do so. Nevertheless, we ask the community to allow us flexibility in the hourly rates
 to accomodate freelancers with different backgrounds and qualifications, depending on the task. The maximum hourly rate is
 capped and listed in the budget section.
 
