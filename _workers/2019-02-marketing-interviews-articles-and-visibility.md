@@ -206,9 +206,9 @@ All amounts are in CNY. Any remaining or unspent budget will be returned. BitSha
 
 # Team
 
-- **Stefan Schießl**, Senior Software Developer of Blockchain Projects BV, active community member and also known as @sschiessl. Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain
-- **Dr.-Ing. Fabian Schuh**, CTO of Blockchain Projects BV, active community member and also known as @xeroc. Will be assisting in all matters that raises historical and technical questions of the BitShares Blockchain
+- **Stefan Schießl**, Senior Software Developer of Blockchain Projects BV (https://www.blockchainprojectsbv.com/), active community member and also known as @sschiessl. Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain
+- **Dr.-Ing. Fabian Schuh**, CTO of Blockchain Projects BV (https://www.blockchainprojectsbv.com/), active community member and also known as @xeroc. Will be assisting in all matters that raises historical and technical questions of the BitShares Blockchain
 
 # Support
 
-- **Linda Tian**, Secretary Genereal of Global Graphene Blockchain Application Center (gbacenter.org), active member in chinese BitShares community, will be assisting in all matters that need support from the chinese community
+- **Linda Tian**, Secretary Genereal of Global Graphene Blockchain Application Center (http://gbacenter.org/), active member in chinese BitShares community, will be assisting in all matters that need support from the chinese community
