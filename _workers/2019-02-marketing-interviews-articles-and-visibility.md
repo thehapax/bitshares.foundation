@@ -95,7 +95,7 @@ One of the main news outlets in the chinese area
 
 ## Interview: Optional
 
-Following candidates are currently considered (not exclusive):
+Following candidates are currently considered (others are also being evaluated currently):
  - https://seekingalpha.com
  - https://www.entrepreneur.com
 
