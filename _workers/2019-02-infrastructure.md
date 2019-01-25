@@ -55,7 +55,7 @@ will be continuously operated within the description of the last worker. If nece
 
 Next to the status page of the load balancers, we intend to either add the nodes above to an existing uptime logging service or deploy our own. This will greatly improve transparency to the BTS holders and voters to see uptime and availability.
 
-### **Automation of Docker Container Builds**
+### **Maintenance of Automation of Docker Container Builds**
 
 The **automated builds** using docker containers will continue to be available and maintained. These containers allow a very easy and fast deployment of BitShares nodes. The automation docker cloud ensures that the public sources of BitShares-core on Github are compiled in a transparent way, additionally, the inclusion of further nodes will be greatly facilitated.
 
@@ -73,7 +73,10 @@ This will greatly simplify the workflow of developers and business administratio
 
 # **Milestones**
 
-1. Maintain deployed infrastructure and ES cluster
+1. Maintain deployed infrastructure 
+2. Maintain ES cluster deployment
+3. Maintain ES wrapper deployment
+4. Monitoring
 
 As time progresses, more nodes will be added in the most economical manner.
 
