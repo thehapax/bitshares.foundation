@@ -203,11 +203,11 @@ The maximum hourly rates are listed below and the actually agreed upon hourly ra
 All amounts are in CNY. Any remaining or unspent budget will be returned. BitShares Blockchain Foundation is employed to facilitate escrow and public accounting, please note that the 
 5% fee will only be incurred on actual spendings.
 
-# Team
+# Team Blockchain Projects BV (https://www.blockchainprojectsbv.com/)
 
-- **Stefan Schießl**, Senior Software Developer of Blockchain Projects BV (https://www.blockchainprojectsbv.com/), active community member and also known as @sschiessl. Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain
-- **Fabian Schuh**, CTO of Blockchain Projects BV (https://www.blockchainprojectsbv.com/), active community member and also known as @xeroc. Will be assisting in all matters that raises historical and technical questions of the BitShares Blockchain
-- **Danique Sterenborg**, Project Manager of Blockchain Projects BV, organizer of BitFest Amsterdam and support for coordinating, bookkeeping and invoice handling
+- **Stefan Schießl**, Senior Software Developer, active community member and also known as @sschiessl. Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain
+- **Fabian Schuh**, CTO, active community member and also known as @xeroc. Will be assisting in all matters that raises historical and technical questions of the BitShares Blockchain
+- **Danique Sterenborg**, Project Manager, organizer of BitFest Amsterdam and support for coordinating, accounting and invoice handling
 
 # Support
 
