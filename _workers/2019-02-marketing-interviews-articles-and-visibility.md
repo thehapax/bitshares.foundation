@@ -219,8 +219,8 @@ All amounts are in CNY. Any remaining or unspent budget will be returned. BitSha
 # Summary to the Shareholders
 
 We approach marketing with tangible milestones and a limited budget to set precedent in the lack of 
-community funded marketing, certainly with the hopes to inspire engagement and determination to pursue marketing with 
-follow up workers. This worker is intentionally inclusive to facilitate community participation, while any and all 
+community funded marketing. We certainly hope to inspire community engagement and are determined to pursue marketing with 
+follow ups. This worker is intentionally inclusive to facilitate community participation, while any and all 
 content created through this worker will be reviewed and fact-checked by an experienced team before publication. 
 This increases the costs, but it is necessary to create high quality content and fight the existing misinformation on 
 the BitShares Blockchain that currently exists. Furthermore, the payment of this worker is flexible and we will be 
