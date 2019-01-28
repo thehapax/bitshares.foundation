@@ -84,11 +84,13 @@ An upcoming magazine with its first feature in march, see attached PDF.
 
 ## Interview: http://8btc.com/
 
-One of the main news outlets in the chinese area
+One of the main news outlets in the chinese area. Publication possibility is confirmed,
+negotiations are still ongoing, thus the fee is estimated (indicated below is their premium offer
+without any discount including marketing from their end as worst case). Best cost-value will be sought after.
 
 | Type | Actual cost | Converted |
 |---|---|---|
-| Feature (fee) | 1,000 USD |  6,790 CNY |
+| Feature (fee) | 3,000 USD | 20,370 CNY |
 | Expected hours for organization and interview (budget) | 1,000 USD | 6,790 CNY |
 | Review (budget) | 250 USD | 1,697 CNY |
 | Spread the word after publication (budget) | 800 USD | 5,432 CNY |
@@ -98,10 +100,11 @@ One of the main news outlets in the chinese area
 Following candidates are currently considered (others are also being evaluated currently):
  - https://seekingalpha.com
  - https://www.entrepreneur.com
+The fee is thus estimated.
 
 | Type | Actual cost | Converted |
 |---|---|---|
-| Feature (fee) | 1,000 USD | 6,790 CNY |
+| Feature (fee) | 2,000 USD | 13,580 CNY |
 | Expected hours for organization and interview (budget) | 1,000 USD | 6,790 CNY |
 | Review (budget) | 250 USD | 1,697 CNY |
 | Spread the word after publication (budget) | 800 USD | 5,432 CNY |
@@ -176,18 +179,18 @@ Summing up all measurables we end up with a total budget (all amounts are up to)
 | Measurables | Budget |
 |---|---|
 | Interview: http://gokhshtein.com/ | 20,709 CNY |
-| Interview: http://8btc.com/ | 20,709 CNY |
-| Interview: Optional | 20,709 CNY |
+| Interview: http://8btc.com/ | 34,289 CNY |
+| Interview: Optional | 27,499 CNY |
 | Article: Wikipedia | 17,314 CNY |
 | Article: Optional | 27,499 CNY |
 | Visibility: Update information | 11,881 CNY |
 | Visibility: Add information | 6,789 CNY |
 | Translation | 8,487 CNY |
 |---|---|
-| **Total Budget** | 134,097 CNY |
-| Escrow Fee (5%) | 6,705 CNY |
+| **Total Budget** | 154,467 CNY |
+| Escrow Fee (5%) | 7,723 CNY |
 |---|---|
-| **Total Asking** | 140,801 CNY (~20,752 USD) |
+| **Total Asking** | 162,190 CNY (~23,886 USD) |
 
 The maximum hourly rates are listed below and the actually agreed upon hourly rates will be listed on every invoice
 
