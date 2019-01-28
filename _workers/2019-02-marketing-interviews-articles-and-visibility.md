@@ -215,3 +215,10 @@ All amounts are in CNY. Any remaining or unspent budget will be returned. BitSha
 # Support
 
 - **Linda Tian**, Secretary Genereal of Global Graphene Blockchain Application Center (http://gbacenter.org/), active member in chinese BitShares community, will be assisting in all matters that need support from the chinese community (Task Communication)
+
+# Summary to the Shareholders
+
+We approach marketing with tangible milestones and a limited budget to set precedent in the lack of 
+community funded marketing, also in the hopes to inspire and pursue marketing with follow up workers.
+In every part of the content creation process community engagement is possible and desireable, while any and all 
+content created through this worker will be reviewed and fact-checked before publication. This increases the costs, but it is necessry to maintain high quality and fight the existing misinformation on the BitShares Blockchain that currently exists. Furthermore, the payment of this worker is flexible and we will be seeking best price-value for the money.
