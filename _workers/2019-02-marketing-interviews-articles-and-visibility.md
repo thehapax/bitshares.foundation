@@ -12,7 +12,7 @@ company:
 status: draft
 discussions:
  - name: bitsharestalk
-   url: 
+   url: https://bitsharestalk.org/index.php?topic=27747.0
 price: up to 162,190 CNY (~23,886 USD)
 duration: 4 months + 1 month buffer
 start: 2019/02/01
