@@ -73,7 +73,7 @@ efforts to execute.
 
 ## Interview: http://gokhshtein.com/
 
-An upcoming magazine with its first feature in march, see attached PDF.
+An upcoming magazine with its first feature in march, see **[offer here](https://github.com/bitshares-foundation/bitshares.foundation/blob/master/_workers/2019-02-marketing-interviews-articles-and-visibility/BitShares-Marketing-Offer-Gokhshtein.pdf)**.
 
 | Type | Actual cost | Converted |
 |---|---|---|
