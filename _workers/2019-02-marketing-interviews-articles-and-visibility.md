@@ -210,7 +210,7 @@ All amounts are in CNY. Any remaining or unspent budget will be returned. BitSha
 
 - **Stefan Schießl**, Senior Software Developer, active community member and also known as @sschiessl. Will be facilitating communications and organization and contribute to the process of creating a clear and transparent picture of the BitShares Blockchain
 - **Fabian Schuh**, CTO, active community member and also known as @xeroc. Will be assisting in all matters that raises historical and technical questions of the BitShares Blockchain
-- **Danique Sterenborg**, Project Manager, organizer of BitFest Amsterdam and support for coordinating, accounting and invoice handling
+- **Danique Sterenborg**, Project Manager, organizer of BitFest Amsterdam. Will be involved in content creation, support for coordinating, accounting and invoice handling
 
 # Support
 
