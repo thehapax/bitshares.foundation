@@ -199,8 +199,8 @@ The maximum hourly rates are listed below and the actually agreed upon hourly ra
 | Organization & Review | 125 USD/h | 848 CNY/h | Needs management skills and complete oversight, done by BCP |
 | Content creation | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
 | Conduct interview | max. 125 USD/h | 848 CNY/h | Needs deep knowledge of the BitShares Blockchain |
-| Communication | max. 100 USD/h | 542 CNY/h | Patience, negotation skills and cultural awareness |
-| Spread the word | max. 80 USD/h | 542 CNY/h | Needs good ties into the crypto-community and knowledge where to go |
+| Communication | max. 100 USD/h | 679 CNY/h | Patience, negotation skills and cultural awareness |
+| Spread the word | max. 80 USD/h | 543 CNY/h | Needs good ties into the crypto-community and knowledge where to go |
 | Translation | max. 60 USD/h | 407 CNY/h | Mother tongue, with understanding of technical terms in the blockchain space |
 
 All amounts are in CNY. Any remaining or unspent budget will be returned. BitShares Blockchain Foundation is employed to facilitate escrow and public accounting, please note that the 
