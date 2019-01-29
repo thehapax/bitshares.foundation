@@ -4,7 +4,7 @@ layout: worker
 type: budget
 bfid: 201903-atomic-cross-chain-swaps
 workerid:
-title: JavaScript: Atomic Cross-Chain Swaps Framework
+title: "JavaScript: Atomic Cross-Chain Swaps Framework"
 name: Everbloom
 company:
  name: Everbloom
@@ -113,22 +113,26 @@ Everbloom is a venture-backed, decentralized cryptocurrency exchange that has ra
 
 ### Everbloom Team
 
-Andrew Rollins, CEO (https://www.linkedin.com/in/andrewrollins/)
+**Andrew Rollins**, *CEO (https://www.linkedin.com/in/andrewrollins/)*:
+
 Bio: Andrew Rollins is the co-founder and former Chief Software Architect of Localytics, a Boston-based analytics firm founded in 2008. During his eight year tenure, Localytics achieved annual revenues of more than $25M, raised $60M in venture financing, measured over 2 billion mobile devices, processed over 5 billion datapoints per day, handled peaks of 100K+ transactions per second, and securely managed petabytes of data. As Chief Software Architect, he built a team of over 70 engineers and was directly responsible for petabyte scale cloud infrastructure. Andrew is also a former Microsoft software engineer and spent two years as a Venture Partner at Sigma Prime Ventures making Series A investments.
  
 Everbloom role: Andrew is Everbloom’s CEO. He sets the company’s vision, product, and roadmap. Andrew works closely with the companies engineering team and leverages his deep technical toolkit when key engineering decisions need to be made.
 
-Scott Pirrello, COO (https://www.linkedin.com/in/scottpirrello/)
+**Scott Pirrello**, *COO (https://www.linkedin.com/in/scottpirrello/)*:
+
 Bio: Scott Pirrello is the founder and former CEO of CampusSIMs ($6 million in VC financing, 20 employees), a well-known Boston based telecommunications and mobile company. During Scott’s six-year tenure as CEO, the company achieved a $6M annual revenue run-rate, had more than 10K active monthly paying subscribers and over 400 college and university partnerships including Harvard, MIT, NYU, and UCLA. The proprietary native mobile applications developed by the company are widely regarded as the top telecommunications activation apps in the United States.
  
 Everbloom role: Role: As COO, Scott uses his past experience as an operator and innovator to set strategy,particularly in areas concerning business and product development, capital raising, and hiring. He handles logistics with partners and vendors. Scott led partnership formations with Makor Capital, Wyre, 0x, and Coindesk. Scott is a member of the company’s Board of Directors.
 
-Luke Chen, Senior Software Engineer
+**Luke Chen**, *Senior Software Engineer*:
+
 Bio: Luke Chen is part of the core engineering team at Everbloom. He is a full-stack senior software engineer that has deep experience building both enterprise and consumer grade software. In his career, he has built software for early stage emerging tech companies and mature companies with yearly revenue in excess of $100M. He is particularly proficient in back-end software development, Node.js, blockchain technologies, solidity, cloud computing, and more. He is bi-lingual, speaking both English and Mandarin. Luke received a Master’s of Science in Computer Science from George Washington University.
  
 Everbloom role: Luke is responsible for system architecture, Ethereum nodes, databases, RESTful APIs, report generation, caching, and smart contract development at Everbloom. Over the past several months Luke has integrated FIAT pricing, token info, and Etherdelta/ForkDelta APIs, while also writing smart contracts which support compliant trading (KYC and AML), cross-protocol trading (Everbloom, 0x, EtherDelta), batch trading, market orders, limit orders, order matching, fee sharing, etc.
 
-Tongbo Sui, Senior Software Engineer (https://www.linkedin.com/in/tongbosui/)
+**Tongbo Sui**, *Senior Software Engineer (https://www.linkedin.com/in/tongbosui/)*:
+
 Tongbo Sui is part of the core engineering team at Everbloom. He is a full-stack senior software engineer that has deep experience building both enterprise and consumer grade software. In his career, he has built software for early stage emerging tech companies and mature companies with yearly revenue in excess of $100M. He is particularly proficient in building well-structured, highly maintainable and extensible browser-side applications with JavaScript and other related tools. He also produces high quality software regarding cloud, blockchain and server-side applications. He is bi-lingual, speaking both English and Mandarin. Tongbo received a Master’s of Science in Computer Science from the University of Pennsylvania.
  
 Everbloom role: Tongbo is responsible for developing Everbloom’s web app with client-side security features and high data update throughput. He has developed the complete set of UI/UX for the Everbloom web app and designed its architecture and build flow. Over the last several months he has built the event stream based web app with fully decoupled modularized rendering and data model logic, integration with RESTful APIs, Ethereum network information monitoring, and custom data structure that supports ordered state updates with high throughput and high frame rendering performance.
