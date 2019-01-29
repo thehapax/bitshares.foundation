@@ -23,6 +23,8 @@ end: 2019/01/31
 reports:
  - name: 2017-07-27 Roadmap
    url: https://github.com/blockchainprojects/bitshares-worker-infrastructure/blob/master/Roadmap_2018-07-infrastructure.pdf
+ - name: 2019-01-24 Roadmap
+   url: https://github.com/blockchainprojects/bitshares-worker-infrastructure/blob/master/Report_2018-07-infrastructure.pdf
 payments:
 invoices:
 
