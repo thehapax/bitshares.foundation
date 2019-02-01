@@ -132,5 +132,5 @@ included in this proposal is already in use be the reference UI for account hist
 explorers.
 
 # **Remark**
-* The infrastructure and servers are up and running and produce costs. In the case that this proposal is rejected we will decrease the performance and connectivity to reduce costs and must, after a sufficient grace period has passed, shut down the servers. During the grace period we will ensure that the servers are no longer used
+* The infrastructure and servers are up and running and produce costs. In the case that this proposal is not approved in time, the performance and connectivity of servers will be gradually reduced after a grace period.
 * Terms & Conditions of Blockchain Projects BV apply with the BitShares DAC being referred to as Client
