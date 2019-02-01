@@ -31,7 +31,7 @@ That said, we would like to continue to provide the nodes that have been deploye
 
 ## **Distributed Network of BitShares nodes**
 
-The core component of this proposal is the distribution of the BitShares network by means of deploying multiple nodes and offer public API endpoints to improve latency, robustness and availability for the BitShares ecosystem. Since this proposal is funded by the BitShares ecosystem, we limit the use of the APIs to non-commercial activity. Any commerical usage of the nodes will be recognized and we will contact the offending party to either cease the usage or seek reimbursement, which will directly flow into the budget of this worker.
+The core component of this proposal is the distribution of the BitShares network by means of deploying multiple nodes and offer public API endpoints to improve latency, robustness and availability for the BitShares ecosystem. Since this proposal is funded by the BitShares ecosystem, we limit the use of the APIs to non-commercial activity.
 
 ### **Distributed Network for Mainnet Nodes**
 
@@ -57,6 +57,8 @@ Next to the status page of the load balancers, we intend to either add the nodes
 
 A preview is shown here: http://88.198.69.93:3000
 
+![image](https://raw.githubusercontent.com/bitshares-foundation/bitshares.foundation/201902-infrastructure/_workers/2019-02-infrastructure-grafana-preview.png)
+
 ### **Maintenance of Automation of Docker Container Builds**
 
 The **automated builds** using docker containers will continue to be available and maintained. These containers allow a very easy and fast deployment of BitShares nodes. The automation docker cloud ensures that the public sources of BitShares-core on Github are compiled in a transparent way, additionally, the inclusion of further nodes will be greatly facilitated.
@@ -73,12 +75,18 @@ Advanced features of the reference wallet require full history and advanced sear
 
 This will greatly simplify the workflow of developers and business administration for BitShares and enable easy access to statistical data processing and charting. Since the Elastic Search plugin from the bitshares-core is now stable, this will be used more extensively in the future.
 
+# **Commercial use**
+In the past there have been several instances of for-profit use of the services provided in this proposal. 
+Any commerical usage of the nodes and elastic search endpoints included in this proposal will be recognized, and we 
+will contact the offending party to either cease the usage or seek an agreement. The agreement can be simply a fee 
+for the increased costs (which will directly flow into the budget of this worker) or provision of additional nodes through the offending party (decided case by case). This is nothing new, but will now be enforced more pro-actively.
+
 # **Milestones**
 
 1. Maintain deployed infrastructure 
 2. Maintain ES cluster deployment
 3. Maintain ES wrapper deployment
-4. Monitoring
+4. Monitoring and Statistics
 
 As time progresses, more nodes will be added in the most economical manner.
 
