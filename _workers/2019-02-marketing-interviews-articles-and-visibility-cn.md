@@ -4,7 +4,7 @@ layout: worker
 type: budget
 bfid: 201902-marketing-interviews-articles-and-visibility
 workerid: 1.14.162
-title: "Marketing: Interviews, articles and visibility"
+title: "营销：采访，文章和品牌曝光"
 name: Blockchain Projects BV
 company:
   name: Blockchain Projects BV
@@ -13,8 +13,8 @@ status: draft
 discussions:
  - name: bitsharestalk
    url: https://bitsharestalk.org/index.php?topic=27747.0
-price: up to 162,190 CNY (~23,886 USD)
-duration: 4 months + 1 month buffer
+price: "总计162,190元人民币（约合23,886美元"
+duration: "4个月（外加 1个月缓冲时间"
 start: 2019/02/01
 end: 2019/06/30
 ---
