@@ -97,7 +97,7 @@ Operating the nodes:
 * **USD (Fee):** Maintenance fee - **1,000 USD/month**
 * **USD (Expense):** Payment of the server costs (Hetzner, EC2, Google Cloud, …) - starting at **100 USD/month/server**
 
-As you can see, we distinguish between fees and expenses. Note that while the total fees are fixed (12,000 USD) for the whole duration of the worker proposal, the expenses (approx. 18,000 USD) may change depending on network growth, server availability and actual hours spent on a task. Obviously, as the BitShares network grows, we expect growth of share price which allows this worker to obtain new servers to match bandwidth demands.
+As you can see, we distinguish between fees and expenses. Note that while the total fees are fixed (12,000 USD) for the whole duration of the worker proposal, the expenses (approx. 18,000 USD) may change depending on network growth, server availability and actual hours spent on a task, this includes expenses for server costs starting February 2019. Obviously, as the BitShares network grows, we expect growth of share price which allows this worker to obtain new servers to match bandwidth demands.
 
 The BitShares Blockchain Foundation runs the escrow operations and earns 5% of the overall fees to cover their own expenses. Of course, our escrow partner will **publish invoices immediately**.
 
