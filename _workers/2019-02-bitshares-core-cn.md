@@ -3,7 +3,7 @@ language: cn
 layout: worker
 type: budget
 bfid: 201902-bitshares-core
-workerid: 
+workerid: 1.14.163
 title: BitShares Core 开发团队
 name: Ryan R. Fox (`fox`)
 company:
