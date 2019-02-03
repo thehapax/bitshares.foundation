@@ -11,10 +11,10 @@ company:
  url:
 status:
 discussions:
-#  - name: bitsharestalk
-#    url: https://bitsharestalk.org/index.php?topic=25968.0
-#  - name: steemit
-#    url: https://steemit.com/bitshares/@fox/voting-for-bitshares-core-team-worker-proposal-2018
+ - name: bitsharestalk
+   url: https://bitsharestalk.org/index.php?topic=27762.0
+ - name: steemit
+   url: https://steemit.com/bitshares/@fox/bitshares-core-team-budget-worker-proposal-2019
 price: up to $1,386,406 (¥9,358,220)
 duration: 47 weeks
 start: 2019/02/04
