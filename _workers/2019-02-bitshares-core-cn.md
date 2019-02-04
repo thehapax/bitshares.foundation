@@ -371,7 +371,7 @@ _图表 1_ 中列出了在 2019 年的开发路线图中，团队打算研究、
 
 **图表 1. 开发动议 - 2019**
 
-![BitShares Core 开发动议 - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core 开发动议 - 2019")
+![BitShares Core 开发动议 - 2019](https://i.ibb.co/hyCr16q/initiatives-2019.png "BitShares Core 开发动议 - 2019")
 
 ## 开发工作发言人
 

@@ -564,7 +564,7 @@ continuously evaluates and prioritizes new development tasks ongoing.
 
 **Chart 1. Initiatives - 2019**
 
-![TODO: BitShares Core Initiatives - 2019](https://github.com/ryanRfox/bitshares-core/blob/fox-worker-proposals/worker-proposals/initiatives-2019.png "BitShares Core Initiatives - 2019")
+![TODO: BitShares Core Initiatives - 2019](https://i.ibb.co/hyCr16q/initiatives-2019.png "BitShares Core Initiatives - 2019")
 
 Development Spokesperson(s)
 ===========================
