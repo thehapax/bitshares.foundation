@@ -29,31 +29,53 @@ end: 2019/12/29
 
 # Introduction
 
-This proposal is designed to fund the frontend development efforts for the BitShares Wallet. This
-benefits the community by creating a blueprint for other individuals and organizations
-interested in providing frontend functionality for the BitShares blockchain.
+The BitShares UI (also known as reference UI) has a great deal of functionality, so much that it can be overwhelming for 
+new users to grasp. 
+Some users expect it to simply hold their funds securely and allow for transfers and trading, 
+while others require the full power of the blockchain, e.g. for voting, asset management, permissions and 
+multi-sig configuration, black and whitelisting, proposal creation and direct debit mandates.
 
-This worker funds a **not to exceed** budget for development of the Bitshares UI application,
-according to the below details in *Table 1*.
+The goal of this worker is to build out the reference UI to hightlight all the features that the blockchain provides
+and tackle one of the root problems in terms of connectivity and reliability of the UI.
 
-- Transparent accounting provided by the BitShares Blockchain Foundation
-- Compensation remitted in a viable SmartCoin (i.e. bitCNY)
-- All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
+**Remark 1**
+There was a personel shift in the team of the BitShares UI. Bill Butler has decided to pass the hat on to 
+Magnus Anderson (@startail), who will assume the role of general project manager. 
+Furthermore, this worker is restructured and moves a bit away from the purely decentralized approach for development 
+(which basically was: anything can be worked on by anyone at anytime) to enforce a tighter schedule to achieve key
+aspects of the development.
 
-As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to fully fund the Intent.
-
-*This worker proposal will supercede the remaining of 201808-bitshares-ui proposal, any funds left in the old worker will be transferred to the new worker (currently ~13k bitUSD) to cover outstanding bounties*
+**Remark 2**
+This worker proposal will supercede the remaining of 201808-bitshares-ui proposal, any funds left in the old worker will be transferred to the new worker (currently ~13k bitUSD) to cover outstanding bounties.
 
 # Bounties
 
-Issues located at [bitshares/bitshares-ui](https://github.com/bitshares/bitshares-ui/issues)
+Issues that are in scope (see subsection below)
 will be gathered into milestones containing work over two week GitHub sprints.
-Anyone in the community will be able to claim, work and submit a PR for
+Those issues will be prioritized like indicated below, anyone in the community will be 
+able to claim, work and submit a PR for
 that issue. If the PR is accepted, the user will be paid according to
 the terms on the [README.md](https://github.com/bitshares/bitshares-ui/blob/develop/README.md)
 under the Development Process heading. Bounties are paid at a rate of $125/hr.
 
-This worker will, as before, continue to support [Beet](https://github.com/bitshares/beet) development within the workers coding bounty system. Beet is a stand-alone key/identity-manager and signing app for BitShares, heavily influenced by Scatter. 
+In contrast to the previous worker, the immediate team mentioned in this proposal must work on high priority issues 
+first (if any exist). This prioritization of issues is done by the team as well and is meant as a self-control measure.
+There have been cases in the past that important issues are being postponed simply because no one worked on them. And that 
+is unacceptable.
+
+## Scope
+
+The main repositories covered through this worker are the following (others may be addded if suitable)
+ - https://github.com/bitshares/bitshares-ui
+ - https://github.com/bitshares/bitshares-ui-style-guide
+ - https://github.com/bitshares/bitsharesjs
+ - https://github.com/bitshares/bitsharesjs-ws
+
+This worker will, as before, continue to support [Beet](https://github.com/bitshares/beet) development within 
+the workers coding bounty system. Beet is a stand-alone, multi-chain key/identity-manager and signing app for BitShares
+and is found in 
+ - https://github.com/bitshares/beet
+ - https://github.com/bitshares/beet-js
 
 # Prioritization
 
@@ -64,6 +86,17 @@ possible while others would like to see a refined user interface with
 reliable, less ambiguous controls and helpful documentation. It's our
 goal as a team to listen to everyone and make decisions based upon what
 we hear from the community.
+
+The team will pursue to ruther the UI in the following aspects
+
+* Refactoring core connectivity and reliability components 
+* Establish a more methodical QA and testing phase before releasing each version
+* Create a series of automated front and backend tests to reduce resurfacing bugs
+* Finish migration to ANT components complete with a style guide.
+* Further refine the navigation moving away from the sub-tab model.
+* Creating a more modular exchange experience and an easy way for exchanges to brand and configure their own
+
+In addition to that, all community feedback will be considered and groomed into issues where feasible. 
 
 ## Bugs
 
@@ -85,45 +118,11 @@ Our past efforts have sought to improve the overall look and feel and
 have attempted to group similar functions. We recognize there is still
 room for improvement.
 
-This worker proposal will continue to enhance this effort by:
+## New features
 
-* Creating a more modular exchange experience.
-* Migrate to ANT components complete with a style guide.
-* Further refine the navigation moving away from the sub-tab model.
-* Create an easy way for exchanges to brand their own wallet from the reference wallet.
-* Establish a more methodical QA and testing phase before releasing each version.
-* Create a series of automated front and backend tests to reduce resurfacing bugs.
+The BitShares core is ever evolving and anything new that comes out of it will need to be reflected in the UI as well.
 
 # Team
-
-#### Table 1. Bitshares UI Team Effort Budget (Weekly)
-
-Roles|Rate (USD)|Team Member|Estimated Hours
--|-|-|-
-Project Manager (1)|$125/hour|Magnus Anderson|9 hours weekly
-UX Coordinator (1)|$125/hour|Ihor Brazhnichenko|7 hours weekly
-Release Management (1)|$125/hour|Stefan Schiessl|9 hours weekly
-Funds and Sprint Management|$125/hour|Alex M|4 hours weekly
-**TEAM EFFORT**|&nbsp;|&nbsp;|29 hours weekly
-**$3,625 WEEKLY**|&nbsp;|&nbsp;|&nbsp;
--|&nbsp;|&nbsp;|&nbsp;
-Community Claims: (2)|&nbsp;|&nbsp;|&nbsp;
--- Code Bounty|$125/hour|-open-|25 hours weekly
--- UX Bounty|$125/hour|-open-|15 hours weekly
-**BUDGET FOR CLAIMS**|&nbsp;|&nbsp;|40 hours weekly
-**$5,000 WEEKLY**|&nbsp;|&nbsp;|&nbsp;
-
-*(1) unused hours will be designated to coding bounties.*
-
-*(2) Bounty hours includes both [bitshares-ui](https://github.com/bitshares/bitshares-ui) and [beet](https://github.com/bitshares/beet) GitHub projects.*
-
-#### Table 2. Bitshares UI Team Travel Expeses (Once)
-
-Description | Amount 
---|--:
-Travel Budget (Graphene specific conferences) | USD 20,000
-**Total USD** | $20,000
-**Total (CNY EQUIVALENT)** | **¥133,300**
 
 ## Magnus Anderson (@startail)
 
@@ -171,38 +170,67 @@ and assigned to developers who request the work.
   Been involved in BitShares development since the beginning of 2018. Maintainer of Beet. 
   Current BitShares witness & committee member.
 
-# Development Cost
+# Budget
 
-Currently, updates to the BitShares-ui are handled by a small team of 
-users who are claiming issues and being paid bounties on these issues. 
-The only exceptions to this are Magnus Anderson, Stefan Schiessl, 
-Ihor Brazhnichenko and Alex M, who are each paid a flat rate to manage issues, 
-code review and other project duties respectively. Unused hours should 
-primarily be used for issues work.
+Budget includes development costs for bounties and the fixed positions of the team as well as a travel budget for conferences.
 
-Fixed positions hours will be reported transparently togehter with invoices.
+#### Table 1. Bitshares UI Team Fixed Positions (Weekly)
 
-Furthermore, the BitShares Blockchain Foundation seeks a
-management fee (&lt;5%) for dealing with the on-chain worker proposal and
-offer transparent accounting.
+The hours of the fixed positions will be reported transparently together with invoices.
+
+Roles|Rate (USD)|Team Member|Estimated Hours
+-|-|-|-
+Project Manager (1)|$125/hour|Magnus Anderson|9 hours weekly
+UX Coordinator (1)|$125/hour|Ihor Brazhnichenko|7 hours weekly
+Release Management (1)|$125/hour|Stefan Schiessl|9 hours weekly
+Funds and Sprint Management (1)|$125/hour|Alex M|4 hours weekly
+**TEAM EFFORT**|&nbsp;|&nbsp;|29 hours weekly
+-|&nbsp;|&nbsp;|&nbsp;
+Bounties: (2)|&nbsp;|&nbsp;|&nbsp;
+-- Code and UX |$125/hour|-open-|40 hours weekly
+**BUDGET FOR BOUNTIES**|&nbsp;|&nbsp;|40 hours weekly
+
+*(1) unused hours will be designated to coding bounties that are defined by the team in pursuit of key improvements of the UI*
+*(2) Bounty hours include issues in any of the repositories listed in scope*
+
+#### Table 2. Bitshares UI Team Travel Expeses (Once)
 
 A one-time fixed travel budget expense is included to reimburse developers 
-for expenses to Graphene specific conferences according to guidlines.
+for expenses to suitable conferences according to travel expenses guidelines of the BBF.
 
-#### Table 3. UI Team Budget
+Description | Amount 
+--|--:
+Travel Budget | $20,000
+**Total USD** | $20,000
+**Total (CNY EQUIVALENT)** | **¥133,300**
+
+Furthermore, the BitShares Blockchain Foundation seeks a
+management fee of 5% of paid invoices for dealing with the 
+on-chain worker proposal, providing a legal framework and offer transparent accounting.
+
+#### Table 3. Summary
 
 Role|Amount (Period)|As Daily|TOTAL BUDGET
 --|--|--|--:
-Total Team Roles (Table 1)|$3,625 (weekly)| ~$517,85 |&nbsp;
-Total Community Claims (Table 1)|$5,000 (weekly)| ~$715 |&nbsp;
+Total Team Roles (Table 1)|$3,625 (weekly)| ~$517.85 |&nbsp;
+Total Community Claims (Table 1)| up to $5,000 (weekly)| ~$715 |&nbsp;
 Travel Expeses (Table 2)| $20,000 (once) | ~$60.8 |&nbsp;
 -| &nbsp; | &nbsp; | &nbsp; 
-Escrow Fee 5% (BBF) | $452.5 (weekly) | ~$60.8 | $20,815 
+Escrow Fee 5% (BBF) | up to $452.5 (weekly) | ~$60.8 | $20,815 
 ++ Daily Budget | &nbsp; | $1,359 | &nbsp; 
 **TOTAL 46 WEEK BUDGET USD** | &nbsp; | &nbsp; |**$437,565**
 **TOTAL 46 WEEK BUDGET (CNY EQUIVALENT)** | &nbsp; | &nbsp; | **¥2,917,100**
 
-# Duration and Pay
+**Remark**
+
+- This worker funds a **not to exceed** budget for development according to *Table 3*.
+- Transparent accounting provided by the BitShares Blockchain Foundation
+- Compensation remitted in a viable SmartCoin (i.e. bitCNY)
+- All accumulated and unallocated BTS returned to the Reserve Pool at the conclusion of the Worker
+
+As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) will be offered to fully fund the Intent.
+
+# Duration and daily BTS pay
 
 **Duration:** This proposal will last for 46 weeks, starting from 11th Febrary 2019, ending on 29th December 2019.
 
@@ -219,13 +247,3 @@ Escrow Fee 5% (BBF) | $452.5 (weekly) | ~$60.8 | $20,815
 - 45,158 BTS/day ≈ $1,359 USD/day * 6.75 USD/CNY * 3.93824 bitCNY/BTS * 1.25 devaluation multiplier
 
 **Payments**: All payments are converted from USD and remitted in bitCNY with method developed by the BitShares Blockchain Foundation.
-
-=======
-
-* Feature - Adding functionality to the BitShares UI that previously didn't exist.
-* Proposed Feature - A potential feature that requires further discussion.
-* Task - Time commitment (improving the look of a table might be considered a task)
-* Bug - Resolving something that is broken
-* Duplicate - Consolidating multiple similar requests into a single issue
-* Invalid - An issue that is not desired by the community or is
-  technically out of reach or ambiguous
