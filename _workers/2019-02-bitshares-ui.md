@@ -208,7 +208,6 @@ Community Claims (Table 1)| up to 5,000 USD (weekly)
 Travel Expeses (Table 2)| up to 20,000 USD (once)
 -| &nbsp; | &nbsp;
 Total Budget | up to 416,750 USD (46 weeks)
--| &nbsp; | &nbsp;
 Escrow Fee 5% | up to ~452 USD (weekly) 
 -| &nbsp; | &nbsp; 
 **TOTAL ASKING** | **437,587.5 USD** (46 weeks)
