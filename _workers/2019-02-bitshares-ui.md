@@ -253,6 +253,6 @@ bitCNY peg | 1:1
 
 The daily BTS payout is calculated as follows
 
-    45,156 BTS/Day ≈ $437,587.5 / (46*7 days) * 6.75 CNY/USD * 1 bitCNY/CNY * 3.93824 BTS/bitCNY * 1.25
+    45,156 BTS/Day ≈ $437,587.5 / (46*7 Days) * 6.75 CNY/USD * 1 bitCNY/CNY * 3.93824 BTS/bitCNY * 1.25
 
 **Payments**: All payments are converted from USD and remitted in bitCNY, converstion rates will be visible in invoices through the accounting provided by BitShares Blockchain Foundation.
