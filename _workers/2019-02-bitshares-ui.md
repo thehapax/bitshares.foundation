@@ -175,7 +175,9 @@ and assigned to developers who request the work.
 
 # Budget
 
-Budget includes development costs for bounties and the fixed positions of the team as well as a travel budget for conferences.
+Budget includes development costs for bounties and the fixed positions of the team as well as a travel budget for 
+conferences. Furthermore, the BitShares Blockchain Foundation seeks a management fee of 5% of paid invoices for 
+dealing with the on-chain worker proposal, providing a legal framework and offer transparent accounting.
 
 #### Table 1. Bitshares UI Team Fixed Positions (Weekly)
 
@@ -203,26 +205,22 @@ for expenses to suitable conferences according to travel expenses guidelines of 
 
 Description | Amount 
 --|--:
-Travel Budget | $20,000
-**Total USD** | $20,000
-**Total (CNY EQUIVALENT)** | **¥133,300**
-
-Furthermore, the BitShares Blockchain Foundation seeks a
-management fee of 5% of paid invoices for dealing with the 
-on-chain worker proposal, providing a legal framework and offer transparent accounting.
+Travel Budget | up to $20,000
 
 #### Table 3. Summary
 
-Role|Amount (Period)|As Daily|TOTAL BUDGET
---|--|--|--:
-Total Team Roles (Table 1)|$3,625 (weekly)| ~$517.85 |&nbsp;
-Total Community Claims (Table 1)| up to $5,000 (weekly)| ~$715 |&nbsp;
-Travel Expeses (Table 2)| $20,000 (once) | ~$60.8 |&nbsp;
--| &nbsp; | &nbsp; | &nbsp; 
-Escrow Fee 5% (BBF) | up to $452.5 (weekly) | ~$60.8 | $20,815 
-++ Daily Budget | &nbsp; | $1,359 | &nbsp; 
-**TOTAL 46 WEEK BUDGET USD** | &nbsp; | &nbsp; |**$437,565**
-**TOTAL 46 WEEK BUDGET (CNY EQUIVALENT)** | &nbsp; | &nbsp; | **¥2,917,100**
+Role | Amount (Period)
+--|--:
+Team Roles (Table 1)| $3,625 (weekly)
+Community Claims (Table 1)| up to $5,000 (weekly)
+Travel Expeses (Table 2)| up to $20,000 (once)
+-| &nbsp; | &nbsp;
+Total Budget | up to $416,750 (46 weeks)
+-| &nbsp; | &nbsp;
+Escrow Fee 5% | up to ~$452 (weekly) 
+-| &nbsp; | &nbsp; 
+**TOTAL ASKING** | **$437,587.5** (46 weeks)
+equivalent | **~¥2,951,440** (46 weeks)
 
 **Remark**
 
@@ -244,9 +242,17 @@ As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) 
 **Devaluation Multipler**: This Worker introduces a devaluation multiplier to mitigate the impacts of a depreciating BTS token during the active period. We propose to protect against prolonged BTS devaluation of approximately one-third (-20%) by using a 1.25 devaluation multiplier. Initially, BTS will be accumulated at rate 125% of the required daily budget. The BBF will use the accumulated BTS to purchase bitCNY from the market, up to the UI Team Budget detailed above in Table 1.
 
 **Calculations (as of 27 JAN 2019):**
-- 6.75 = USD/CNY foregin exchange rate
-- 3.93824 = bitCNY/BTS price feed
-- 1.25 = Devaluation multiplier to mitigate market fluctuations
-- 45,158 BTS/day ≈ $1,359 USD/day * 6.75 USD/CNY * 3.93824 bitCNY/BTS * 1.25 devaluation multiplier
 
-**Payments**: All payments are converted from USD and remitted in bitCNY with method developed by the BitShares Blockchain Foundation.
+Type | Value
+USD/CNY foreign exchange rate | 6.75
+bitCNY/BTS | 3.93824
+Devaluation multiplier to mitigate market fluctuations | 1.25
+Total asking | $437,587.5
+Worker duration | 46 weeks
+bitCNY peg | 1:1
+
+The daily BTS payout is calculated as follows
+
+    45,156 BTS/Day ≈ $437,587.5 / (46*7 days) * 6.75 CNY/USD * 1 bitCNY/CNY * 3.93824 BTS/bitCNY * 1.25
+
+**Payments**: All payments are converted from USD and remitted in bitCNY, converstion rates will be visible in invoices through the accounting provided by BitShares Blockchain Foundation.
