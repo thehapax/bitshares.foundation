@@ -19,7 +19,7 @@ payments:
 price: up to $437,587.5 (~¥2,953,715)
 duration: 46 weeks
 start: 2019/02/11
-end: 2019/12/29
+end: 2019/12/30
 ---
 
 # Introduction
