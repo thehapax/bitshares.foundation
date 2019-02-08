@@ -187,8 +187,8 @@ Bounties: (2)|&nbsp;|&nbsp;|&nbsp;
 -- Code and UX | up to 125 USD/hour|-open-|40 hours weekly
 **BUDGET FOR BOUNTIES**|&nbsp;|&nbsp;|40 hours weekly
 
-*(1) Unused hours will be designated to coding bounties that are defined by the team in pursuit of key improvements of the UI*
-*(2) Bounty hours include issues in any of the repositories listed in scope. At the moment all issues are treated equal, but we reserve the right to adjust hourly pay depending on the task. Any change would be clearly indicated in the Contributing Guidelines and the issue*
+ - *(1) Unused hours will be designated to coding bounties that are defined by the team in pursuit of key improvements of the UI*
+ - *(2) Bounty hours include issues in any of the repositories listed in scope. At the moment all issues are treated equal, but we reserve the right to adjust hourly pay depending on the task. Any change would be clearly indicated in the Contributing Guidelines and the issue*
 
 #### Table 2. Bitshares UI Team Travel Expeses (Once)
 
