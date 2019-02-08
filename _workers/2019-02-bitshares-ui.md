@@ -244,6 +244,7 @@ As the team size scales or BTS token valuations fluctuate, subsequent Worker(s) 
 **Calculations (as of 27 JAN 2019):**
 
 Type | Value
+--|--:
 USD/CNY foreign exchange rate | 6.75
 bitCNY/BTS | 3.93824
 Devaluation multiplier to mitigate market fluctuations | 1.25
