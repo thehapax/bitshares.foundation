@@ -16,7 +16,7 @@ discussions:
  - name: steemit/@sc-steemit
    url: https://steemit.com/bitshares/@sc-steemit/placeholder
 payments:
-price: up to 437,587.5 USD (2,951,440 CNY)
+price: up to $437,587.5 (¥2,951,440)
 duration: 46 weeks
 start: 2019/02/11
 end: 2019/12/29
