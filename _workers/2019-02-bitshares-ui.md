@@ -39,13 +39,16 @@ The goal of this worker is to build out the reference UI to hightlight all the f
 and tackle one of the root problems in terms of connectivity and reliability of the UI.
 
 **Remark 1**
-There was a personel shift in the team of the BitShares UI. Bill Butler has decided to pass the hat on to 
-Magnus Anderson (@startail), who will assume the role of general project manager. 
-Furthermore, this worker is restructured and moves a bit away from the purely decentralized approach for development 
-(which basically was: anything can be worked on by anyone at anytime) to enforce a tighter schedule to achieve key
-aspects of the development.
+There was a personel shift in the team of the BitShares UI. Bill Butler has decided to leave the UI worker and pass 
+the hat on to Magnus Anderson (@startail), who will be stepping up to the role of general project manager. Additionally, Alex M (@clockwork) will be assisting with issue and fund management.
 
 **Remark 2**
+The previous UI worker had a purely decentralized approach for development, which basically was: 
+Anything can be worked on by anyone at anytime. That had its perks, but also was inefficient in other areas.
+This new worker is restructured and moves a bit away from that for the team in order to enforce a tighter schedule
+to achieve key aspects of the development.
+
+**Remark 3**
 This worker proposal will supercede the remaining of 201808-bitshares-ui proposal, any funds left in the old worker will be transferred to the new worker (currently ~13k bitUSD) to cover outstanding bounties.
 
 # Bounties
@@ -59,7 +62,7 @@ the terms on the [README.md](https://github.com/bitshares/bitshares-ui/blob/deve
 under the Development Process heading. Bounties are paid at a rate of $125/hr.
 
 In contrast to the previous worker, the immediate team mentioned in this proposal must work on high priority issues 
-first (if any exist). This prioritization of issues is done by the team as well and is meant as a self-control measure.
+first. This prioritization of issues is done by the team as well and is meant as a self-control measure and to allow to pursue a defined roadmap.
 There have been cases in the past that important issues are being postponed simply because no one worked on them. And that 
 is unacceptable.
 
