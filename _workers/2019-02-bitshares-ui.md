@@ -9,19 +9,14 @@ name: Magnus Anderson
 company:
   name:
   url:
-status:
-  proposal-vetted: True
-  worker-created: False
-  worker-approved: False
-  worker-paying: False
-  worker-finished: False
+status: draft
 discussions:
  - name: Bitshares Talk
    url: <placeholder>
  - name: steemit/@sc-steemit
    url: https://steemit.com/bitshares/@sc-steemit/placeholder
 payments:
-price: up to 437,565 USD (2,917,100 CNY)
+price: up to 437,587.5 USD (2,951,440 CNY)
 duration: 46 weeks
 start: 2019/02/11
 end: 2019/12/29
@@ -205,22 +200,22 @@ for expenses to suitable conferences according to travel expenses guidelines of 
 
 Description | Amount 
 --|--:
-Travel Budget | up to $20,000
+Travel Budget | up to 20,000 USD
 
 #### Table 3. Summary
 
 Role | Amount (Period)
 --|--:
-Team Roles (Table 1)| $3,625 (weekly)
-Community Claims (Table 1)| up to $5,000 (weekly)
-Travel Expeses (Table 2)| up to $20,000 (once)
+Team Roles (Table 1)| 3,625 USD (weekly)
+Community Claims (Table 1)| up to 5,000 USD (weekly)
+Travel Expeses (Table 2)| up to 20,000 USD (once)
 -| &nbsp; | &nbsp;
-Total Budget | up to $416,750 (46 weeks)
+Total Budget | up to 416,750 USD (46 weeks)
 -| &nbsp; | &nbsp;
-Escrow Fee 5% | up to ~$452 (weekly) 
+Escrow Fee 5% | up to ~452 USD (weekly) 
 -| &nbsp; | &nbsp; 
-**TOTAL ASKING** | **$437,587.5** (46 weeks)
-equivalent | **~¥2,951,440** (46 weeks)
+**TOTAL ASKING** | **437,587.5 USD** (46 weeks)
+equivalent | **~2,951,440 CNY** (46 weeks)
 
 **Remark**
 
