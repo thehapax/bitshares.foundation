@@ -21,7 +21,7 @@ discussions:
  - name: steemit/@sc-steemit
    url: https://steemit.com/bitshares/@sc-steemit/placeholder
 payments:
-price: up to $437,565 (¥2,917,100)
+price: up to 437,565 USD (2,917,100 CNY)
 duration: 46 weeks
 start: 2019/02/11
 end: 2019/12/29
@@ -59,7 +59,7 @@ Those issues will be prioritized like indicated below, anyone in the community w
 able to claim, work and submit a PR for
 that issue. If the PR is accepted, the user will be paid according to
 the terms on the [README.md](https://github.com/bitshares/bitshares-ui/blob/develop/README.md)
-under the Development Process heading. Bounties are paid at a rate of $125/hr.
+under the Development Process heading. Bounties are paid at a rate of up to 125 USD/hour.
 
 In contrast to the previous worker, the immediate team mentioned in this proposal must work on high priority issues 
 first. This prioritization of issues is done by the team as well and is meant as a self-control measure and to allow to pursue a defined roadmap.
@@ -185,18 +185,18 @@ The hours of the fixed positions will be reported transparently together with in
 
 Roles|Rate (USD)|Team Member|Estimated Hours
 -|-|-|-
-Project Manager (1)|$125/hour|Magnus Anderson|9 hours weekly
-UX Coordinator (1)|$125/hour|Ihor Brazhnichenko|7 hours weekly
-Release Management (1)|$125/hour|Stefan Schiessl|9 hours weekly
-Funds and Sprint Management (1)|$125/hour|Alex M|4 hours weekly
+Project Manager (1)| 125 USD/hour|Magnus Anderson|9 hours weekly
+UX Coordinator (1)| 125 USD/hour|Ihor Brazhnichenko|7 hours weekly
+Release Management (1)| 125 USD/hour|Stefan Schiessl|9 hours weekly
+Funds and Sprint Management (1)| 125 USD/hour|Alex M|4 hours weekly
 **TEAM EFFORT**|&nbsp;|&nbsp;|29 hours weekly
 -|&nbsp;|&nbsp;|&nbsp;
 Bounties: (2)|&nbsp;|&nbsp;|&nbsp;
--- Code and UX |$125/hour|-open-|40 hours weekly
+-- Code and UX | up to 125 USD/hour|-open-|40 hours weekly
 **BUDGET FOR BOUNTIES**|&nbsp;|&nbsp;|40 hours weekly
 
 *(1) unused hours will be designated to coding bounties that are defined by the team in pursuit of key improvements of the UI*
-*(2) Bounty hours include issues in any of the repositories listed in scope*
+*(2) Bounty hours include issues in any of the repositories listed in scope, we reserve the right to adjust hourly pay depending on the task, which will be clearly indicated in the Contributing Guidelines*
 
 #### Table 2. Bitshares UI Team Travel Expeses (Once)
 
@@ -248,12 +248,12 @@ Type | Value
 USD/CNY foreign exchange rate | 6.75
 bitCNY/BTS | 3.93824
 Devaluation multiplier to mitigate market fluctuations | 1.25
-Total asking | $437,587.5
+Total asking USD | 437,587.5
 Worker duration | 46 weeks
 bitCNY peg | 1:1
 
 The daily BTS payout is calculated as follows
 
-    45,156 BTS/Day ≈ $437,587.5 / (46*7 Days) * 6.75 CNY/USD * 1 bitCNY/CNY * 3.93824 BTS/bitCNY * 1.25
+    45,156 BTS/Day ≈ 437,587.5 USD / (46*7 Days) * 6.75 CNY/USD * 1 bitCNY/CNY * 3.93824 BTS/bitCNY * 1.25
 
 **Payments**: All payments are converted from USD and remitted in bitCNY, converstion rates will be visible in invoices through the accounting provided by BitShares Blockchain Foundation.
