@@ -3,13 +3,13 @@ layout: worker
 language: en
 bfid: 201902-bitshares-ui
 type: budget
-workerid: 1.14.xxx
+workerid: 1.14.165
 title: BitShares UI Team
 name: Magnus Anderson
 company:
   name:
   url:
-status: draft
+status: on-chain
 discussions:
  - name: Bitshares Talk
    url: <placeholder>
