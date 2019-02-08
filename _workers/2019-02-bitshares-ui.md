@@ -43,9 +43,6 @@ Anything can be worked on by anyone at anytime. That had its perks, but also was
 This new worker is restructured and moves a bit away from that for the team in order to enforce a tighter schedule
 to achieve key aspects of the development.
 
-**Remark 3**
-This worker proposal will supercede the remaining of 201808-bitshares-ui proposal, any funds left in the old worker will be transferred to the new worker (currently ~13k bitUSD) to cover outstanding bounties.
-
 # Bounties
 
 Issues that are in scope (see subsection below)
@@ -87,12 +84,12 @@ we hear from the community.
 
 The team will pursue to ruther the UI in the following aspects
 
-* Refactoring core connectivity and reliability components 
-* Establish a more methodical QA and testing phase before releasing each version
-* Create a series of automated front and backend tests to reduce resurfacing bugs
+* Refactoring core connectivity and reliability components.
+* Establish a more methodical QA and testing phase before releasing each version.
+* Create a series of automated front and backend tests to reduce resurfacing bugs.
 * Finish migration to ANT components complete with a style guide.
 * Further refine the navigation moving away from the sub-tab model.
-* Creating a more modular exchange experience and an easy way for exchanges to brand and configure their own
+* Creating a more modular exchange experience and an easy way for exchanges to brand and configure their own.
 
 In addition to that, all community feedback will be considered and groomed into issues where feasible. 
 
