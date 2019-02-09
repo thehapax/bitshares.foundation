@@ -2,22 +2,24 @@
 language: en
 layout: worker
 type: budget
-bfid: 201903-atomic-cross-chain-swaps
+bfid: 201904-cabinet-multisig-dexbot-wp2
 workerid:
-title: "JavaScript: Atomic Cross-Chain Swaps Framework"
-name: Everbloom
+title: "Cabinet Multisig DEXbot WP2"
+name: 
 company:
- name: Everbloom
- url: https://everbloom.co/
+ name: 
+ url: 
 discussions:
 # - name: bitsharestalk
 #   url: 
 # - name: steemit
 #   url: 
-price: $120,000 (in CNY)
-duration: 20 weeks
-start: 2019/03/01
-end: 2018/09/30
+# - name: telegram
+#   url: t.me/DEXBotbts
+price: $148,800 (in USD)
+duration: 6 months
+start: 2019/01/01
+end: 2018/06/30
 paymentaccount:
 ---
 
@@ -40,7 +42,6 @@ Increased liquidity across major trading pairs will greatly benefit all BitShare
 
 The Cabinet believes that while Tweets and social media articles are great, a more direct marketing approach once DEXBot is suitable for mass adoption with personal attention can take DEXBot to the next level. We plan to use the next 6 months to prepare for this. Spending a little time each month initiating and maintaining a direct line of communication between DEXBot and high-value 3rd parties.
 
- 
 
 ## Value
 
@@ -60,11 +61,12 @@ From preliminary research conducted into the t.me/DEXBotbts telegram chat – 50
 
 So far, we have asked developers to work on features considered important by the cabinet and community, and paid per hour. We want to improve this collaboration process by changing to a reverse auction bounty model.
 
-Permie and Octomatic will review bugreports and feature requests of the community, prioritize them, and assign them an initial bounty.
-Any person can reserve a task/bounty to himself from Permie.
-If a task is not taken within a week, the bounty will be increased by 10%. The bounty will effectively double in 2 months. (The Cabinet reserves the right to change this policy to react to circumstance as needed.)
-Once ready, a task can be recognized by making a Pull Request in github. The lead dev will review, ask for changes, and finally merge the changes.
-Once merged, the bounty will be paid. Payments will happen in batches once every month.
+1. Permie and Octomatic will review bugreports and feature requests of the community, prioritize them, and assign them an initial bounty.
+2. Any person can reserve a task/bounty to himself from Permie.
+3. If a task is not taken within a week, the bounty will be increased by 10%. The bounty will effectively double in 2 months. (The Cabinet reserves the right to change this policy to react to circumstance as needed.)
+4. Once ready, a task can be recognized by making a Pull Request in github. The lead dev will review, ask for changes, and finally merge the changes.
+5. Once merged, the bounty will be paid. Payments will happen in batches once every month.
+
 The Cabinet (multisig escrow group) will oversee Permie’s work, and approve payments if he has worked in accordance with Cabinet’s guidance.
 
 The increased rate in bounty price is to find a balance between reaching “market rate” (as decided by the bidding independent developer) ASAP, and getting tasks done as cheaply as possible.
@@ -77,13 +79,13 @@ There will be unpublicised price ceilings on the Reverse Auction bounties so tha
 
  
 
-Bugs
+## Bugs
 
 Bounties will initially focus on known bugs. Bugs cause unexpected behaviour and eliminating unexpected behaviour is critical for a financial application.
 
  
 
-Quality Assurance
+## Quality Assurance
 
 A Quality Assurance Engineer will also be hired to ensure DEXBot runs as smoothly as possible. The QA lead will be assisted by the DEXBot community testers and shadowed by a Deputy QA Engineer; who will be separated from the Lead QA Engineer to mitigate bad-collusion. The shadow QA Engineer is important for redundancy and to retain essential knowledge of QA protocols and history in the event of the unexpected.
 
@@ -91,27 +93,23 @@ A “Quality Assurance Best Practices” document will be followed to formalise 
 
 Minor Integration Testing bounties will be offered to collect data on how DEXBot performs and installs on Windows, MacOS, Raspberry Pi and Linux. These small bounties will be easily accessible to the wider DEXBot community and will encourage participation with our project.
 
- 
 
-Additional Strategy Development
+## Additional Strategy Development
 
 The DEXBot community is regularly discussing new strategies to implement. All strategies that add liquidity or increase trade activity on the DEX will be considered and those suitable will be offered via Reverse Auction Bounty. Each additional strategy added to the bot increases the value, utility and liquidity on the DEX.
 
  
-
-Improving the User Experience
+## Improving the User Experience
 
 Small incremental improvements to the application will be considered. However the overall design is a good enough basis, and shall not be changed.
 
- 
 
-Documentation and Website
+## Documentation and Website
 
 We will create and publish more documentation and user guides. Comprehensive information will increase the confidence of users  and thus usage of the software.”
-
  
 
-Budget
+## Budget
 
 Additional Development of the DEXBot code are handled by developers who accept bounties and work under the direction of the Project Manager. Payments are facilitated and overseen by The Cabinet and Pull Requests will be merged by the Lead Developer.
 
@@ -123,7 +121,7 @@ Furthermore, the BitShares Cabinet will retain a management fee in billed at $50
 
  
 
-Financial Services Networking
+## Financial Services Networking
 
 DEXBot has attracted noteworthy individuals and Financial Services firms to its Twitter account and online PR. Quite a few in fact.
 
@@ -133,7 +131,7 @@ We want to keep their attention and make sure that DEXBot and Bitshares stay on 
 
  
 
-Bitshares 3rd Party Exchange Co-operation
+## Bitshares 3rd Party Exchange Co-operation
 
  50% of our DEXBot telegram community members are from outside Bitshares. Many arrived from google searches for “example-bts-exchange trading bot” google searches.
 
@@ -143,14 +141,16 @@ We want to spend 16hrs per month to liaise with these exchanges to make sure DEX
 
  
 
-Lead Developer/Supporting Dev Role
+## Lead Developer/Supporting Dev Role
 
 Contributing developers need guidance from the Lead Dev. To ensure a quick response time both the Lead Dev and Supporting Dev will be available 10 hours per day each to monitor a telegram/slack channel where only Bounty Contributors vetted by the PM may post.
+
 The Lead Dev role and the Supporting Dev roles will be sporadic so a flat fee has been chosen to compensate them and to ensure prompt response times.
+
 During times where both Lead and Supporting Devs are unavailable the Project Manager will help Bounty Contributors refer to a “Bounty Guidance Template” written by the Lead Dev.
 
 
-Individuals Involved
+## Individuals Involved
 
 Octomatic       
 Role: Lead Developer,Senior Contribution Auditor, Code Review
@@ -181,12 +181,12 @@ Financial Services experience.
 As Project Manager Permie will liaise with the Development team and the Cabinet. He will discuss and supply project direction, organise bounties, vet potential new developers, review and prioritise twitter leads and organise phone meetings with financial firms to encourage further interest in DEXBot.
  
 
-Comunity
+## Community
 
 We have a growing community of contributors who are likely to contribute but not required to. Project Management will heavily involve sourcing and encouraging new developers to contribute to DEXBot via the bounty system. We have a telegram room of over 900 members and we want as many people as possible to come into contact with DEXBot development.
 
  
-Worker Proposal Detail
+## Worker Proposal Detail
 
 The Cabinet managing the multisignature spending authority of the WP funds do not know each other personally and live in multiple jurisdictions – ensuring a decentralised nature to Cabinet Multi-Sig authority. All transactions require 3/6 approval.
 
