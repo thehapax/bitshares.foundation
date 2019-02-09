@@ -6,7 +6,7 @@ bfid: 201904-cabinet-multisig-dexbot-wp2
 workerid:
 title: "Cabinet Multisig DEXbot WP2"
 name: 
-company:dexbot
+company:
  name: bitshares dexbot
  url: https://www.dexbot.info/
 discussions:
