@@ -1,4 +1,29 @@
-Introduction
+---
+language: en
+layout: worker
+type: budget
+bfid: 201903-atomic-cross-chain-swaps
+workerid:
+title: "JavaScript: Atomic Cross-Chain Swaps Framework"
+name: Everbloom
+company:
+ name: Everbloom
+ url: https://everbloom.co/
+discussions:
+# - name: bitsharestalk
+#   url: 
+# - name: steemit
+#   url: 
+price: $120,000 (in CNY)
+duration: 20 weeks
+start: 2019/03/01
+end: 2018/09/30
+paymentaccount:
+---
+
+# Dexbot Worker Proposal 2
+
+## Introduction
 This Worker Proposal will continue the DEXBot Project. Over the past year the DEXBot team has built a basic market making liquidity program (a trading bot) and created a community to help address the liquidity problems currently present in many of the BitShares markets.
 
 The DEXBot project is off to a great start and is already providing tangible benefits to both Bitshares token holders and the larger ecosystem. We believe the project should continue to scale and require worker funding to fully realize all of the potential benefits of open-source market making bots.
@@ -17,7 +42,7 @@ The Cabinet believes that while Tweets and social media articles are great, a mo
 
  
 
-Value
+## Value
 
 People come to the decentralized BitShares blockchain to trade and exchange various cryptocurrencies. Liquidity – the ability to easily buy and sell an asset at a fair price – has long been an issue within the Bitshares decentralized exchange. By the adding of liquidity on various trading pairs, customers can more easily trade, get a better price, and find more stable markets. While primarily a software development project, DEX liquidity greatly benefits from cultivating relationships and encouraging DEXBot use from prominent individuals in the wider market making community.
 
@@ -25,13 +50,13 @@ The DEXBot software builds liquidity on markets, is open for all to use, increas
 
  
 
-PR and Marketing
+## PR and Marketing
 
 From preliminary research conducted into the t.me/DEXBotbts telegram chat – 50% of our community members are from outside the Bitshares Community. 50% have no shared groups in common the with Cabinet except DEXBotbts. This shows that our online articles are drawing in crowds. We want to increase our efforts with online PR as it has been proven to be very fruitful so far.
 
  
 
-Bounties
+## Bounties
 
 So far, we have asked developers to work on features considered important by the cabinet and community, and paid per hour. We want to improve this collaboration process by changing to a reverse auction bounty model.
 
