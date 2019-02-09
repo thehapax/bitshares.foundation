@@ -6,9 +6,9 @@ bfid: 201904-cabinet-multisig-dexbot-wp2
 workerid:
 title: "Cabinet Multisig DEXbot WP2"
 name: 
-company:
- name: 
- url: 
+company:dexbot
+ name: bitshares dexbot
+ url: https://www.dexbot.info/
 discussions:
 # - name: bitsharestalk
 #   url: 
@@ -152,32 +152,33 @@ During times where both Lead and Supporting Devs are unavailable the Project Man
 
 ## Individuals Involved
 
-Octomatic       
-Role: Lead Developer,Senior Contribution Auditor, Code Review
-Experienced Python Dev
-Active in DEXBot and community and large contributor
-Years of experience.
+#### Octomatic       
+* Role: Lead Developer,Senior Contribution Auditor, Code Review
+* Experienced Python Dev
+* Active in DEXBot and community and large contributor
+* Years of experience.
 
-Vvk
-Role: Supporting Dev, Contribution Auditor
-Active in DEXBot community and large contributor
-Experienced in GitHub Maintenance
+#### Vvk
+* Role: Supporting Dev, Contribution Auditor
+* Active in DEXBot community and large contributor
+* Experienced in GitHub Maintenance
 
-Codaone
-DEXBot lead devs last year
-Expert Knowledge in DEXBot code
-Established Development Company
+#### Codaone
+* DEXBot lead devs last year
+* Expert Knowledge in DEXBot code
+* Established Development Company
 
-Permie 
-Role: Project Manager
-4 years experience in BitShares Community.
-Gained the trust of multiple BitShares Whales and prominent community members.
-Organised and encouraged the DEXBot Cabinet and project inception.
-Co-developed the Staggered Orders Strategy.
-Wrote the first prominent paper wallet guide for BitShares 1.0.
-Wrote extensive business and economic analysis of “Why BitShares will succeed.” Expanding on Bytemaster’s Austrian Economic Theory.
-Business-to-business Client Support experience.
-Financial Services experience.
+#### Permie 
+* Role: Project Manager
+* 4 years experience in BitShares Community.
+* Gained the trust of multiple BitShares Whales and prominent community members.
+* Organised and encouraged the DEXBot Cabinet and project inception.
+* Co-developed the Staggered Orders Strategy.
+* Wrote the first prominent paper wallet guide for BitShares 1.0.
+* Wrote extensive business and economic analysis of “Why BitShares will succeed.” Expanding on Bytemaster’s Austrian Economic Theory.
+* Business-to-business Client Support experience.
+* Financial Services experience.
+
 As Project Manager Permie will liaise with the Development team and the Cabinet. He will discuss and supply project direction, organise bounties, vet potential new developers, review and prioritise twitter leads and organise phone meetings with financial firms to encourage further interest in DEXBot.
  
 
